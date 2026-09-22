@@ -1,0 +1,3001 @@
+Customer_ID,Age,Gender,Tenure_Months,Monthly_Charges,Total_Charges,Contract_Type,Payment_Method,Internet_Service,Customer_Support_Calls,Churn
+10001,56,Male,43,3132.19,33157.99,Monthly,Credit Card,Fiber,14,No
+10002,69,Female,10,1698.04,24552.47,Quarterly,UPI,DSL,2,Yes
+10003,46,Male,1,641.04,152375.27,Monthly,UPI,None,4,No
+10004,32,Male,49,1037.52,185573.21,Yearly,UPI,Fiber,3,No
+10005,60,Female,11,3300.36,92198.36,Quarterly,UPI,DSL,6,No
+10006,25,Male,22,4704.89,132229.69,Monthly,UPI,DSL,5,No
+10007,38,Male,17,1429.4,182977.07,Yearly,Debit Card,None,11,No
+10008,56,Female,61,3807.62,18932.61,Monthly,Debit Card,None,2,No
+10009,36,Male,61,4399.03,154325.81,Monthly,Net Banking,None,10,No
+10010,40,Female,37,2843.97,123746.56,Monthly,Debit Card,None,7,No
+10011,28,Female,66,3511.7,120128.8,Yearly,Credit Card,DSL,7,No
+10012,28,Female,37,4167.57,59215.55,Yearly,Net Banking,None,13,No
+10013,41,Female,66,1673.04,137094.78,Monthly,Debit Card,None,1,No
+10014,53,Female,60,1836.03,159164.75,Quarterly,Net Banking,DSL,6,No
+10015,57,Male,0,502.82,23458.77,Quarterly,Net Banking,DSL,13,Yes
+10016,41,Male,44,4833.92,107170.76,Quarterly,UPI,Fiber,0,No
+10017,20,Female,27,4628.95,21151.77,Monthly,Net Banking,DSL,1,Yes
+10018,39,Female,20,3940.56,174642.23,Monthly,Debit Card,Fiber,7,Yes
+10019,19,Male,12,855.84,102019.71,Quarterly,UPI,None,11,No
+10020,41,Female,26,2513.76,161785.17,Monthly,Debit Card,Fiber,0,No
+10021,61,Female,6,958.51,74249.04,Monthly,UPI,Fiber,1,Yes
+10022,47,Female,21,571.64,25890.57,Quarterly,Debit Card,None,11,No
+10023,55,Male,52,3272.82,9258.36,Monthly,UPI,None,0,No
+10024,19,Male,3,4823.73,57020.41,Yearly,UPI,None,4,No
+10025,38,Female,22,4562.91,49602.51,Monthly,Credit Card,Fiber,6,Yes
+10026,50,Female,69,3635.4,112510.04,Yearly,Debit Card,DSL,5,No
+10027,29,Male,32,934.88,5326.03,Monthly,Net Banking,DSL,5,No
+10028,39,Male,27,1733.74,104593.54,Monthly,UPI,DSL,5,No
+10029,61,Female,7,1940.26,78962.58,Monthly,Debit Card,None,7,No
+10030,42,Female,0,3934.18,115847.33,Quarterly,UPI,None,4,No
+10031,66,Male,36,4110.12,140781.09,Quarterly,Credit Card,DSL,14,No
+10032,44,Male,62,2232.98,127184.3,Monthly,Credit Card,None,9,No
+10033,59,Male,21,2380.48,196944.23,Monthly,Credit Card,Fiber,6,No
+10034,45,Female,69,700.29,28514.8,Quarterly,Credit Card,Fiber,2,No
+10035,33,Male,20,1801.12,86517.66,Monthly,Net Banking,None,8,No
+10036,32,Female,34,2530.78,85541.32,Quarterly,Net Banking,DSL,9,No
+10037,64,Male,4,1026.42,83993.59,Monthly,UPI,DSL,2,No
+10038,68,Male,59,2539.7,133095.88,Quarterly,Debit Card,Fiber,13,No
+10039,61,Male,45,4339.29,98475.78,Quarterly,Credit Card,None,13,Yes
+10040,69,Male,49,3115.94,103969.08,Yearly,Credit Card,DSL,5,No
+10041,20,Female,47,855.18,87038.84,Quarterly,Net Banking,DSL,2,No
+10042,54,Female,5,1362.52,198348.19,Monthly,Net Banking,None,0,No
+10043,68,Male,55,2635.45,185584.71,Monthly,Credit Card,None,0,No
+10044,24,Female,58,2126.69,62237.11,Quarterly,Debit Card,DSL,2,Yes
+10045,38,Male,28,2114.27,23207.19,Monthly,UPI,None,3,No
+10046,26,Male,70,2881.7,168113.18,Yearly,UPI,None,13,No
+10047,56,Male,17,3129.78,199436.88,Quarterly,UPI,None,1,Yes
+10048,35,Male,1,4085.88,59229.17,Monthly,UPI,DSL,8,Yes
+10049,21,Female,7,2034.35,72199.2,Monthly,Debit Card,Fiber,14,No
+10050,42,Male,53,4124.6,188385.0,Monthly,Debit Card,None,10,No
+10051,31,Male,37,2023.75,142514.77,Monthly,Debit Card,DSL,7,No
+10052,67,Female,47,749.45,59832.03,Monthly,Net Banking,Fiber,11,No
+10053,26,Male,26,2993.84,116628.25,Monthly,Credit Card,DSL,12,No
+10054,43,Male,19,3145.56,188901.69,Monthly,Debit Card,DSL,2,No
+10055,19,Male,11,4705.43,162550.81,Monthly,UPI,DSL,6,No
+10056,37,Female,42,3767.28,148624.71,Monthly,Debit Card,Fiber,3,No
+10057,45,Male,60,4629.98,147662.27,Monthly,Credit Card,DSL,4,No
+10058,64,Female,30,4587.56,36426.04,Monthly,Net Banking,Fiber,3,Yes
+10059,24,Male,60,3220.58,165111.57,Quarterly,UPI,None,8,No
+10060,61,Male,66,2874.93,55947.61,Monthly,Net Banking,Fiber,10,No
+10061,25,Female,34,3008.48,186142.96,Monthly,Debit Card,DSL,6,No
+10062,64,Male,14,4902.49,73563.36,Quarterly,UPI,Fiber,12,Yes
+10063,52,Male,15,3979.25,171674.42,Yearly,UPI,DSL,3,No
+10064,31,Female,12,978.2,53980.47,Monthly,Debit Card,None,12,Yes
+10065,34,Female,34,4002.93,103390.86,Monthly,Debit Card,Fiber,7,No
+10066,53,Female,58,1267.42,22270.17,Monthly,Credit Card,None,1,No
+10067,67,Female,20,2513.08,132363.66,Monthly,Debit Card,Fiber,6,No
+10068,57,Female,53,1447.07,167379.78,Yearly,Debit Card,DSL,10,Yes
+10069,21,Male,29,3603.12,143971.01,Quarterly,Debit Card,Fiber,0,No
+10070,19,Female,47,4447.89,105128.44,Quarterly,UPI,None,7,No
+10071,23,Male,34,1806.63,9978.06,Monthly,Credit Card,Fiber,12,No
+10072,59,Male,37,869.05,186754.76,Quarterly,UPI,None,13,No
+10073,21,Male,30,1843.22,141392.42,Monthly,Debit Card,None,11,No
+10074,46,Female,23,3525.63,149426.98,Monthly,Credit Card,DSL,13,No
+10075,35,Female,48,1979.42,159141.43,Monthly,Debit Card,Fiber,12,No
+10076,43,Male,31,1751.5,149800.94,Monthly,UPI,None,14,No
+10077,61,Female,54,1329.96,88782.12,Monthly,UPI,DSL,5,Yes
+10078,51,Female,57,2738.82,146990.74,Quarterly,Debit Card,DSL,11,No
+10079,27,Female,2,1741.77,125380.33,Monthly,Credit Card,DSL,4,No
+10080,53,Female,68,3789.55,170949.25,Monthly,UPI,None,8,No
+10081,31,Male,9,844.8,160689.5,Monthly,Debit Card,Fiber,8,Yes
+10082,48,Male,24,3488.15,9233.5,Monthly,Net Banking,None,2,No
+10083,65,Female,67,1569.02,76398.53,Quarterly,Debit Card,DSL,8,No
+10084,32,Male,60,2701.76,7908.51,Quarterly,Debit Card,None,12,No
+10085,25,Female,28,1787.4,21312.91,Quarterly,Credit Card,None,14,No
+10086,31,Female,18,3752.46,120680.73,Monthly,Debit Card,DSL,12,No
+10087,40,Male,42,4753.88,174890.54,Quarterly,Net Banking,Fiber,8,Yes
+10088,57,Male,65,4626.85,24845.13,Yearly,Debit Card,DSL,1,No
+10089,38,Male,60,3125.42,90766.77,Monthly,Net Banking,DSL,4,No
+10090,33,Female,42,2581.75,182264.9,Monthly,UPI,None,10,Yes
+10091,62,Male,24,4182.35,163045.9,Yearly,Debit Card,DSL,1,Yes
+10092,35,Female,19,3574.97,104413.91,Monthly,Credit Card,None,0,No
+10093,64,Male,47,1326.04,154542.72,Monthly,Debit Card,DSL,6,Yes
+10094,41,Male,23,4194.14,105016.06,Monthly,Net Banking,DSL,3,No
+10095,43,Female,10,2429.98,32460.38,Monthly,Net Banking,Fiber,4,No
+10096,42,Female,54,1350.44,25822.49,Monthly,Credit Card,DSL,3,No
+10097,62,Female,27,1768.09,38485.28,Monthly,Net Banking,Fiber,5,Yes
+10098,58,Female,68,1703.87,70833.5,Quarterly,Debit Card,DSL,10,No
+10099,46,Female,62,2836.43,186175.32,Monthly,Net Banking,DSL,1,Yes
+10100,32,Female,58,1554.67,160136.0,Quarterly,Debit Card,DSL,7,No
+10101,62,Female,4,1056.05,87127.51,Monthly,Debit Card,Fiber,3,Yes
+10102,18,Female,50,1056.61,99122.27,Yearly,Net Banking,None,7,No
+10103,42,Male,20,3124.74,53856.28,Yearly,Credit Card,Fiber,2,No
+10104,24,Female,11,3806.42,141166.24,Quarterly,UPI,DSL,11,No
+10105,26,Female,49,1946.9,160750.37,Yearly,Credit Card,None,11,No
+10106,41,Male,3,655.93,48542.03,Quarterly,UPI,DSL,10,No
+10107,18,Female,41,1072.51,9322.5,Yearly,Credit Card,Fiber,4,No
+10108,61,Male,37,4616.13,125153.9,Monthly,Debit Card,Fiber,11,No
+10109,25,Male,24,2720.95,112939.91,Monthly,Debit Card,None,2,No
+10110,41,Female,13,2541.08,81024.1,Quarterly,Net Banking,Fiber,11,No
+10111,28,Male,31,671.22,129134.89,Monthly,UPI,DSL,14,Yes
+10112,68,Female,10,3778.87,110572.05,Quarterly,UPI,None,12,Yes
+10113,34,Male,60,2876.31,50865.73,Yearly,Net Banking,DSL,6,No
+10114,25,Male,17,1409.36,80148.07,Monthly,Credit Card,None,14,No
+10115,52,Male,26,995.33,86194.6,Quarterly,Net Banking,None,2,Yes
+10116,52,Female,54,2225.25,176169.35,Monthly,Credit Card,DSL,14,No
+10117,50,Female,53,4267.23,192219.93,Monthly,Net Banking,Fiber,11,No
+10118,22,Male,20,4393.83,178707.27,Monthly,UPI,DSL,7,Yes
+10119,59,Male,43,3212.81,144116.43,Monthly,UPI,Fiber,8,Yes
+10120,56,Female,4,3773.91,117413.55,Monthly,Credit Card,Fiber,12,No
+10121,58,Female,40,1018.2,138163.07,Monthly,UPI,DSL,11,No
+10122,45,Male,58,3146.57,187882.73,Monthly,UPI,None,1,Yes
+10123,24,Male,53,3501.35,50749.75,Quarterly,UPI,DSL,2,No
+10124,26,Female,21,1403.21,107488.98,Quarterly,UPI,None,11,No
+10125,25,Female,64,4460.7,138232.0,Monthly,Debit Card,Fiber,12,No
+10126,29,Female,63,1377.49,136170.15,Monthly,Net Banking,None,6,Yes
+10127,51,Female,70,1910.65,51203.51,Yearly,Net Banking,DSL,4,No
+10128,50,Female,3,3292.51,117759.57,Quarterly,Debit Card,None,9,No
+10129,65,Male,64,3372.58,159386.72,Monthly,UPI,Fiber,6,No
+10130,40,Female,14,3647.23,95540.72,Monthly,Net Banking,Fiber,1,No
+10131,41,Male,21,1004.05,158866.32,Quarterly,Net Banking,None,13,No
+10132,54,Female,46,4322.59,72616.64,Quarterly,Net Banking,Fiber,13,No
+10133,52,Male,45,2897.81,187813.27,Monthly,Credit Card,Fiber,3,No
+10134,61,Female,13,2620.95,107251.76,Monthly,Debit Card,None,0,No
+10135,57,Female,49,4914.94,119593.64,Monthly,Credit Card,Fiber,14,No
+10136,39,Male,19,3831.7,7240.95,Quarterly,Credit Card,None,4,No
+10137,44,Male,49,1031.03,34883.56,Monthly,Debit Card,None,7,No
+10138,52,Female,32,3904.43,126953.84,Monthly,Net Banking,Fiber,0,No
+10139,18,Female,58,928.62,84554.2,Monthly,Credit Card,None,6,Yes
+10140,52,Female,42,623.62,102124.59,Yearly,Net Banking,Fiber,6,Yes
+10141,54,Female,11,2316.32,13531.31,Quarterly,Credit Card,Fiber,6,No
+10142,64,Female,39,4971.1,166992.91,Quarterly,Net Banking,Fiber,14,No
+10143,31,Male,19,1286.98,157116.61,Quarterly,UPI,DSL,0,Yes
+10144,20,Male,37,3526.9,37885.44,Monthly,UPI,Fiber,11,No
+10145,18,Female,2,1280.28,127231.54,Yearly,UPI,None,10,Yes
+10146,22,Male,27,3761.54,163844.73,Monthly,Debit Card,None,2,No
+10147,43,Male,55,2774.09,128529.97,Quarterly,UPI,None,10,Yes
+10148,31,Male,12,3559.87,62769.22,Monthly,Credit Card,DSL,1,No
+10149,56,Female,65,1412.93,131566.12,Monthly,Net Banking,DSL,14,No
+10150,44,Male,36,3855.33,42881.89,Monthly,Net Banking,None,14,No
+10151,26,Female,48,4980.29,64332.74,Quarterly,Net Banking,None,4,Yes
+10152,32,Male,65,3495.43,48773.86,Quarterly,Net Banking,DSL,1,No
+10153,32,Female,35,2720.66,111828.1,Monthly,Credit Card,None,12,No
+10154,43,Male,53,4654.28,22537.1,Monthly,Net Banking,Fiber,13,No
+10155,59,Female,25,571.33,186728.77,Yearly,Credit Card,Fiber,4,No
+10156,30,Female,71,3784.66,67368.96,Monthly,Credit Card,None,4,No
+10157,68,Male,39,4499.36,44575.06,Quarterly,Net Banking,Fiber,3,Yes
+10158,49,Female,42,777.54,99813.41,Quarterly,Net Banking,None,10,Yes
+10159,56,Female,21,2525.29,56122.57,Monthly,Net Banking,DSL,6,No
+10160,66,Female,19,1421.24,107445.91,Monthly,Credit Card,None,9,No
+10161,69,Female,7,3049.33,70353.32,Monthly,Debit Card,DSL,5,No
+10162,49,Female,28,3422.94,27281.3,Monthly,Credit Card,Fiber,1,No
+10163,21,Female,39,1861.8,53913.15,Monthly,Debit Card,Fiber,14,No
+10164,47,Female,29,2569.92,88249.53,Monthly,Net Banking,Fiber,3,Yes
+10165,54,Female,54,1757.03,7028.35,Monthly,Credit Card,None,12,No
+10166,40,Male,15,2162.26,154357.86,Quarterly,Net Banking,DSL,13,No
+10167,56,Male,45,1217.93,124743.09,Quarterly,Debit Card,DSL,10,No
+10168,62,Female,61,4485.02,120670.56,Monthly,Debit Card,Fiber,6,No
+10169,32,Female,6,545.05,109663.94,Monthly,Credit Card,Fiber,8,Yes
+10170,60,Male,44,4470.84,118472.32,Monthly,Credit Card,DSL,8,Yes
+10171,46,Male,58,3072.55,186995.74,Monthly,Credit Card,None,11,No
+10172,53,Male,55,1992.46,2705.27,Quarterly,Credit Card,Fiber,2,No
+10173,30,Female,47,3753.76,10512.14,Monthly,UPI,None,0,No
+10174,49,Male,26,2784.88,39107.19,Quarterly,UPI,Fiber,8,No
+10175,24,Female,52,2745.99,34292.97,Monthly,Net Banking,Fiber,7,No
+10176,68,Female,34,995.64,37057.7,Quarterly,Debit Card,None,6,No
+10177,39,Male,50,2252.82,134716.83,Monthly,Debit Card,None,5,No
+10178,45,Female,36,1584.79,92437.18,Quarterly,Net Banking,None,13,No
+10179,19,Female,56,570.63,198364.0,Yearly,Net Banking,None,14,No
+10180,59,Female,7,2120.45,46150.3,Quarterly,Net Banking,DSL,9,No
+10181,62,Female,19,904.2,62855.19,Quarterly,UPI,DSL,6,No
+10182,23,Male,52,1655.74,196863.9,Monthly,Net Banking,Fiber,10,No
+10183,45,Male,11,916.32,166519.87,Yearly,Debit Card,Fiber,8,No
+10184,45,Female,48,954.24,94490.04,Monthly,Net Banking,Fiber,5,Yes
+10185,61,Female,16,1395.55,111364.78,Monthly,Credit Card,DSL,14,No
+10186,61,Male,63,4999.32,168792.41,Monthly,Debit Card,None,13,No
+10187,37,Female,41,509.83,96715.07,Yearly,Debit Card,Fiber,13,No
+10188,47,Male,28,3374.03,41998.72,Yearly,Debit Card,DSL,9,Yes
+10189,28,Female,18,1135.6,165860.46,Yearly,UPI,Fiber,2,No
+10190,45,Female,10,4642.83,108016.73,Quarterly,UPI,DSL,12,No
+10191,42,Male,49,921.35,31455.48,Monthly,Debit Card,None,13,No
+10192,56,Male,70,4797.78,101611.58,Yearly,Credit Card,DSL,2,No
+10193,50,Male,57,3249.17,83227.47,Yearly,Debit Card,None,3,No
+10194,18,Male,33,505.71,175491.66,Monthly,UPI,Fiber,9,No
+10195,44,Female,19,4523.03,26085.03,Monthly,Credit Card,None,12,Yes
+10196,69,Male,49,2847.7,175166.75,Quarterly,Debit Card,DSL,13,No
+10197,30,Female,9,1682.01,102929.99,Yearly,UPI,Fiber,14,No
+10198,58,Male,31,3952.76,81468.52,Yearly,Credit Card,Fiber,13,No
+10199,20,Male,51,4669.99,33231.47,Yearly,Net Banking,DSL,9,No
+10200,56,Female,14,2676.61,140462.77,Yearly,Net Banking,None,7,No
+10201,23,Male,2,1919.99,185434.54,Yearly,Debit Card,DSL,9,No
+10202,25,Male,36,4050.25,75700.09,Quarterly,Net Banking,None,8,No
+10203,44,Male,39,3568.03,49075.42,Quarterly,UPI,None,13,No
+10204,26,Male,71,4499.39,111418.52,Monthly,Credit Card,Fiber,7,No
+10205,54,Female,39,3616.31,159441.0,Quarterly,Debit Card,None,10,Yes
+10206,50,Female,55,1595.88,1749.77,Monthly,Credit Card,Fiber,9,No
+10207,68,Male,22,4692.47,126644.11,Yearly,Credit Card,DSL,1,No
+10208,59,Male,10,971.76,119706.68,Monthly,Credit Card,DSL,3,No
+10209,61,Male,63,1705.74,64312.28,Monthly,UPI,Fiber,3,No
+10210,41,Female,7,2840.88,90833.18,Monthly,Debit Card,Fiber,11,Yes
+10211,32,Female,55,3045.84,50145.68,Quarterly,Net Banking,None,1,No
+10212,49,Female,59,568.9,158187.26,Monthly,Credit Card,Fiber,12,No
+10213,49,Female,9,4012.58,127272.45,Monthly,Credit Card,DSL,7,Yes
+10214,41,Male,38,2127.23,107009.61,Monthly,Credit Card,Fiber,2,No
+10215,58,Male,27,2328.88,79112.71,Monthly,UPI,Fiber,1,Yes
+10216,69,Male,48,4142.16,58985.49,Monthly,Net Banking,Fiber,6,No
+10217,66,Female,35,2206.78,164724.56,Monthly,Credit Card,None,14,Yes
+10218,66,Male,12,712.51,90830.13,Monthly,UPI,Fiber,0,Yes
+10219,69,Female,35,1293.98,100788.04,Monthly,UPI,None,14,Yes
+10220,29,Female,25,4801.56,104644.92,Monthly,Credit Card,None,5,No
+10221,56,Male,3,816.82,90225.02,Monthly,Credit Card,Fiber,12,No
+10222,19,Male,63,2097.19,51961.6,Yearly,UPI,None,12,Yes
+10223,20,Male,37,2764.31,24947.75,Monthly,UPI,Fiber,2,No
+10224,66,Female,21,2719.76,20608.92,Monthly,Credit Card,DSL,12,Yes
+10225,54,Female,1,517.82,151735.04,Monthly,UPI,DSL,2,Yes
+10226,66,Male,30,2755.23,45482.04,Monthly,UPI,None,14,No
+10227,34,Male,10,2226.98,12078.89,Monthly,Credit Card,DSL,4,Yes
+10228,66,Female,45,4874.36,159705.96,Monthly,Credit Card,Fiber,13,No
+10229,19,Male,61,1216.22,31658.27,Quarterly,Debit Card,None,2,No
+10230,19,Female,68,2093.69,125404.07,Quarterly,Net Banking,Fiber,11,Yes
+10231,45,Female,63,2387.67,68390.01,Monthly,Credit Card,None,3,No
+10232,40,Male,9,2258.12,26169.57,Quarterly,Credit Card,None,12,No
+10233,54,Male,39,3496.24,83481.71,Monthly,Credit Card,None,12,No
+10234,49,Male,23,1469.81,3946.96,Yearly,Net Banking,None,14,Yes
+10235,50,Male,43,1494.82,168367.95,Monthly,Debit Card,DSL,2,No
+10236,18,Female,59,3781.45,103186.09,Quarterly,UPI,DSL,6,No
+10237,36,Female,61,2751.31,28692.84,Monthly,Net Banking,DSL,2,Yes
+10238,19,Female,16,2368.2,48159.08,Yearly,Credit Card,None,13,No
+10239,61,Male,64,1261.41,90147.06,Monthly,Credit Card,DSL,9,Yes
+10240,43,Female,56,1343.87,38585.01,Monthly,Debit Card,None,3,No
+10241,49,Male,54,547.48,54451.23,Quarterly,Debit Card,DSL,1,No
+10242,23,Male,52,911.42,107342.73,Monthly,Debit Card,None,1,Yes
+10243,49,Male,55,3005.77,166689.19,Quarterly,UPI,DSL,8,Yes
+10244,21,Male,8,4513.43,80966.1,Quarterly,Net Banking,DSL,10,No
+10245,28,Male,21,1792.24,143678.08,Monthly,Net Banking,DSL,0,No
+10246,34,Male,12,1974.86,175460.16,Monthly,Debit Card,None,0,No
+10247,55,Female,47,1020.23,44043.89,Monthly,UPI,None,9,No
+10248,41,Male,17,2248.84,161631.2,Quarterly,Net Banking,DSL,0,Yes
+10249,22,Female,39,667.5,151723.04,Monthly,Credit Card,None,13,No
+10250,69,Female,16,4629.2,72030.52,Monthly,Credit Card,Fiber,2,Yes
+10251,51,Male,14,3529.0,197914.47,Yearly,Credit Card,DSL,1,No
+10252,23,Male,14,4958.37,53251.9,Monthly,Net Banking,DSL,2,No
+10253,39,Male,62,4472.7,51705.85,Yearly,Debit Card,Fiber,13,Yes
+10254,28,Female,38,2628.46,154679.57,Quarterly,Credit Card,None,4,Yes
+10255,65,Male,12,2838.58,87496.81,Monthly,Debit Card,None,8,Yes
+10256,33,Female,31,1357.59,66828.2,Monthly,UPI,None,1,Yes
+10257,50,Male,8,2579.18,36553.9,Quarterly,Credit Card,DSL,11,No
+10258,26,Male,39,4563.63,153301.15,Monthly,UPI,DSL,10,No
+10259,23,Female,19,728.84,157478.04,Monthly,Debit Card,DSL,14,No
+10260,33,Female,62,4386.01,113746.24,Monthly,Net Banking,DSL,13,No
+10261,46,Male,43,2034.27,191505.41,Quarterly,Debit Card,DSL,0,No
+10262,20,Female,37,4547.81,64314.49,Quarterly,Credit Card,None,10,No
+10263,37,Female,59,4733.96,44704.19,Monthly,Credit Card,Fiber,5,Yes
+10264,53,Female,70,3518.89,135815.89,Monthly,Debit Card,None,2,Yes
+10265,36,Female,47,3489.91,151923.32,Quarterly,Credit Card,None,12,No
+10266,43,Female,17,2537.39,45756.29,Yearly,Credit Card,DSL,6,No
+10267,20,Male,15,4259.93,16245.54,Monthly,UPI,Fiber,5,Yes
+10268,36,Male,54,4827.26,162292.78,Monthly,Net Banking,Fiber,10,Yes
+10269,37,Female,38,3987.87,195323.89,Yearly,Debit Card,None,6,No
+10270,49,Male,67,3298.72,129289.78,Quarterly,UPI,Fiber,12,No
+10271,24,Male,58,3230.57,56295.51,Quarterly,Credit Card,None,12,No
+10272,69,Female,61,4322.61,199337.85,Yearly,UPI,None,4,Yes
+10273,58,Male,12,2935.42,178760.06,Quarterly,Net Banking,None,0,No
+10274,50,Female,5,4117.37,103162.75,Monthly,Debit Card,None,13,No
+10275,57,Female,59,2789.98,165238.94,Quarterly,Net Banking,DSL,2,Yes
+10276,56,Male,13,781.0,163348.28,Quarterly,Net Banking,Fiber,2,No
+10277,35,Female,53,2227.76,187024.99,Yearly,UPI,DSL,6,Yes
+10278,57,Female,3,2499.98,168343.84,Monthly,UPI,DSL,14,No
+10279,18,Female,38,1137.28,129092.17,Monthly,Net Banking,DSL,13,No
+10280,28,Female,71,961.23,122251.44,Quarterly,Credit Card,None,12,No
+10281,45,Female,24,2909.59,94004.1,Monthly,Debit Card,None,2,No
+10282,42,Male,31,883.15,125670.64,Monthly,Credit Card,DSL,10,Yes
+10283,67,Male,58,1863.25,159248.1,Yearly,Credit Card,DSL,4,No
+10284,40,Female,62,3850.69,193838.49,Monthly,Debit Card,Fiber,3,No
+10285,48,Female,37,4839.94,93990.18,Quarterly,UPI,DSL,3,No
+10286,47,Male,52,3730.42,115156.99,Yearly,Credit Card,None,12,Yes
+10287,59,Female,66,4966.81,89516.29,Monthly,UPI,DSL,6,No
+10288,52,Male,27,3642.52,134029.24,Yearly,Debit Card,Fiber,0,No
+10289,24,Female,2,1822.08,126354.18,Quarterly,Credit Card,Fiber,6,No
+10290,33,Female,21,3524.24,4548.92,Monthly,UPI,DSL,14,No
+10291,43,Female,37,3659.71,108691.15,Monthly,UPI,Fiber,7,No
+10292,65,Female,71,2172.77,18608.89,Yearly,Credit Card,Fiber,2,No
+10293,69,Female,71,579.71,6250.34,Monthly,Debit Card,None,14,Yes
+10294,66,Female,61,3664.4,158448.24,Monthly,Net Banking,Fiber,2,No
+10295,19,Female,56,597.65,52471.32,Monthly,UPI,Fiber,3,No
+10296,18,Male,5,3340.35,68790.36,Monthly,Debit Card,DSL,14,No
+10297,65,Male,31,1236.27,13752.83,Monthly,Credit Card,None,12,No
+10298,29,Male,9,3045.22,36720.55,Yearly,UPI,Fiber,5,No
+10299,22,Female,2,2767.61,153355.36,Yearly,UPI,DSL,13,No
+10300,54,Female,58,560.81,99212.64,Monthly,UPI,DSL,6,No
+10301,49,Female,48,2132.9,176253.02,Monthly,Debit Card,DSL,0,Yes
+10302,26,Female,58,3204.91,80051.18,Quarterly,UPI,DSL,14,No
+10303,58,Female,30,4318.73,54471.45,Monthly,UPI,DSL,12,No
+10304,52,Female,68,4498.89,70172.36,Quarterly,Credit Card,DSL,3,No
+10305,36,Female,61,2677.32,142841.59,Yearly,UPI,Fiber,11,No
+10306,65,Male,51,3777.9,111446.13,Yearly,Debit Card,None,6,No
+10307,33,Female,40,1924.05,180934.05,Monthly,Credit Card,None,10,No
+10308,20,Male,30,2039.84,120831.59,Monthly,Net Banking,DSL,1,No
+10309,37,Male,21,1375.09,99110.62,Monthly,Credit Card,DSL,0,No
+10310,41,Female,3,3028.77,157364.79,Monthly,UPI,None,0,No
+10311,50,Female,12,1915.54,189559.24,Monthly,Net Banking,Fiber,9,No
+10312,41,Male,44,879.67,71813.34,Yearly,Credit Card,DSL,13,Yes
+10313,69,Male,41,3582.53,50725.37,Yearly,UPI,None,13,No
+10314,28,Female,48,3684.89,123627.26,Yearly,Credit Card,None,5,No
+10315,66,Female,19,2119.97,100275.69,Yearly,Debit Card,DSL,11,Yes
+10316,25,Male,53,845.26,197847.93,Monthly,UPI,None,4,Yes
+10317,53,Female,35,2418.34,93010.0,Quarterly,Debit Card,Fiber,0,Yes
+10318,55,Female,0,2490.51,15791.98,Monthly,UPI,None,9,No
+10319,57,Female,14,3509.02,195496.44,Monthly,Debit Card,DSL,2,No
+10320,37,Male,16,1919.37,168873.8,Monthly,Net Banking,DSL,14,Yes
+10321,52,Male,23,3571.7,36471.78,Quarterly,Debit Card,None,10,No
+10322,65,Male,57,4421.7,181016.45,Quarterly,Credit Card,None,6,Yes
+10323,42,Female,71,1568.69,68792.7,Monthly,UPI,DSL,11,Yes
+10324,52,Female,22,4905.14,76045.28,Monthly,Credit Card,Fiber,8,No
+10325,42,Male,45,2238.66,181371.9,Monthly,Debit Card,None,12,No
+10326,46,Male,71,1702.66,106493.0,Monthly,UPI,Fiber,8,No
+10327,35,Male,7,2396.8,28414.82,Monthly,Debit Card,Fiber,14,No
+10328,63,Female,58,924.79,74442.18,Quarterly,Net Banking,DSL,5,No
+10329,35,Male,58,1065.68,144697.39,Quarterly,Net Banking,DSL,2,No
+10330,19,Male,12,2364.95,35662.65,Monthly,Net Banking,DSL,0,No
+10331,52,Female,38,3931.0,118456.01,Quarterly,Debit Card,Fiber,2,No
+10332,33,Female,27,4551.41,139359.55,Monthly,Debit Card,DSL,9,No
+10333,58,Female,60,3491.68,69426.86,Yearly,Net Banking,DSL,1,No
+10334,53,Male,15,973.49,139082.26,Monthly,Debit Card,Fiber,10,No
+10335,50,Female,1,3524.09,176957.26,Quarterly,Credit Card,Fiber,4,No
+10336,21,Female,16,3359.43,94951.23,Yearly,Debit Card,Fiber,7,No
+10337,50,Male,29,4125.94,77198.96,Yearly,Credit Card,Fiber,4,Yes
+10338,31,Female,12,4213.62,50980.52,Monthly,Net Banking,None,0,No
+10339,38,Male,12,4406.91,121236.89,Quarterly,Debit Card,DSL,2,No
+10340,65,Male,42,2363.59,176090.56,Monthly,Net Banking,None,11,Yes
+10341,37,Female,20,3640.39,65607.59,Monthly,UPI,Fiber,4,No
+10342,25,Female,54,1707.13,79850.87,Monthly,Debit Card,Fiber,6,No
+10343,24,Female,39,4997.01,81918.48,Yearly,Debit Card,Fiber,4,Yes
+10344,20,Female,14,1289.0,112601.66,Yearly,Net Banking,Fiber,13,No
+10345,34,Female,51,545.51,46453.38,Monthly,Net Banking,Fiber,9,No
+10346,50,Female,52,1169.64,164620.02,Monthly,Net Banking,DSL,4,No
+10347,65,Male,51,3991.43,59824.85,Yearly,UPI,None,6,No
+10348,29,Male,29,2510.53,141367.18,Monthly,UPI,None,12,No
+10349,68,Female,32,2513.75,103129.93,Monthly,Net Banking,DSL,14,No
+10350,39,Male,56,4797.6,117593.62,Monthly,Debit Card,DSL,7,No
+10351,39,Female,51,4638.36,36742.14,Quarterly,Debit Card,DSL,13,No
+10352,63,Male,8,1900.38,147269.62,Monthly,Net Banking,None,7,No
+10353,47,Male,53,1440.76,38535.48,Quarterly,Credit Card,None,6,Yes
+10354,55,Male,0,4318.17,23581.25,Monthly,UPI,Fiber,12,No
+10355,55,Female,43,4577.09,109789.22,Monthly,UPI,None,13,Yes
+10356,62,Male,8,2937.19,142150.13,Monthly,Credit Card,None,2,Yes
+10357,68,Female,31,3332.41,10957.13,Monthly,Net Banking,DSL,10,Yes
+10358,25,Male,14,1656.11,14809.67,Monthly,Debit Card,None,1,No
+10359,44,Male,11,4103.61,160733.15,Monthly,Debit Card,Fiber,0,No
+10360,44,Male,56,3344.55,161997.51,Quarterly,UPI,None,5,No
+10361,51,Male,7,2765.81,49815.64,Monthly,Credit Card,DSL,12,No
+10362,38,Male,71,770.49,123430.41,Quarterly,Debit Card,DSL,8,No
+10363,47,Female,26,4621.71,89192.83,Yearly,UPI,Fiber,2,Yes
+10364,50,Female,61,3269.53,126906.51,Quarterly,Debit Card,Fiber,4,No
+10365,45,Male,11,1367.11,172712.98,Yearly,Debit Card,None,8,No
+10366,64,Male,64,3228.74,16891.43,Monthly,Debit Card,Fiber,13,Yes
+10367,50,Male,41,3548.59,155818.9,Monthly,UPI,Fiber,13,No
+10368,22,Male,61,2865.97,99112.79,Yearly,Credit Card,DSL,8,No
+10369,65,Female,10,3731.46,113261.26,Yearly,Net Banking,DSL,6,No
+10370,36,Male,42,3116.54,131132.34,Yearly,Credit Card,None,13,No
+10371,21,Female,16,4764.96,184602.01,Quarterly,Debit Card,None,3,No
+10372,52,Male,31,741.64,12287.27,Quarterly,Credit Card,None,10,Yes
+10373,66,Female,39,978.11,6865.79,Monthly,Debit Card,None,1,Yes
+10374,34,Male,22,1281.52,36474.09,Quarterly,UPI,DSL,1,No
+10375,61,Male,55,3605.77,197303.1,Monthly,UPI,None,3,Yes
+10376,45,Female,5,3405.18,143300.2,Monthly,UPI,None,0,No
+10377,47,Male,49,4514.26,123313.58,Monthly,Debit Card,Fiber,13,No
+10378,46,Male,36,3797.95,10360.77,Monthly,Credit Card,None,3,No
+10379,63,Male,63,2787.6,175942.93,Monthly,Net Banking,Fiber,11,Yes
+10380,23,Female,53,4963.24,162738.61,Quarterly,Net Banking,DSL,13,Yes
+10381,52,Male,71,1697.49,133295.21,Yearly,UPI,None,10,No
+10382,58,Male,48,4249.36,68487.03,Quarterly,Net Banking,Fiber,5,No
+10383,54,Female,10,2420.56,15030.49,Monthly,Debit Card,None,5,No
+10384,41,Female,48,3419.31,116427.66,Yearly,Credit Card,Fiber,6,No
+10385,46,Female,20,3772.71,144219.22,Monthly,Net Banking,None,4,No
+10386,66,Male,65,3351.89,19753.83,Quarterly,Net Banking,DSL,8,No
+10387,63,Male,62,1132.28,127119.76,Monthly,Credit Card,DSL,1,Yes
+10388,48,Male,27,2493.28,57986.85,Monthly,Net Banking,Fiber,1,No
+10389,52,Female,16,3026.47,153084.6,Monthly,Credit Card,Fiber,3,No
+10390,50,Male,5,4320.7,108383.55,Quarterly,Debit Card,DSL,14,No
+10391,69,Male,18,2496.41,26678.32,Monthly,Debit Card,None,3,Yes
+10392,38,Female,55,4634.36,105777.37,Monthly,Debit Card,Fiber,3,No
+10393,49,Female,27,2481.68,79751.64,Monthly,UPI,DSL,0,No
+10394,40,Female,65,2969.51,36890.84,Monthly,Debit Card,Fiber,3,No
+10395,50,Female,37,4083.29,168461.63,Quarterly,Net Banking,DSL,11,Yes
+10396,20,Female,36,3123.8,3194.66,Monthly,UPI,DSL,4,No
+10397,35,Male,67,4820.98,63113.53,Monthly,UPI,Fiber,8,No
+10398,42,Female,48,3471.51,3506.41,Monthly,UPI,Fiber,2,No
+10399,59,Male,42,2852.19,20105.38,Monthly,Debit Card,DSL,14,No
+10400,48,Male,35,606.16,60122.15,Monthly,UPI,None,2,Yes
+10401,20,Female,57,2361.8,11799.97,Quarterly,Debit Card,DSL,13,No
+10402,57,Female,12,1846.62,119729.48,Monthly,Debit Card,None,4,No
+10403,63,Female,51,3866.48,18285.72,Monthly,UPI,None,9,No
+10404,41,Male,57,1437.25,140641.01,Monthly,UPI,None,5,Yes
+10405,67,Female,31,1423.49,11475.78,Monthly,Net Banking,Fiber,2,Yes
+10406,49,Female,59,1352.84,12802.47,Monthly,UPI,DSL,0,No
+10407,64,Female,57,1065.27,61759.85,Monthly,Debit Card,DSL,9,No
+10408,39,Female,55,1899.53,179417.73,Monthly,Net Banking,None,7,No
+10409,40,Female,27,4486.65,128637.26,Monthly,Net Banking,None,11,No
+10410,19,Male,0,3987.18,154256.13,Yearly,Debit Card,None,0,No
+10411,44,Male,41,3808.63,29168.87,Quarterly,UPI,DSL,1,No
+10412,59,Male,47,4088.02,166990.96,Quarterly,UPI,None,2,No
+10413,19,Female,39,1712.38,2621.1,Monthly,Credit Card,DSL,5,No
+10414,43,Female,62,4493.49,43398.41,Quarterly,UPI,DSL,3,Yes
+10415,34,Female,71,1117.87,123602.37,Yearly,Credit Card,Fiber,3,No
+10416,57,Male,3,2013.56,75674.04,Quarterly,Net Banking,None,14,No
+10417,50,Female,37,3140.37,196854.48,Monthly,Net Banking,None,8,Yes
+10418,26,Female,26,963.07,7037.51,Monthly,Net Banking,None,5,Yes
+10419,60,Female,8,3785.59,199721.04,Monthly,Credit Card,Fiber,11,No
+10420,65,Male,15,2242.61,125101.94,Monthly,Debit Card,None,1,No
+10421,56,Female,55,4029.83,112182.69,Monthly,Debit Card,DSL,6,No
+10422,46,Male,30,2718.03,12842.98,Yearly,Net Banking,None,14,No
+10423,59,Female,13,1313.94,55392.45,Quarterly,Credit Card,DSL,12,No
+10424,43,Male,24,3806.43,185007.87,Monthly,Credit Card,DSL,2,Yes
+10425,52,Male,33,1634.65,71494.95,Monthly,Net Banking,DSL,8,Yes
+10426,67,Male,66,2708.65,132668.99,Monthly,UPI,DSL,5,Yes
+10427,42,Female,23,839.9,199899.77,Monthly,Net Banking,None,7,No
+10428,41,Female,25,3280.4,53350.87,Monthly,Credit Card,Fiber,12,No
+10429,30,Male,19,3496.36,115640.09,Monthly,UPI,Fiber,12,No
+10430,24,Male,63,2204.03,139591.12,Monthly,Debit Card,DSL,0,No
+10431,53,Female,9,4794.9,33760.82,Yearly,UPI,None,1,No
+10432,62,Female,66,4433.76,30585.84,Monthly,Debit Card,Fiber,5,Yes
+10433,37,Male,23,3685.73,91805.27,Monthly,Credit Card,None,2,No
+10434,18,Female,4,3711.43,77776.69,Monthly,Net Banking,Fiber,0,No
+10435,25,Female,66,1635.81,143128.87,Monthly,Net Banking,DSL,5,No
+10436,63,Female,57,3455.67,14832.25,Monthly,Net Banking,DSL,4,No
+10437,33,Female,26,1391.93,194461.16,Quarterly,Net Banking,DSL,12,No
+10438,31,Male,14,1148.01,3841.12,Monthly,Net Banking,Fiber,8,No
+10439,29,Female,34,4997.61,120662.05,Monthly,Credit Card,None,5,Yes
+10440,68,Female,52,3300.69,112963.89,Quarterly,Credit Card,DSL,4,No
+10441,40,Male,43,2439.45,27808.43,Monthly,Net Banking,None,0,Yes
+10442,32,Male,25,1796.74,31032.28,Monthly,UPI,None,14,No
+10443,45,Female,46,3217.64,158742.82,Monthly,Net Banking,DSL,0,No
+10444,51,Female,33,723.17,177624.93,Quarterly,Debit Card,Fiber,10,No
+10445,19,Female,49,926.06,57320.38,Monthly,Debit Card,DSL,0,No
+10446,49,Female,11,647.86,88154.83,Monthly,Debit Card,DSL,6,Yes
+10447,40,Male,3,2746.26,71644.01,Quarterly,Debit Card,Fiber,5,No
+10448,39,Male,47,3202.73,15436.86,Monthly,Net Banking,None,13,No
+10449,68,Male,54,781.16,134967.64,Monthly,Debit Card,Fiber,4,No
+10450,42,Female,0,3745.51,165213.39,Monthly,UPI,Fiber,3,No
+10451,39,Female,65,1536.78,61670.99,Quarterly,Net Banking,DSL,10,Yes
+10452,39,Female,29,3583.41,198044.98,Yearly,Debit Card,Fiber,13,No
+10453,66,Female,2,4918.54,16094.46,Yearly,Net Banking,Fiber,12,No
+10454,69,Male,20,3609.98,132696.35,Yearly,Net Banking,Fiber,12,No
+10455,59,Male,48,4474.37,90197.37,Quarterly,Net Banking,None,10,No
+10456,23,Female,61,4766.89,89873.78,Quarterly,Credit Card,None,7,Yes
+10457,32,Male,37,2690.38,92071.48,Quarterly,Debit Card,DSL,10,No
+10458,60,Female,14,3660.46,52477.67,Monthly,Credit Card,DSL,7,Yes
+10459,54,Female,51,4333.86,143397.0,Monthly,UPI,None,4,No
+10460,50,Male,45,2104.74,144593.73,Monthly,UPI,Fiber,14,No
+10461,25,Female,24,1676.29,57197.02,Monthly,Credit Card,DSL,3,Yes
+10462,61,Female,20,4759.69,167225.99,Quarterly,Debit Card,DSL,14,No
+10463,61,Male,4,3768.37,64052.14,Monthly,Net Banking,Fiber,1,Yes
+10464,22,Female,69,1488.57,145293.53,Monthly,UPI,Fiber,6,No
+10465,56,Female,46,2520.88,25078.95,Monthly,UPI,Fiber,4,No
+10466,21,Male,67,4084.03,34571.63,Yearly,UPI,Fiber,2,No
+10467,23,Female,17,2961.78,63843.33,Quarterly,Debit Card,Fiber,8,No
+10468,62,Male,20,3424.78,119180.88,Monthly,Credit Card,None,8,No
+10469,49,Female,22,3891.96,129456.79,Monthly,Credit Card,Fiber,10,Yes
+10470,69,Male,63,3299.04,79874.88,Monthly,Debit Card,DSL,14,No
+10471,47,Male,66,2930.36,16489.99,Monthly,UPI,None,10,Yes
+10472,64,Male,39,3873.26,75353.3,Monthly,Debit Card,DSL,9,No
+10473,52,Female,9,3774.03,138064.74,Quarterly,Debit Card,Fiber,13,No
+10474,57,Male,51,3334.43,134528.1,Monthly,Credit Card,DSL,10,No
+10475,69,Male,71,2119.05,32879.09,Monthly,Debit Card,Fiber,7,Yes
+10476,33,Male,60,2326.15,2549.01,Monthly,Debit Card,DSL,0,Yes
+10477,30,Male,63,4866.97,150843.34,Monthly,UPI,DSL,11,Yes
+10478,67,Male,4,1005.74,22167.27,Monthly,Net Banking,Fiber,2,No
+10479,59,Female,52,1708.27,17387.48,Monthly,UPI,DSL,1,Yes
+10480,47,Female,54,2715.81,1537.54,Monthly,Credit Card,None,3,No
+10481,36,Female,36,4265.28,87087.66,Quarterly,Net Banking,DSL,1,No
+10482,34,Female,55,1236.54,101149.52,Monthly,UPI,None,11,No
+10483,36,Female,58,1746.3,127895.15,Monthly,Debit Card,None,10,No
+10484,45,Female,68,796.09,59916.7,Monthly,Debit Card,DSL,7,No
+10485,43,Female,58,3676.93,142374.52,Quarterly,Net Banking,None,0,No
+10486,54,Male,1,1571.94,34697.04,Monthly,Net Banking,None,3,No
+10487,43,Female,64,2249.04,166566.02,Quarterly,Debit Card,DSL,4,No
+10488,40,Male,59,2496.66,114797.82,Yearly,Credit Card,Fiber,13,Yes
+10489,26,Male,50,4510.91,117194.07,Monthly,UPI,Fiber,9,No
+10490,29,Female,29,2350.99,42745.31,Quarterly,Debit Card,None,3,No
+10491,18,Male,10,1153.51,15747.64,Quarterly,UPI,None,7,Yes
+10492,18,Male,38,2859.42,93480.24,Monthly,UPI,Fiber,1,Yes
+10493,64,Male,71,4833.31,123506.78,Quarterly,UPI,None,8,Yes
+10494,51,Male,62,3234.59,19914.25,Monthly,UPI,Fiber,1,No
+10495,49,Female,63,4925.24,190156.36,Monthly,Credit Card,DSL,1,No
+10496,65,Female,60,4284.98,196102.46,Quarterly,Credit Card,None,12,Yes
+10497,42,Female,53,661.85,109545.88,Quarterly,Credit Card,DSL,1,No
+10498,57,Female,57,3462.8,190063.76,Yearly,Debit Card,Fiber,11,No
+10499,62,Female,55,1790.45,36709.6,Monthly,Debit Card,Fiber,9,No
+10500,18,Female,33,3018.28,6058.72,Monthly,Debit Card,DSL,7,No
+10501,33,Female,30,1757.05,8842.5,Monthly,Credit Card,None,2,Yes
+10502,56,Female,51,2069.92,117914.98,Monthly,UPI,DSL,9,No
+10503,22,Female,0,4654.26,13266.73,Monthly,Credit Card,DSL,10,No
+10504,39,Female,54,1429.89,191750.58,Monthly,Debit Card,None,13,No
+10505,46,Male,21,4433.49,29244.71,Monthly,Net Banking,Fiber,9,No
+10506,20,Female,39,637.06,61639.84,Monthly,Debit Card,DSL,14,Yes
+10507,29,Male,0,908.94,164681.04,Monthly,UPI,DSL,13,No
+10508,43,Male,64,4346.04,44529.32,Yearly,Credit Card,Fiber,7,No
+10509,33,Male,62,3337.5,49350.72,Quarterly,Net Banking,DSL,6,No
+10510,68,Male,53,3862.56,128819.48,Monthly,Net Banking,Fiber,9,No
+10511,54,Female,41,1442.38,55941.13,Yearly,UPI,None,3,Yes
+10512,39,Male,20,2916.88,44272.08,Quarterly,Credit Card,Fiber,6,No
+10513,46,Female,21,3817.49,51581.37,Yearly,Net Banking,Fiber,10,Yes
+10514,31,Female,37,3322.91,98638.85,Monthly,Debit Card,DSL,7,No
+10515,45,Male,7,2622.64,193253.87,Monthly,UPI,Fiber,5,No
+10516,22,Female,61,4819.03,166615.35,Yearly,Net Banking,Fiber,5,Yes
+10517,64,Male,46,3542.71,57637.44,Monthly,UPI,DSL,2,Yes
+10518,66,Male,16,4584.88,73311.27,Yearly,Credit Card,Fiber,4,No
+10519,47,Female,16,3783.97,93437.94,Quarterly,Credit Card,DSL,9,No
+10520,63,Female,12,3809.59,195807.0,Yearly,Credit Card,None,1,No
+10521,69,Male,16,860.08,35305.7,Monthly,Debit Card,Fiber,11,No
+10522,22,Female,37,2117.59,72139.14,Monthly,Net Banking,None,4,No
+10523,29,Female,44,4362.66,146155.79,Monthly,Credit Card,Fiber,4,No
+10524,33,Female,5,1546.72,192824.8,Yearly,Debit Card,Fiber,6,No
+10525,43,Male,34,1019.78,31979.37,Monthly,Credit Card,None,3,No
+10526,43,Male,13,1967.48,46248.61,Monthly,Credit Card,None,13,Yes
+10527,65,Female,71,1491.97,45913.24,Monthly,Net Banking,DSL,10,Yes
+10528,38,Female,60,4663.8,5165.47,Monthly,Debit Card,DSL,5,No
+10529,56,Female,14,4405.85,121219.01,Monthly,Credit Card,None,8,No
+10530,53,Female,53,2748.57,134469.91,Monthly,Debit Card,Fiber,3,No
+10531,50,Female,26,776.05,120902.65,Quarterly,Debit Card,DSL,10,Yes
+10532,47,Male,12,3715.53,15193.27,Monthly,Credit Card,Fiber,13,Yes
+10533,54,Female,30,3305.35,14776.8,Yearly,Credit Card,DSL,5,Yes
+10534,40,Male,34,4867.5,42866.92,Quarterly,UPI,DSL,12,Yes
+10535,27,Female,59,3015.29,58768.61,Quarterly,Net Banking,DSL,11,No
+10536,22,Male,5,2013.77,157522.19,Quarterly,Credit Card,None,8,No
+10537,53,Female,68,2835.6,32718.66,Monthly,UPI,Fiber,9,No
+10538,51,Male,57,4906.68,9774.35,Monthly,Net Banking,None,11,No
+10539,69,Female,48,3633.63,79403.51,Quarterly,Credit Card,DSL,0,No
+10540,48,Male,22,3523.89,83862.04,Monthly,Debit Card,None,7,Yes
+10541,27,Male,33,1583.07,90730.56,Monthly,Net Banking,None,0,No
+10542,36,Male,25,3846.21,165553.81,Monthly,Debit Card,None,3,No
+10543,49,Male,46,3876.22,20503.08,Quarterly,UPI,Fiber,2,Yes
+10544,18,Male,4,1927.8,141084.47,Monthly,Credit Card,None,3,No
+10545,22,Male,19,2676.71,68251.17,Monthly,UPI,None,13,No
+10546,62,Female,5,1825.71,62686.05,Monthly,Credit Card,None,6,Yes
+10547,21,Male,69,1664.17,186576.08,Yearly,Credit Card,None,12,Yes
+10548,33,Female,58,616.53,50445.24,Monthly,Debit Card,None,13,No
+10549,41,Female,63,1783.45,128863.84,Quarterly,UPI,None,8,Yes
+10550,33,Female,17,2992.86,55750.42,Monthly,Debit Card,None,8,Yes
+10551,19,Female,3,507.21,101921.63,Quarterly,Debit Card,DSL,9,No
+10552,66,Female,16,1774.49,157472.29,Monthly,Debit Card,None,0,No
+10553,45,Male,13,4466.35,176462.78,Quarterly,UPI,None,14,No
+10554,49,Male,12,3171.42,167900.75,Monthly,Credit Card,Fiber,9,No
+10555,44,Male,6,3235.38,116853.97,Monthly,Credit Card,DSL,0,No
+10556,37,Female,43,2315.14,50514.45,Quarterly,UPI,None,8,No
+10557,41,Male,14,3544.12,132585.44,Quarterly,Credit Card,Fiber,3,No
+10558,29,Male,18,1354.7,142271.1,Quarterly,UPI,None,11,No
+10559,67,Male,62,4184.36,3127.71,Yearly,UPI,None,12,Yes
+10560,52,Male,34,1025.1,88402.89,Monthly,Credit Card,None,13,No
+10561,50,Male,34,3452.01,168809.15,Yearly,Net Banking,None,2,No
+10562,50,Female,18,2035.17,98427.93,Monthly,Debit Card,None,12,No
+10563,68,Male,19,3863.81,62963.71,Quarterly,UPI,Fiber,8,No
+10564,60,Female,34,2973.94,174487.76,Monthly,UPI,None,4,No
+10565,54,Female,31,2535.59,32020.26,Monthly,Net Banking,Fiber,11,No
+10566,29,Female,47,1262.4,42082.6,Monthly,UPI,None,5,Yes
+10567,20,Female,43,3365.7,137787.1,Monthly,UPI,Fiber,0,No
+10568,18,Female,23,4886.46,71134.75,Monthly,Credit Card,DSL,0,No
+10569,50,Male,60,4215.22,142890.35,Monthly,Credit Card,None,12,No
+10570,57,Male,16,770.04,32383.02,Monthly,Net Banking,DSL,13,Yes
+10571,27,Male,70,2193.03,51201.55,Monthly,UPI,DSL,6,No
+10572,60,Female,49,4665.12,32172.83,Monthly,Debit Card,DSL,9,No
+10573,61,Male,64,2763.7,190629.15,Monthly,Credit Card,None,14,Yes
+10574,46,Male,31,3479.5,81675.39,Monthly,Debit Card,DSL,7,No
+10575,30,Female,35,4606.7,68106.76,Monthly,Debit Card,Fiber,10,Yes
+10576,29,Female,12,4432.08,3826.23,Quarterly,Net Banking,None,7,No
+10577,48,Female,69,2758.19,31530.1,Yearly,Net Banking,DSL,13,No
+10578,63,Female,57,2469.41,84806.04,Monthly,UPI,None,12,Yes
+10579,19,Male,13,2028.62,14632.06,Quarterly,Net Banking,DSL,6,Yes
+10580,68,Female,36,3735.59,102637.13,Quarterly,Credit Card,Fiber,12,No
+10581,67,Female,67,1791.44,91548.07,Monthly,UPI,None,10,No
+10582,52,Male,39,1624.49,153666.46,Quarterly,UPI,None,8,No
+10583,40,Male,58,2103.12,132300.74,Monthly,Debit Card,DSL,0,No
+10584,34,Female,15,1297.47,89743.51,Monthly,Debit Card,Fiber,1,No
+10585,43,Male,61,3628.04,45707.48,Monthly,Debit Card,None,12,No
+10586,25,Female,3,3273.08,145645.85,Monthly,UPI,DSL,2,No
+10587,46,Female,44,2672.95,141864.56,Quarterly,Net Banking,Fiber,12,No
+10588,43,Male,27,2256.47,31505.94,Monthly,Net Banking,Fiber,11,No
+10589,27,Male,65,4590.78,183035.61,Monthly,Net Banking,Fiber,12,Yes
+10590,43,Female,30,631.06,13816.62,Monthly,UPI,Fiber,4,No
+10591,51,Female,2,3960.98,11952.5,Quarterly,UPI,None,3,No
+10592,68,Female,7,4558.59,38282.73,Quarterly,UPI,None,3,No
+10593,58,Male,23,2508.6,181982.7,Quarterly,UPI,Fiber,14,No
+10594,24,Female,14,2978.11,104479.63,Monthly,UPI,DSL,7,Yes
+10595,21,Female,42,4750.09,157800.24,Monthly,Net Banking,DSL,7,No
+10596,67,Female,30,1455.25,46340.79,Monthly,UPI,Fiber,10,No
+10597,62,Female,44,2840.61,98554.17,Monthly,Net Banking,Fiber,6,No
+10598,28,Female,65,2636.25,72299.6,Monthly,UPI,DSL,0,No
+10599,46,Male,7,1662.77,165737.89,Monthly,Net Banking,Fiber,9,Yes
+10600,53,Female,70,4183.67,5498.28,Monthly,Credit Card,Fiber,14,No
+10601,42,Female,56,4548.2,49524.7,Yearly,Credit Card,None,3,No
+10602,38,Female,29,4018.7,31362.27,Quarterly,Net Banking,None,0,Yes
+10603,53,Female,17,1379.12,171978.62,Monthly,Credit Card,Fiber,10,No
+10604,27,Male,68,890.37,94041.23,Monthly,Credit Card,Fiber,13,Yes
+10605,54,Male,38,3224.5,81439.79,Monthly,Net Banking,None,4,No
+10606,26,Male,59,756.93,90447.07,Quarterly,UPI,Fiber,2,No
+10607,41,Female,42,3527.72,194412.99,Quarterly,UPI,None,2,No
+10608,52,Female,44,2886.91,170203.21,Yearly,Net Banking,None,3,No
+10609,66,Male,22,3482.54,141567.39,Monthly,Debit Card,DSL,1,No
+10610,52,Male,68,3155.77,58805.31,Quarterly,Debit Card,None,6,Yes
+10611,65,Male,5,2402.16,33869.43,Monthly,Credit Card,DSL,11,No
+10612,53,Female,55,1403.95,184365.29,Yearly,Debit Card,DSL,12,No
+10613,35,Female,3,1875.66,85192.03,Quarterly,Credit Card,None,3,No
+10614,66,Male,22,2860.25,56472.4,Quarterly,UPI,Fiber,4,No
+10615,56,Male,5,3433.41,94713.24,Monthly,Net Banking,None,11,No
+10616,49,Male,31,4007.67,183651.64,Quarterly,UPI,DSL,13,No
+10617,41,Female,17,3952.27,78026.4,Monthly,Net Banking,None,1,No
+10618,40,Female,14,4877.1,112965.56,Monthly,Debit Card,None,5,Yes
+10619,49,Female,39,1786.29,160790.29,Monthly,UPI,DSL,8,No
+10620,54,Male,5,820.0,85999.37,Monthly,UPI,None,7,No
+10621,29,Male,62,2055.46,47474.82,Monthly,Credit Card,None,7,Yes
+10622,66,Female,66,3844.83,198910.62,Monthly,Net Banking,DSL,1,No
+10623,30,Male,10,2471.5,191357.6,Monthly,Debit Card,Fiber,14,No
+10624,40,Female,42,4180.05,168852.35,Monthly,UPI,DSL,3,Yes
+10625,42,Male,16,2971.97,137986.4,Monthly,Net Banking,DSL,7,No
+10626,52,Male,3,4684.06,59678.26,Monthly,Debit Card,None,10,No
+10627,58,Male,62,4765.39,182769.17,Monthly,UPI,DSL,0,No
+10628,47,Male,67,811.87,55835.78,Monthly,Net Banking,None,7,Yes
+10629,34,Female,40,2553.86,160361.09,Monthly,Credit Card,None,2,Yes
+10630,66,Male,4,3243.6,183733.38,Quarterly,UPI,None,7,No
+10631,37,Female,31,1651.43,120997.76,Monthly,Net Banking,DSL,5,No
+10632,65,Female,69,2331.85,160808.19,Quarterly,Debit Card,DSL,6,No
+10633,42,Female,34,3549.57,158547.32,Monthly,Debit Card,None,1,No
+10634,39,Male,21,1520.3,39438.39,Yearly,Credit Card,Fiber,14,No
+10635,30,Female,64,3208.92,133916.97,Monthly,UPI,Fiber,0,Yes
+10636,36,Female,21,3638.52,19600.12,Monthly,Credit Card,DSL,5,No
+10637,66,Female,10,907.23,102062.18,Monthly,Net Banking,None,11,No
+10638,53,Male,2,2738.88,33284.87,Monthly,Debit Card,None,2,No
+10639,29,Male,8,1683.86,83853.55,Quarterly,Credit Card,DSL,3,No
+10640,58,Female,59,3759.74,166763.43,Monthly,UPI,Fiber,12,No
+10641,36,Male,13,1353.0,197446.4,Monthly,Net Banking,DSL,14,No
+10642,29,Female,17,4515.07,64274.01,Yearly,UPI,DSL,8,Yes
+10643,26,Female,22,2439.24,106859.18,Monthly,Credit Card,None,2,No
+10644,24,Male,46,1391.01,102748.31,Monthly,Debit Card,DSL,1,No
+10645,45,Female,68,2471.1,190925.9,Monthly,Debit Card,Fiber,1,Yes
+10646,31,Male,46,2339.35,96238.16,Monthly,Credit Card,DSL,1,No
+10647,48,Male,29,2430.14,140122.13,Yearly,UPI,None,5,Yes
+10648,69,Female,24,3135.03,184436.06,Quarterly,UPI,Fiber,1,Yes
+10649,36,Male,27,2845.28,75302.33,Quarterly,UPI,None,10,No
+10650,64,Male,24,1174.0,180522.33,Yearly,UPI,DSL,6,No
+10651,33,Female,57,795.11,183573.79,Monthly,Debit Card,DSL,6,No
+10652,22,Female,40,3782.37,186201.84,Monthly,UPI,DSL,6,No
+10653,52,Male,24,3018.73,54818.79,Monthly,Credit Card,None,13,Yes
+10654,29,Male,47,2115.5,80670.76,Quarterly,Credit Card,DSL,12,No
+10655,42,Female,9,4137.61,174208.79,Yearly,Credit Card,Fiber,1,No
+10656,69,Male,10,2246.26,72473.2,Monthly,Credit Card,Fiber,6,Yes
+10657,38,Male,20,4081.84,120450.35,Monthly,UPI,None,9,No
+10658,53,Male,44,1875.9,24492.85,Yearly,Debit Card,None,7,No
+10659,40,Male,6,827.8,12198.72,Monthly,Net Banking,None,7,Yes
+10660,33,Male,63,4696.88,82986.8,Yearly,UPI,DSL,13,No
+10661,56,Male,63,2275.48,116204.39,Monthly,Net Banking,Fiber,1,Yes
+10662,62,Male,1,4067.12,79147.12,Monthly,Debit Card,Fiber,4,Yes
+10663,59,Female,41,1756.15,115969.42,Monthly,UPI,Fiber,13,No
+10664,56,Female,53,3408.64,103501.79,Quarterly,Net Banking,None,5,Yes
+10665,31,Female,15,4429.9,137455.74,Monthly,Debit Card,None,8,No
+10666,48,Female,17,687.4,130256.95,Monthly,Net Banking,DSL,5,No
+10667,22,Female,58,4237.86,85424.89,Yearly,Credit Card,None,9,Yes
+10668,52,Male,15,3071.0,85574.05,Quarterly,Credit Card,Fiber,5,No
+10669,40,Male,5,3233.62,29014.89,Quarterly,Debit Card,DSL,9,No
+10670,46,Male,56,2854.21,103134.48,Monthly,Debit Card,None,9,No
+10671,60,Male,46,4435.14,117848.65,Yearly,Net Banking,None,14,No
+10672,28,Female,47,695.45,95821.39,Monthly,Debit Card,Fiber,5,Yes
+10673,35,Male,41,1674.63,65815.76,Monthly,Credit Card,DSL,8,No
+10674,64,Male,59,4440.93,144608.06,Monthly,Credit Card,None,9,No
+10675,29,Female,3,3885.56,15857.67,Monthly,UPI,None,6,Yes
+10676,26,Male,1,579.4,182973.63,Yearly,Net Banking,DSL,0,No
+10677,27,Male,58,2826.53,5108.04,Monthly,Debit Card,DSL,0,No
+10678,61,Female,26,2883.08,192507.68,Monthly,Debit Card,None,13,No
+10679,34,Male,26,2303.97,93008.76,Quarterly,Debit Card,None,3,No
+10680,55,Male,71,1838.27,83121.32,Quarterly,Net Banking,Fiber,14,Yes
+10681,24,Male,6,3567.76,52032.36,Quarterly,Credit Card,DSL,11,Yes
+10682,63,Male,62,1435.06,3004.16,Monthly,Debit Card,None,1,Yes
+10683,30,Male,45,4095.27,55683.26,Quarterly,Debit Card,None,2,No
+10684,57,Female,62,4113.67,22770.59,Monthly,Credit Card,None,11,No
+10685,59,Female,11,2368.68,132304.35,Yearly,Debit Card,None,6,No
+10686,26,Female,12,1775.97,64495.92,Monthly,UPI,Fiber,13,No
+10687,67,Female,42,1777.45,153668.69,Quarterly,Credit Card,DSL,6,Yes
+10688,44,Female,16,2670.31,42176.32,Monthly,Credit Card,None,13,No
+10689,19,Female,62,3738.11,180146.74,Monthly,Credit Card,DSL,11,No
+10690,22,Male,35,2114.91,105073.32,Monthly,UPI,DSL,2,No
+10691,46,Female,7,3245.2,23786.73,Monthly,Credit Card,None,12,Yes
+10692,54,Female,68,2221.18,80768.2,Monthly,Net Banking,None,1,Yes
+10693,55,Male,35,1870.35,42145.34,Quarterly,Net Banking,None,14,Yes
+10694,36,Male,27,611.87,40737.4,Monthly,Net Banking,Fiber,12,No
+10695,25,Female,46,517.61,101767.58,Quarterly,Credit Card,None,12,No
+10696,65,Male,29,1522.43,134706.51,Monthly,Credit Card,DSL,0,No
+10697,62,Female,22,2328.83,182412.02,Monthly,Credit Card,DSL,8,No
+10698,18,Male,15,4330.68,100930.24,Quarterly,UPI,Fiber,9,No
+10699,39,Female,13,4093.18,193201.92,Quarterly,Net Banking,None,2,No
+10700,69,Male,70,1702.24,188385.34,Monthly,Debit Card,None,8,Yes
+10701,34,Male,51,1600.43,173147.44,Monthly,Debit Card,Fiber,14,Yes
+10702,24,Female,36,1522.95,100495.48,Quarterly,Credit Card,Fiber,14,No
+10703,42,Female,28,2026.57,29039.88,Monthly,UPI,None,3,No
+10704,62,Female,66,2741.89,44362.99,Monthly,Credit Card,None,14,No
+10705,21,Female,14,2474.0,129886.33,Quarterly,Debit Card,DSL,9,No
+10706,53,Female,46,1482.23,84929.24,Monthly,Net Banking,None,5,No
+10707,23,Male,45,1087.03,30213.52,Monthly,Debit Card,None,12,No
+10708,48,Female,51,556.6,96319.79,Yearly,Net Banking,DSL,6,No
+10709,36,Female,18,1192.83,4468.68,Quarterly,Net Banking,DSL,9,No
+10710,61,Male,20,3674.1,147045.18,Monthly,UPI,DSL,13,No
+10711,56,Male,63,1596.37,15642.68,Monthly,Debit Card,DSL,5,Yes
+10712,44,Female,36,2608.71,126193.61,Monthly,Credit Card,Fiber,0,No
+10713,27,Male,26,3160.86,158809.05,Quarterly,UPI,DSL,5,No
+10714,43,Male,54,4490.78,27396.13,Quarterly,Net Banking,Fiber,10,No
+10715,36,Female,28,4499.85,104209.1,Monthly,Debit Card,DSL,13,No
+10716,56,Male,19,3855.8,156034.44,Monthly,Credit Card,DSL,5,No
+10717,20,Male,24,658.21,52866.06,Monthly,UPI,DSL,4,Yes
+10718,62,Female,69,3087.82,33420.4,Monthly,Credit Card,None,2,Yes
+10719,30,Female,62,4039.63,68027.0,Quarterly,Debit Card,Fiber,9,No
+10720,67,Male,35,577.8,111385.14,Monthly,Credit Card,DSL,2,No
+10721,45,Male,1,2973.58,115480.64,Monthly,UPI,None,10,No
+10722,37,Female,21,4359.94,27044.39,Monthly,Credit Card,Fiber,9,No
+10723,45,Male,15,2633.46,92056.2,Monthly,Debit Card,Fiber,12,No
+10724,25,Male,17,518.48,54388.16,Monthly,UPI,None,6,Yes
+10725,58,Male,68,549.56,168562.82,Monthly,Net Banking,Fiber,7,No
+10726,56,Female,53,2374.86,63401.45,Quarterly,UPI,None,13,No
+10727,18,Male,29,1197.54,167902.2,Yearly,Debit Card,DSL,2,No
+10728,20,Male,44,3490.03,86284.36,Yearly,Credit Card,None,2,No
+10729,30,Female,18,3689.6,145590.57,Monthly,Net Banking,Fiber,6,No
+10730,45,Male,33,1300.46,102501.99,Quarterly,Net Banking,Fiber,9,No
+10731,66,Male,12,4498.4,124770.56,Yearly,Credit Card,DSL,11,No
+10732,42,Female,42,2488.59,79675.95,Monthly,Debit Card,None,6,No
+10733,50,Female,61,1142.81,153873.15,Monthly,UPI,DSL,10,No
+10734,55,Female,21,3939.13,85612.69,Monthly,Debit Card,None,8,No
+10735,23,Female,51,4054.89,92034.87,Monthly,Net Banking,None,13,Yes
+10736,61,Male,51,3376.83,104018.05,Quarterly,UPI,None,5,No
+10737,62,Male,35,4340.59,166533.0,Monthly,UPI,DSL,14,No
+10738,49,Female,18,3818.18,132216.41,Monthly,Credit Card,DSL,12,Yes
+10739,62,Female,37,4469.93,70482.92,Monthly,Debit Card,Fiber,6,No
+10740,64,Male,69,2452.5,134393.61,Monthly,UPI,DSL,10,No
+10741,38,Female,56,3864.19,128842.89,Monthly,Credit Card,None,9,Yes
+10742,33,Male,19,4998.88,186272.84,Monthly,Debit Card,None,0,No
+10743,38,Female,8,3762.19,168441.87,Monthly,Net Banking,None,6,No
+10744,28,Male,31,1013.83,129841.94,Quarterly,Net Banking,DSL,1,Yes
+10745,54,Female,3,2832.43,68959.92,Quarterly,Debit Card,Fiber,6,No
+10746,53,Female,49,3143.07,156135.71,Quarterly,UPI,DSL,2,No
+10747,52,Male,4,1283.95,115466.45,Quarterly,UPI,Fiber,8,No
+10748,36,Female,19,4833.01,197068.73,Quarterly,Net Banking,DSL,12,No
+10749,37,Male,36,1290.11,50253.72,Quarterly,Net Banking,None,4,No
+10750,35,Male,21,1299.01,16851.51,Quarterly,UPI,Fiber,6,No
+10751,64,Male,57,4618.25,14908.47,Quarterly,Debit Card,DSL,7,Yes
+10752,58,Male,67,2593.42,128366.05,Monthly,Net Banking,None,12,No
+10753,66,Male,43,784.35,187912.79,Monthly,UPI,Fiber,11,No
+10754,31,Female,33,3191.84,1384.45,Quarterly,Debit Card,Fiber,1,Yes
+10755,32,Female,41,3208.22,145428.44,Monthly,Credit Card,None,10,No
+10756,48,Male,8,790.25,131755.97,Monthly,Debit Card,None,0,No
+10757,18,Female,6,4876.35,146728.53,Monthly,UPI,DSL,6,Yes
+10758,20,Male,67,2948.13,71725.68,Monthly,Debit Card,DSL,14,No
+10759,33,Female,18,3019.08,164278.79,Yearly,UPI,None,5,No
+10760,40,Female,30,2840.52,9896.68,Monthly,Net Banking,DSL,5,Yes
+10761,28,Female,34,3248.29,151330.79,Monthly,Credit Card,None,1,Yes
+10762,29,Female,56,1689.35,54147.32,Monthly,Net Banking,None,2,Yes
+10763,27,Male,60,1792.59,95890.72,Quarterly,Net Banking,DSL,3,Yes
+10764,49,Male,30,2801.03,164704.62,Monthly,UPI,DSL,2,Yes
+10765,33,Female,52,4130.09,55000.45,Quarterly,UPI,Fiber,1,No
+10766,25,Female,31,724.39,37856.29,Quarterly,UPI,Fiber,2,Yes
+10767,55,Male,65,3215.32,136581.32,Monthly,UPI,DSL,13,No
+10768,29,Female,58,4130.5,107145.58,Monthly,Net Banking,DSL,5,No
+10769,41,Male,9,1206.13,103366.37,Monthly,UPI,DSL,8,No
+10770,45,Male,1,567.6,52097.13,Quarterly,UPI,Fiber,3,No
+10771,25,Male,65,1907.21,7941.18,Quarterly,Net Banking,DSL,5,No
+10772,45,Female,59,3146.65,82643.56,Monthly,Credit Card,Fiber,0,Yes
+10773,53,Male,16,1122.27,22205.34,Monthly,Credit Card,Fiber,11,Yes
+10774,43,Female,15,2417.55,181291.84,Monthly,Debit Card,Fiber,5,No
+10775,25,Male,15,2985.45,9208.81,Quarterly,Net Banking,Fiber,11,No
+10776,67,Female,45,3194.97,86898.52,Monthly,UPI,None,2,No
+10777,45,Female,38,1734.85,11396.87,Monthly,Debit Card,DSL,8,No
+10778,45,Female,30,2300.13,20013.23,Monthly,Credit Card,DSL,3,No
+10779,54,Male,0,4002.53,132114.47,Quarterly,Credit Card,None,6,No
+10780,58,Male,10,4735.47,129775.14,Quarterly,Net Banking,DSL,3,Yes
+10781,53,Female,3,4378.46,7577.39,Monthly,UPI,Fiber,10,No
+10782,44,Female,70,3039.28,1225.16,Quarterly,UPI,None,5,No
+10783,34,Female,25,2346.32,16684.8,Monthly,Debit Card,Fiber,13,Yes
+10784,26,Male,49,1998.3,152836.78,Yearly,Credit Card,None,6,Yes
+10785,50,Male,11,1062.3,117330.72,Monthly,Debit Card,Fiber,1,No
+10786,37,Male,64,979.48,8585.53,Quarterly,Debit Card,DSL,9,No
+10787,30,Male,46,3597.61,98131.31,Monthly,Debit Card,DSL,5,No
+10788,45,Female,52,1669.07,142693.84,Monthly,UPI,DSL,7,No
+10789,65,Female,70,1645.98,173921.33,Quarterly,Credit Card,None,14,No
+10790,46,Male,1,4991.88,186873.26,Monthly,Debit Card,DSL,12,No
+10791,30,Male,23,1345.67,66160.67,Monthly,Credit Card,None,12,Yes
+10792,63,Female,3,1166.27,28030.65,Monthly,Credit Card,Fiber,14,No
+10793,52,Male,18,944.08,48148.26,Monthly,Debit Card,DSL,11,No
+10794,23,Male,25,3109.12,155458.13,Monthly,Debit Card,Fiber,5,Yes
+10795,35,Male,39,3325.39,194325.36,Monthly,Net Banking,DSL,1,No
+10796,68,Male,49,2143.53,93812.33,Quarterly,UPI,Fiber,3,No
+10797,22,Male,42,2909.36,61765.29,Quarterly,Credit Card,None,0,No
+10798,64,Male,66,4047.8,86408.93,Monthly,Debit Card,DSL,14,No
+10799,42,Female,11,4181.47,61657.82,Monthly,Debit Card,None,6,No
+10800,19,Male,66,4810.6,52041.02,Yearly,Credit Card,None,7,No
+10801,27,Male,26,4209.21,119156.4,Monthly,Debit Card,Fiber,9,No
+10802,47,Female,53,3041.79,4131.46,Monthly,Net Banking,DSL,1,No
+10803,67,Female,65,1308.46,52650.9,Quarterly,Credit Card,None,9,No
+10804,62,Female,48,948.94,132615.03,Quarterly,Debit Card,Fiber,14,No
+10805,22,Male,15,745.3,7380.48,Monthly,Credit Card,Fiber,4,No
+10806,50,Female,1,3499.37,17557.16,Monthly,Debit Card,Fiber,10,No
+10807,18,Male,59,4133.91,59385.83,Monthly,Debit Card,DSL,7,Yes
+10808,35,Male,53,2789.08,175683.15,Yearly,UPI,DSL,10,Yes
+10809,49,Male,29,746.21,153212.35,Monthly,Credit Card,Fiber,7,No
+10810,64,Female,37,2909.62,5409.17,Yearly,UPI,DSL,14,No
+10811,66,Female,27,4710.87,100840.85,Monthly,Debit Card,Fiber,4,No
+10812,28,Female,24,3189.26,55662.81,Monthly,Credit Card,DSL,7,No
+10813,38,Female,9,4142.42,130080.49,Monthly,Credit Card,DSL,13,No
+10814,43,Female,59,4100.69,144589.22,Quarterly,Net Banking,Fiber,5,No
+10815,42,Male,41,4694.58,172709.65,Monthly,Net Banking,Fiber,14,No
+10816,39,Male,39,3966.03,95607.83,Monthly,Debit Card,DSL,14,No
+10817,44,Male,41,3864.65,198895.57,Yearly,Debit Card,Fiber,4,No
+10818,66,Male,46,1553.46,196017.24,Yearly,Debit Card,Fiber,12,No
+10819,30,Female,36,769.66,176551.18,Monthly,Debit Card,Fiber,13,No
+10820,50,Female,21,2829.2,115399.03,Monthly,Net Banking,Fiber,10,No
+10821,51,Male,56,1059.95,80203.28,Quarterly,Credit Card,DSL,3,No
+10822,58,Female,26,4829.88,73512.88,Quarterly,UPI,None,4,Yes
+10823,52,Female,40,1804.66,3412.83,Monthly,Credit Card,DSL,11,Yes
+10824,18,Male,33,4338.25,50585.72,Yearly,Credit Card,Fiber,3,No
+10825,38,Male,31,2244.31,144042.84,Monthly,Net Banking,Fiber,0,Yes
+10826,65,Female,65,1954.37,121122.79,Quarterly,Credit Card,DSL,2,No
+10827,23,Female,11,4708.21,183368.02,Monthly,Credit Card,Fiber,7,Yes
+10828,45,Male,39,2134.95,10954.43,Monthly,Debit Card,DSL,6,No
+10829,34,Male,9,2256.3,31900.04,Monthly,UPI,None,11,Yes
+10830,22,Male,47,977.41,158059.51,Quarterly,Credit Card,Fiber,14,No
+10831,48,Female,19,3517.01,72343.02,Yearly,Credit Card,None,6,Yes
+10832,22,Male,38,1799.78,24550.72,Monthly,UPI,None,10,No
+10833,55,Male,59,3135.22,199293.65,Monthly,Debit Card,Fiber,2,No
+10834,20,Female,65,3161.08,157662.81,Monthly,Net Banking,Fiber,8,No
+10835,40,Female,64,3736.4,82339.47,Yearly,Net Banking,DSL,14,No
+10836,54,Female,50,3853.59,164846.15,Yearly,Credit Card,DSL,5,No
+10837,54,Female,35,2815.04,136440.17,Quarterly,Debit Card,Fiber,7,No
+10838,27,Female,23,1989.46,158204.98,Monthly,Net Banking,DSL,7,No
+10839,27,Male,26,4268.53,163226.07,Yearly,Net Banking,None,2,Yes
+10840,36,Male,1,1894.4,17861.01,Monthly,Net Banking,None,3,Yes
+10841,34,Female,30,2783.79,124971.6,Monthly,Net Banking,Fiber,13,No
+10842,38,Female,56,2305.64,2350.33,Monthly,Net Banking,DSL,5,Yes
+10843,31,Female,65,4347.85,9647.79,Monthly,Credit Card,Fiber,1,No
+10844,26,Female,28,2443.63,180892.02,Quarterly,Net Banking,None,11,No
+10845,63,Female,14,2237.45,105985.18,Quarterly,Credit Card,Fiber,11,No
+10846,18,Male,11,3604.21,147444.5,Monthly,UPI,Fiber,10,Yes
+10847,68,Male,27,3210.98,167861.7,Monthly,UPI,Fiber,11,No
+10848,62,Male,23,982.61,189967.77,Monthly,Debit Card,Fiber,6,No
+10849,30,Male,20,2786.76,174001.22,Monthly,Credit Card,None,1,No
+10850,21,Female,9,3809.65,97178.98,Monthly,Debit Card,Fiber,10,No
+10851,18,Male,17,4964.34,67858.09,Monthly,UPI,Fiber,4,Yes
+10852,66,Female,13,3331.16,31744.15,Quarterly,UPI,DSL,11,No
+10853,57,Female,33,2166.32,80663.98,Yearly,UPI,Fiber,3,No
+10854,49,Female,57,1517.68,73932.22,Yearly,UPI,DSL,8,Yes
+10855,51,Male,21,4427.74,112355.39,Yearly,Net Banking,Fiber,12,Yes
+10856,45,Female,69,4165.54,133436.37,Quarterly,UPI,DSL,12,No
+10857,48,Male,35,1552.65,195686.77,Monthly,Net Banking,Fiber,14,No
+10858,25,Male,44,1402.84,145948.85,Yearly,Net Banking,DSL,1,No
+10859,56,Female,35,3718.12,129105.96,Monthly,Debit Card,Fiber,6,Yes
+10860,43,Female,21,1917.28,67683.39,Quarterly,Net Banking,Fiber,12,No
+10861,51,Female,60,1878.79,7866.27,Monthly,Debit Card,DSL,6,No
+10862,20,Male,55,1185.31,58336.9,Quarterly,Net Banking,Fiber,6,No
+10863,67,Female,32,1687.89,153921.13,Monthly,Net Banking,Fiber,0,No
+10864,29,Male,44,2423.78,41849.12,Monthly,UPI,Fiber,7,No
+10865,18,Female,35,3797.77,142725.45,Monthly,Credit Card,Fiber,1,Yes
+10866,61,Female,19,2013.39,116376.19,Monthly,Net Banking,None,14,No
+10867,22,Male,17,1978.72,35199.52,Yearly,Credit Card,Fiber,14,No
+10868,47,Male,37,1782.11,53063.34,Monthly,Credit Card,None,4,No
+10869,47,Male,66,2652.28,99764.42,Monthly,Credit Card,None,1,No
+10870,34,Male,22,1312.87,84256.57,Yearly,Net Banking,Fiber,12,No
+10871,65,Male,15,2685.34,155934.21,Quarterly,Credit Card,DSL,4,No
+10872,64,Male,58,3668.79,147146.52,Monthly,Net Banking,DSL,6,No
+10873,40,Female,68,634.06,115340.33,Monthly,UPI,Fiber,5,Yes
+10874,32,Female,67,544.01,164632.67,Monthly,Net Banking,None,12,No
+10875,54,Male,20,838.05,112971.24,Yearly,Debit Card,DSL,14,Yes
+10876,38,Female,69,2910.47,192913.46,Quarterly,UPI,Fiber,11,No
+10877,31,Male,11,4345.05,44227.6,Yearly,Credit Card,Fiber,4,Yes
+10878,19,Female,15,521.98,143112.27,Monthly,Credit Card,None,3,No
+10879,28,Female,13,4714.98,74618.88,Monthly,Debit Card,DSL,7,No
+10880,68,Male,60,978.25,56514.27,Monthly,UPI,Fiber,10,No
+10881,56,Male,70,4288.93,36897.11,Quarterly,Debit Card,DSL,13,Yes
+10882,55,Male,45,2672.85,110948.19,Monthly,Credit Card,Fiber,7,No
+10883,51,Female,31,3467.11,43878.42,Monthly,Net Banking,Fiber,0,No
+10884,55,Male,14,2798.07,40869.82,Monthly,Credit Card,Fiber,9,Yes
+10885,67,Female,43,2646.72,198115.85,Monthly,Debit Card,None,1,No
+10886,51,Male,16,4257.05,160547.74,Quarterly,Net Banking,None,2,No
+10887,35,Female,40,3901.49,149907.09,Monthly,Net Banking,None,12,No
+10888,47,Female,53,2675.31,159018.06,Monthly,Credit Card,DSL,0,No
+10889,32,Male,43,1002.36,193815.65,Monthly,Net Banking,None,10,No
+10890,44,Female,4,1019.31,115082.06,Yearly,UPI,None,2,No
+10891,68,Female,26,4106.93,44828.53,Monthly,Credit Card,DSL,9,No
+10892,51,Male,42,2882.26,172579.72,Monthly,Credit Card,DSL,11,Yes
+10893,69,Female,30,2667.15,148803.42,Monthly,UPI,DSL,7,Yes
+10894,55,Male,16,3562.55,83447.35,Monthly,Credit Card,DSL,3,No
+10895,50,Male,53,4364.79,95240.33,Yearly,Debit Card,None,12,No
+10896,41,Male,61,3329.93,82839.23,Monthly,Debit Card,None,12,Yes
+10897,32,Male,31,3932.82,186058.49,Yearly,Credit Card,DSL,6,No
+10898,47,Female,39,3943.72,69362.79,Monthly,UPI,None,6,No
+10899,59,Female,12,2103.18,192733.37,Yearly,Net Banking,Fiber,10,Yes
+10900,68,Female,34,1733.37,182144.08,Quarterly,UPI,None,4,Yes
+10901,34,Male,4,4105.24,126473.71,Monthly,Debit Card,Fiber,11,No
+10902,22,Female,28,2197.3,116384.53,Quarterly,Credit Card,DSL,0,No
+10903,46,Female,69,4565.01,74647.77,Monthly,UPI,DSL,9,No
+10904,21,Male,24,813.61,4649.34,Monthly,Net Banking,None,3,No
+10905,27,Male,21,761.98,26397.01,Monthly,Net Banking,DSL,6,No
+10906,34,Female,65,4671.52,151092.03,Monthly,Net Banking,None,13,No
+10907,27,Male,44,3418.05,94836.49,Quarterly,Net Banking,None,4,Yes
+10908,34,Male,68,2208.2,30817.79,Monthly,UPI,None,1,No
+10909,37,Male,71,3897.77,53528.21,Quarterly,Net Banking,None,13,No
+10910,41,Male,0,3525.47,189619.54,Monthly,Debit Card,Fiber,7,No
+10911,22,Female,43,2890.4,74059.43,Monthly,Net Banking,Fiber,1,No
+10912,51,Male,38,944.93,181628.71,Yearly,Debit Card,DSL,10,Yes
+10913,23,Male,53,4154.81,61622.53,Quarterly,UPI,Fiber,7,No
+10914,19,Male,28,4397.1,109100.8,Quarterly,Debit Card,DSL,12,No
+10915,30,Male,53,1274.76,5074.94,Quarterly,UPI,DSL,10,No
+10916,60,Male,15,4327.3,104853.15,Yearly,Net Banking,None,1,Yes
+10917,60,Male,19,4450.31,127751.46,Monthly,Credit Card,None,10,No
+10918,65,Male,45,2972.43,47626.71,Quarterly,Debit Card,None,4,No
+10919,28,Male,66,3452.81,116208.5,Monthly,Debit Card,None,3,Yes
+10920,68,Female,64,2220.07,129786.39,Monthly,Credit Card,None,0,Yes
+10921,64,Male,57,1768.06,137690.33,Monthly,UPI,None,13,No
+10922,40,Female,52,3748.92,155504.26,Monthly,UPI,Fiber,11,Yes
+10923,33,Male,0,4378.44,62956.51,Monthly,Net Banking,DSL,7,No
+10924,48,Male,65,3443.35,113987.61,Yearly,Debit Card,DSL,9,No
+10925,28,Male,28,2802.16,196334.23,Quarterly,UPI,None,11,No
+10926,33,Male,69,1215.16,179730.69,Monthly,Net Banking,Fiber,2,No
+10927,25,Female,7,740.56,190580.42,Monthly,UPI,None,12,No
+10928,21,Male,28,2505.61,77841.14,Monthly,Credit Card,Fiber,3,No
+10929,57,Male,50,722.07,157598.69,Monthly,Credit Card,Fiber,3,Yes
+10930,21,Female,32,3062.01,124359.69,Quarterly,Credit Card,DSL,4,Yes
+10931,42,Female,2,2222.28,17464.28,Monthly,Net Banking,DSL,2,Yes
+10932,20,Male,59,3907.35,164972.1,Monthly,Debit Card,Fiber,8,No
+10933,49,Female,34,1875.42,135743.15,Yearly,Credit Card,DSL,3,No
+10934,20,Female,68,3168.42,40584.55,Quarterly,Credit Card,Fiber,13,Yes
+10935,44,Female,19,2919.58,16867.97,Quarterly,UPI,Fiber,9,No
+10936,46,Male,38,521.21,167567.4,Quarterly,Credit Card,Fiber,14,No
+10937,49,Male,3,825.75,16701.46,Monthly,Debit Card,DSL,10,No
+10938,67,Male,18,1806.66,19179.42,Monthly,Net Banking,None,10,Yes
+10939,68,Female,44,4470.06,86054.25,Quarterly,Credit Card,DSL,3,No
+10940,36,Male,42,1161.57,27824.77,Quarterly,Net Banking,None,5,No
+10941,38,Female,12,3699.02,182820.25,Monthly,Net Banking,DSL,14,Yes
+10942,22,Male,12,4880.15,94586.5,Monthly,Debit Card,DSL,7,No
+10943,35,Male,59,4057.55,114261.05,Quarterly,UPI,None,12,Yes
+10944,45,Female,56,1593.25,185693.11,Monthly,UPI,Fiber,6,No
+10945,59,Male,51,4587.64,106522.38,Monthly,Net Banking,None,3,No
+10946,39,Female,52,918.98,71364.64,Monthly,Credit Card,Fiber,3,No
+10947,38,Female,42,2606.64,159633.87,Monthly,Net Banking,Fiber,4,Yes
+10948,23,Male,71,4493.94,89127.19,Monthly,UPI,DSL,9,No
+10949,18,Female,71,3385.7,64375.42,Monthly,Credit Card,DSL,4,Yes
+10950,22,Male,41,2361.4,144922.66,Quarterly,UPI,DSL,11,No
+10951,58,Male,25,1817.66,160519.53,Monthly,Debit Card,DSL,0,No
+10952,29,Female,22,2187.95,158551.52,Monthly,UPI,DSL,12,No
+10953,43,Male,42,2790.24,195557.21,Monthly,Credit Card,None,7,No
+10954,63,Female,27,1935.7,157546.72,Yearly,Credit Card,None,9,Yes
+10955,51,Male,8,4860.36,154216.75,Monthly,Net Banking,None,12,No
+10956,66,Male,19,4698.85,171639.57,Monthly,Credit Card,None,4,Yes
+10957,31,Male,55,4418.02,1036.85,Quarterly,Debit Card,DSL,2,Yes
+10958,43,Male,38,2398.23,73123.85,Monthly,UPI,None,2,No
+10959,62,Male,50,3610.86,147783.02,Monthly,Net Banking,None,3,No
+10960,44,Female,11,4562.73,120344.08,Monthly,Net Banking,Fiber,11,Yes
+10961,26,Female,54,4326.93,36336.83,Yearly,Credit Card,DSL,6,No
+10962,43,Female,10,2364.47,61442.88,Yearly,Debit Card,None,4,Yes
+10963,64,Female,25,1005.74,68021.73,Yearly,Net Banking,None,0,Yes
+10964,39,Female,41,840.34,113997.79,Monthly,Debit Card,None,13,Yes
+10965,64,Female,26,3096.79,166488.06,Yearly,Debit Card,DSL,11,No
+10966,47,Male,10,3391.83,186565.86,Monthly,UPI,None,12,No
+10967,60,Male,37,4324.29,150268.39,Quarterly,UPI,Fiber,4,No
+10968,65,Female,42,1816.32,168747.13,Quarterly,UPI,DSL,13,Yes
+10969,34,Female,18,1253.62,94549.1,Monthly,Debit Card,Fiber,4,No
+10970,43,Male,63,2205.53,78565.29,Quarterly,UPI,DSL,5,No
+10971,53,Male,5,2091.09,79149.0,Monthly,Net Banking,None,13,No
+10972,18,Male,45,1096.11,123591.67,Monthly,Net Banking,DSL,6,No
+10973,25,Female,41,3525.27,25723.1,Yearly,Credit Card,DSL,4,No
+10974,66,Female,64,2789.11,116319.34,Monthly,Debit Card,DSL,14,No
+10975,52,Female,71,3745.05,133361.44,Monthly,UPI,Fiber,12,No
+10976,69,Male,58,2087.11,88342.84,Monthly,Net Banking,DSL,10,No
+10977,32,Male,51,1965.66,190680.27,Yearly,Debit Card,None,13,No
+10978,64,Female,46,2626.59,122034.44,Monthly,Debit Card,DSL,1,No
+10979,39,Female,6,4448.33,44779.89,Monthly,UPI,DSL,13,Yes
+10980,31,Male,10,681.27,96364.04,Yearly,Debit Card,None,1,No
+10981,43,Male,60,4121.75,135405.48,Monthly,UPI,None,12,No
+10982,45,Male,67,2160.44,65402.2,Monthly,UPI,Fiber,3,Yes
+10983,40,Male,24,4345.79,16848.68,Quarterly,UPI,None,0,Yes
+10984,31,Female,11,4109.91,117103.69,Monthly,Debit Card,None,6,No
+10985,41,Male,25,2069.43,189626.16,Quarterly,Debit Card,None,12,No
+10986,19,Male,11,3622.44,97529.33,Monthly,UPI,DSL,0,Yes
+10987,62,Male,42,1218.35,181315.71,Yearly,Debit Card,Fiber,2,No
+10988,43,Female,50,4533.27,167169.69,Yearly,UPI,None,9,No
+10989,31,Female,36,2320.21,30335.14,Monthly,Credit Card,None,6,Yes
+10990,68,Male,45,2550.32,141925.81,Monthly,Debit Card,None,10,Yes
+10991,24,Male,52,3675.92,87657.64,Yearly,Debit Card,DSL,11,No
+10992,20,Male,12,4193.78,50799.02,Monthly,Credit Card,DSL,11,No
+10993,64,Female,53,1563.54,137700.73,Monthly,Credit Card,Fiber,5,No
+10994,40,Female,56,3476.08,148789.48,Quarterly,Credit Card,Fiber,14,Yes
+10995,63,Female,3,2263.99,36799.37,Quarterly,UPI,DSL,14,No
+10996,60,Male,48,2159.16,182974.49,Quarterly,UPI,None,6,Yes
+10997,64,Female,6,3605.12,150478.3,Monthly,Net Banking,None,4,No
+10998,62,Male,10,2242.32,186741.72,Monthly,Credit Card,Fiber,7,Yes
+10999,35,Male,53,2057.49,64097.57,Yearly,Net Banking,None,5,Yes
+11000,55,Male,44,4261.5,187927.67,Quarterly,UPI,DSL,11,No
+11001,52,Female,22,955.74,74335.01,Quarterly,Debit Card,Fiber,3,No
+11002,68,Male,27,3541.52,11739.98,Yearly,Credit Card,DSL,13,Yes
+11003,32,Female,56,1619.26,152830.91,Quarterly,Debit Card,DSL,10,No
+11004,42,Female,25,569.74,140998.12,Monthly,UPI,None,0,No
+11005,54,Male,24,1250.44,119984.29,Quarterly,Credit Card,DSL,1,No
+11006,45,Male,53,3229.98,98488.86,Monthly,Net Banking,DSL,11,No
+11007,27,Female,28,3691.07,7400.89,Monthly,Net Banking,None,5,No
+11008,56,Male,35,594.76,125294.85,Monthly,UPI,DSL,3,No
+11009,34,Female,13,663.91,83950.09,Quarterly,Debit Card,None,2,Yes
+11010,56,Male,34,4561.44,112481.67,Yearly,UPI,DSL,6,No
+11011,39,Female,29,829.88,86434.95,Monthly,Debit Card,None,6,Yes
+11012,43,Female,16,4523.82,193245.17,Monthly,UPI,None,1,Yes
+11013,61,Female,66,1526.75,121217.67,Monthly,Net Banking,Fiber,7,Yes
+11014,42,Female,29,3830.08,150098.03,Quarterly,Debit Card,DSL,14,Yes
+11015,34,Male,44,1893.8,187333.04,Quarterly,UPI,DSL,14,No
+11016,30,Male,50,4364.38,118728.27,Monthly,Credit Card,Fiber,10,No
+11017,37,Female,46,3652.05,3400.44,Quarterly,Net Banking,None,0,No
+11018,42,Female,52,2308.16,7824.04,Monthly,Net Banking,None,10,Yes
+11019,21,Male,63,843.36,140765.35,Monthly,Credit Card,Fiber,9,No
+11020,27,Male,37,3797.15,56537.94,Monthly,UPI,Fiber,6,No
+11021,20,Male,63,3275.98,116296.57,Yearly,Debit Card,None,9,No
+11022,58,Male,6,513.1,41253.16,Monthly,Net Banking,None,11,Yes
+11023,62,Male,21,542.39,54779.53,Quarterly,UPI,Fiber,0,Yes
+11024,35,Male,40,4139.57,101423.57,Monthly,Credit Card,DSL,12,No
+11025,64,Female,9,1667.3,195138.32,Monthly,Debit Card,None,11,No
+11026,53,Male,56,3362.6,123637.83,Monthly,UPI,Fiber,14,No
+11027,64,Male,6,2543.96,187293.47,Monthly,UPI,DSL,13,Yes
+11028,39,Female,49,4385.44,191916.59,Monthly,Net Banking,DSL,2,Yes
+11029,51,Male,51,4626.33,42413.89,Quarterly,Net Banking,DSL,2,Yes
+11030,64,Male,32,4985.63,62927.53,Monthly,Debit Card,DSL,9,No
+11031,25,Male,0,1191.58,154228.46,Quarterly,UPI,Fiber,13,No
+11032,57,Male,52,4383.34,173486.04,Monthly,Credit Card,None,1,Yes
+11033,66,Male,59,1697.1,104326.12,Monthly,Credit Card,DSL,13,No
+11034,61,Female,33,3158.67,198651.99,Monthly,Debit Card,DSL,9,No
+11035,36,Male,3,2775.98,3302.87,Yearly,UPI,Fiber,12,No
+11036,59,Female,16,580.95,60618.94,Monthly,Net Banking,DSL,4,Yes
+11037,58,Female,3,4697.47,125009.19,Monthly,UPI,Fiber,3,No
+11038,54,Male,42,852.47,94388.69,Yearly,Net Banking,Fiber,12,No
+11039,23,Female,3,3596.99,24203.99,Monthly,Credit Card,None,5,No
+11040,69,Male,0,4032.53,74189.63,Quarterly,Debit Card,DSL,1,No
+11041,43,Female,70,4078.8,6063.98,Monthly,Debit Card,None,13,Yes
+11042,51,Female,49,1109.73,128906.46,Quarterly,Debit Card,Fiber,3,Yes
+11043,62,Male,60,2514.06,178655.77,Monthly,Net Banking,DSL,11,No
+11044,23,Male,34,4232.43,177089.95,Yearly,Credit Card,Fiber,6,No
+11045,54,Male,7,1862.06,140209.35,Monthly,Credit Card,Fiber,0,No
+11046,50,Male,23,2604.87,93688.27,Monthly,Debit Card,Fiber,12,No
+11047,39,Male,35,1727.57,102894.29,Monthly,Debit Card,DSL,10,No
+11048,38,Female,49,2585.98,28246.85,Monthly,Net Banking,Fiber,2,No
+11049,23,Female,42,4495.27,68862.4,Quarterly,Net Banking,Fiber,0,No
+11050,23,Female,26,2548.06,38357.89,Monthly,UPI,DSL,1,No
+11051,65,Female,31,3001.6,164418.84,Monthly,Net Banking,None,8,No
+11052,21,Female,17,2317.89,183036.03,Monthly,UPI,Fiber,9,No
+11053,47,Female,27,2570.53,107847.73,Monthly,Debit Card,None,4,No
+11054,28,Female,28,568.28,145825.04,Monthly,Credit Card,None,12,Yes
+11055,47,Male,15,1776.85,25171.49,Monthly,Net Banking,None,3,No
+11056,48,Male,46,2464.62,122098.39,Quarterly,Credit Card,None,11,No
+11057,41,Female,58,3352.09,140855.41,Yearly,Net Banking,None,3,No
+11058,26,Female,30,2525.23,91100.86,Monthly,Net Banking,None,7,No
+11059,20,Male,3,2020.18,49411.34,Quarterly,UPI,DSL,11,No
+11060,68,Male,36,2246.44,175597.53,Monthly,Net Banking,DSL,2,No
+11061,48,Male,16,1590.32,148838.84,Monthly,Debit Card,None,14,Yes
+11062,57,Male,38,4660.22,180071.6,Monthly,Credit Card,DSL,11,No
+11063,54,Female,47,2847.84,163862.13,Monthly,Net Banking,DSL,11,No
+11064,53,Male,45,560.34,198084.51,Monthly,Credit Card,None,3,No
+11065,41,Female,47,587.51,39242.37,Yearly,Credit Card,None,1,No
+11066,48,Female,38,4878.33,18262.81,Yearly,Credit Card,Fiber,5,Yes
+11067,23,Female,3,1496.53,68063.56,Monthly,Net Banking,DSL,11,Yes
+11068,19,Male,29,4125.24,26671.83,Monthly,UPI,None,8,No
+11069,37,Male,29,762.24,105102.89,Yearly,Credit Card,DSL,11,Yes
+11070,45,Female,21,4645.23,126972.75,Monthly,Credit Card,DSL,3,No
+11071,28,Female,65,4434.88,116079.43,Quarterly,Net Banking,DSL,10,Yes
+11072,21,Female,11,3069.92,52588.79,Monthly,Net Banking,Fiber,5,Yes
+11073,32,Male,35,540.49,181855.98,Monthly,Debit Card,None,3,No
+11074,23,Female,17,1660.15,5213.3,Monthly,Debit Card,DSL,13,No
+11075,66,Male,52,2330.7,70254.66,Yearly,UPI,None,1,Yes
+11076,47,Female,70,2570.29,144079.5,Yearly,UPI,DSL,12,Yes
+11077,55,Female,0,1839.55,153618.86,Monthly,UPI,None,13,No
+11078,68,Female,57,648.27,83807.59,Quarterly,UPI,None,5,No
+11079,19,Male,5,3155.57,4365.05,Monthly,Credit Card,None,11,No
+11080,32,Male,69,2858.7,123990.69,Monthly,Net Banking,DSL,6,Yes
+11081,28,Female,43,1773.5,13555.84,Quarterly,Debit Card,Fiber,3,No
+11082,25,Male,71,670.89,22463.3,Monthly,Credit Card,None,11,Yes
+11083,43,Female,23,4975.67,130399.89,Monthly,Net Banking,Fiber,10,No
+11084,68,Male,18,2668.94,63185.18,Monthly,Net Banking,None,6,No
+11085,62,Male,17,3902.02,70258.0,Yearly,Credit Card,Fiber,12,No
+11086,61,Male,29,2535.41,97874.61,Yearly,Credit Card,None,10,No
+11087,22,Female,41,694.27,195737.1,Quarterly,Debit Card,Fiber,7,Yes
+11088,23,Male,32,1893.2,193123.0,Monthly,UPI,None,10,No
+11089,43,Male,11,1940.5,83835.94,Quarterly,UPI,None,2,No
+11090,21,Female,26,4272.59,53834.34,Monthly,Debit Card,Fiber,14,No
+11091,36,Female,38,3444.03,61215.84,Yearly,Debit Card,None,1,No
+11092,37,Female,8,1739.43,54487.48,Monthly,UPI,DSL,4,Yes
+11093,50,Female,20,4854.83,106916.92,Monthly,Credit Card,None,1,No
+11094,37,Male,28,1946.94,121765.1,Monthly,UPI,None,9,Yes
+11095,66,Male,32,4992.05,98267.1,Quarterly,Net Banking,DSL,4,No
+11096,29,Male,61,4982.74,82190.88,Quarterly,Net Banking,DSL,9,No
+11097,64,Male,14,1360.45,43045.72,Monthly,Debit Card,DSL,14,Yes
+11098,18,Male,1,1907.34,97018.61,Monthly,UPI,Fiber,12,Yes
+11099,43,Female,51,2687.2,68879.44,Quarterly,UPI,DSL,5,No
+11100,31,Male,43,3488.45,108777.5,Monthly,Net Banking,Fiber,7,No
+11101,55,Male,53,2876.21,135362.69,Quarterly,UPI,DSL,5,Yes
+11102,54,Male,17,4862.49,127029.12,Yearly,Debit Card,Fiber,3,Yes
+11103,28,Female,2,3757.95,93035.55,Monthly,Debit Card,DSL,2,No
+11104,53,Female,6,1454.2,111654.43,Monthly,Net Banking,DSL,13,No
+11105,30,Male,42,972.94,57686.37,Monthly,UPI,None,13,No
+11106,60,Female,37,3597.81,5823.81,Monthly,UPI,DSL,1,No
+11107,20,Female,36,1213.04,125378.87,Monthly,Net Banking,None,12,No
+11108,50,Female,57,4044.55,51261.14,Quarterly,Credit Card,DSL,0,Yes
+11109,23,Female,32,1899.67,134121.79,Monthly,Credit Card,DSL,1,Yes
+11110,67,Female,58,1971.02,149654.69,Monthly,UPI,None,1,No
+11111,27,Female,10,548.59,183269.62,Quarterly,Debit Card,None,14,No
+11112,22,Female,67,3654.55,191666.44,Quarterly,Credit Card,Fiber,4,No
+11113,40,Male,67,1009.71,3094.68,Yearly,UPI,None,8,No
+11114,27,Male,21,3977.96,198084.47,Monthly,Credit Card,Fiber,0,No
+11115,61,Female,65,2713.41,136920.65,Quarterly,Net Banking,DSL,3,No
+11116,19,Male,43,4029.26,129061.31,Yearly,Credit Card,None,9,No
+11117,30,Male,5,3127.67,4027.41,Monthly,Credit Card,None,6,Yes
+11118,57,Female,41,870.95,172385.45,Monthly,Net Banking,DSL,10,No
+11119,19,Male,24,3945.44,29952.8,Monthly,Debit Card,DSL,13,Yes
+11120,37,Female,56,814.1,167628.7,Yearly,UPI,DSL,9,No
+11121,18,Female,54,2654.16,4096.95,Monthly,Debit Card,DSL,2,No
+11122,54,Female,15,1275.57,129546.89,Yearly,Debit Card,None,7,No
+11123,26,Male,13,3885.51,87525.51,Quarterly,Credit Card,DSL,2,No
+11124,34,Male,38,4602.16,40952.58,Monthly,UPI,DSL,7,No
+11125,26,Male,27,2993.57,22404.72,Monthly,Credit Card,None,12,Yes
+11126,28,Male,50,2872.16,88585.41,Monthly,Net Banking,Fiber,1,No
+11127,32,Female,48,3937.83,25537.86,Monthly,Debit Card,None,4,Yes
+11128,41,Female,8,522.85,97802.88,Quarterly,Debit Card,Fiber,3,No
+11129,55,Male,57,4629.91,125418.19,Quarterly,Net Banking,DSL,10,No
+11130,52,Female,44,1388.52,165649.45,Monthly,UPI,None,8,Yes
+11131,47,Female,21,4928.53,136051.24,Quarterly,Debit Card,DSL,2,No
+11132,48,Male,31,3813.14,13974.75,Monthly,Debit Card,None,11,No
+11133,66,Female,68,3984.13,62179.07,Monthly,UPI,Fiber,10,No
+11134,22,Male,68,3452.91,58307.74,Monthly,Credit Card,None,4,No
+11135,61,Female,41,2622.48,183091.45,Monthly,Net Banking,DSL,9,No
+11136,67,Male,52,3072.32,173688.63,Yearly,UPI,None,8,Yes
+11137,31,Female,58,708.81,74659.44,Quarterly,Net Banking,DSL,12,No
+11138,28,Female,38,3307.82,15159.9,Monthly,Net Banking,None,5,No
+11139,26,Male,14,3317.44,178927.36,Monthly,Debit Card,Fiber,1,Yes
+11140,51,Male,70,4510.4,177749.8,Monthly,UPI,None,0,No
+11141,29,Male,28,2775.45,171094.48,Monthly,Net Banking,None,11,No
+11142,52,Male,2,847.15,169171.25,Quarterly,Credit Card,None,10,No
+11143,52,Female,9,1877.88,96570.55,Yearly,Net Banking,None,0,Yes
+11144,18,Female,28,3450.33,36308.9,Quarterly,Debit Card,Fiber,6,No
+11145,57,Male,34,1576.66,96020.12,Monthly,Credit Card,DSL,13,Yes
+11146,39,Female,5,1762.38,99424.96,Monthly,Credit Card,None,11,No
+11147,46,Male,11,4192.11,98496.42,Monthly,UPI,None,1,No
+11148,25,Male,37,3129.44,108215.74,Monthly,Credit Card,None,6,Yes
+11149,28,Female,18,2788.37,52273.75,Monthly,UPI,Fiber,0,Yes
+11150,58,Female,66,1933.03,73882.0,Monthly,UPI,DSL,3,No
+11151,54,Male,7,3789.18,87403.13,Monthly,Credit Card,DSL,9,Yes
+11152,31,Male,7,1794.73,27093.12,Quarterly,UPI,None,14,Yes
+11153,47,Male,46,3816.79,91617.46,Quarterly,UPI,None,14,No
+11154,52,Female,3,815.46,162283.45,Monthly,Credit Card,DSL,12,No
+11155,38,Female,50,4390.44,165783.85,Quarterly,Debit Card,None,10,No
+11156,54,Female,66,2748.05,82901.19,Monthly,Net Banking,None,3,No
+11157,22,Female,44,2473.29,104242.85,Monthly,UPI,None,14,No
+11158,36,Male,7,3249.61,7696.42,Quarterly,UPI,Fiber,4,No
+11159,31,Male,15,3308.86,135212.08,Monthly,Credit Card,Fiber,13,Yes
+11160,43,Male,66,1094.16,81516.57,Yearly,Net Banking,DSL,13,No
+11161,21,Male,8,3903.05,89650.06,Monthly,Net Banking,Fiber,9,No
+11162,42,Male,59,1741.68,174860.87,Monthly,UPI,Fiber,14,Yes
+11163,62,Male,70,4572.33,92905.05,Monthly,Credit Card,DSL,14,No
+11164,59,Female,14,4180.33,5217.26,Quarterly,Debit Card,Fiber,0,No
+11165,42,Female,70,2058.2,46270.69,Quarterly,Net Banking,DSL,6,No
+11166,35,Male,40,4134.83,95648.5,Quarterly,Debit Card,None,10,No
+11167,57,Male,21,2103.76,85454.86,Quarterly,Credit Card,DSL,1,No
+11168,25,Female,23,954.26,172213.66,Monthly,Debit Card,DSL,11,No
+11169,56,Female,43,4828.5,108885.36,Monthly,Credit Card,DSL,14,No
+11170,57,Female,0,3436.71,138237.51,Quarterly,UPI,None,10,No
+11171,31,Female,9,2552.45,94395.34,Monthly,Debit Card,None,14,No
+11172,49,Male,71,2289.98,88491.49,Yearly,UPI,None,12,Yes
+11173,68,Male,55,1961.17,89811.05,Monthly,UPI,DSL,10,No
+11174,55,Male,49,4916.51,82773.39,Monthly,Credit Card,DSL,12,Yes
+11175,50,Male,11,1106.36,108178.09,Monthly,Debit Card,DSL,1,Yes
+11176,40,Male,59,1916.62,50838.24,Yearly,Net Banking,DSL,7,Yes
+11177,32,Female,25,2684.74,178319.98,Yearly,Debit Card,DSL,14,No
+11178,50,Male,40,2651.0,67284.02,Monthly,Net Banking,DSL,8,Yes
+11179,42,Female,35,2621.15,30357.24,Monthly,UPI,DSL,5,No
+11180,34,Male,22,1291.03,20213.55,Monthly,UPI,Fiber,10,Yes
+11181,50,Male,42,1152.2,3671.16,Monthly,Credit Card,None,0,No
+11182,64,Male,5,1646.45,85148.36,Yearly,Net Banking,Fiber,0,No
+11183,19,Male,68,4615.37,38334.59,Monthly,Debit Card,None,13,No
+11184,31,Male,42,1008.74,5307.93,Monthly,Credit Card,DSL,10,No
+11185,57,Female,24,3908.41,104483.89,Monthly,Credit Card,Fiber,6,No
+11186,57,Female,17,3908.97,136315.73,Monthly,Credit Card,DSL,7,No
+11187,68,Female,61,4143.97,18064.46,Quarterly,Debit Card,Fiber,2,No
+11188,56,Male,12,4489.77,92723.23,Monthly,Credit Card,Fiber,8,Yes
+11189,68,Male,42,1683.66,148982.11,Monthly,Debit Card,DSL,3,No
+11190,23,Female,27,1510.52,197175.56,Yearly,Credit Card,Fiber,3,No
+11191,23,Male,17,2594.78,133770.88,Monthly,Net Banking,Fiber,2,No
+11192,20,Male,58,1692.9,49723.07,Quarterly,UPI,None,7,No
+11193,24,Female,59,3804.39,143594.17,Monthly,Net Banking,DSL,8,No
+11194,68,Male,62,3361.73,119987.96,Monthly,Net Banking,DSL,0,No
+11195,25,Female,56,4437.44,43148.06,Monthly,Credit Card,Fiber,1,No
+11196,59,Male,50,872.32,170371.05,Monthly,Net Banking,DSL,0,No
+11197,69,Female,55,4617.88,86053.48,Monthly,Net Banking,None,13,No
+11198,32,Male,26,1820.07,192433.55,Monthly,Net Banking,None,3,Yes
+11199,64,Male,31,2708.12,144857.3,Monthly,Credit Card,DSL,9,No
+11200,46,Female,8,2473.75,129268.07,Monthly,Debit Card,DSL,6,No
+11201,50,Male,67,3921.4,145942.21,Quarterly,UPI,None,13,No
+11202,69,Male,45,2391.5,96141.31,Yearly,UPI,DSL,6,Yes
+11203,47,Female,66,4745.99,101540.07,Monthly,Debit Card,Fiber,11,Yes
+11204,56,Male,25,4561.4,170390.27,Monthly,Debit Card,DSL,5,No
+11205,44,Female,7,4424.73,136504.78,Quarterly,Net Banking,Fiber,12,Yes
+11206,53,Male,5,820.66,179551.42,Quarterly,UPI,None,10,No
+11207,46,Male,23,4344.16,178274.52,Monthly,Debit Card,DSL,4,Yes
+11208,55,Male,47,4017.36,195321.52,Monthly,Net Banking,None,10,No
+11209,50,Male,44,965.81,140342.72,Monthly,UPI,DSL,3,No
+11210,54,Female,12,983.36,100958.04,Monthly,Credit Card,Fiber,11,Yes
+11211,44,Male,68,955.24,34096.03,Yearly,Credit Card,DSL,12,No
+11212,50,Female,24,551.0,141370.73,Quarterly,UPI,None,13,No
+11213,21,Male,19,2968.85,59023.97,Quarterly,UPI,Fiber,7,No
+11214,39,Male,65,4880.27,57306.57,Monthly,Credit Card,DSL,6,No
+11215,19,Male,44,2474.08,48419.27,Monthly,Credit Card,None,10,No
+11216,27,Male,46,2933.41,175149.29,Yearly,UPI,None,10,No
+11217,22,Female,62,4855.86,173724.92,Monthly,Net Banking,DSL,9,Yes
+11218,27,Female,54,1648.32,126563.12,Monthly,Debit Card,None,0,Yes
+11219,50,Female,18,4363.12,95123.22,Monthly,Debit Card,Fiber,5,No
+11220,55,Female,34,2958.76,134750.78,Monthly,UPI,DSL,13,No
+11221,30,Male,52,3062.64,121838.66,Monthly,Debit Card,Fiber,1,No
+11222,48,Female,25,2044.28,83731.12,Monthly,Credit Card,None,3,Yes
+11223,64,Female,13,3027.13,76546.54,Yearly,Credit Card,None,4,No
+11224,53,Male,44,829.14,77176.07,Quarterly,Debit Card,None,7,No
+11225,62,Male,43,3940.9,118237.55,Monthly,UPI,Fiber,5,No
+11226,41,Male,64,1781.09,129886.2,Quarterly,Credit Card,None,10,Yes
+11227,69,Male,50,4494.24,90896.61,Monthly,Net Banking,DSL,1,Yes
+11228,32,Female,42,2155.33,193769.6,Monthly,Net Banking,DSL,4,No
+11229,46,Female,22,1142.71,17685.3,Quarterly,Credit Card,None,14,Yes
+11230,25,Male,55,3631.47,70062.36,Monthly,Credit Card,DSL,4,No
+11231,22,Male,18,1240.6,84395.86,Monthly,Debit Card,Fiber,5,Yes
+11232,46,Male,54,3891.56,4367.35,Quarterly,UPI,Fiber,0,No
+11233,64,Female,59,4856.51,73626.48,Yearly,Debit Card,None,7,No
+11234,21,Female,58,4007.99,55468.27,Monthly,UPI,DSL,2,No
+11235,29,Male,32,601.02,101701.22,Monthly,Net Banking,DSL,4,No
+11236,62,Male,18,3199.49,67945.7,Monthly,Net Banking,None,6,No
+11237,19,Female,27,3629.35,145510.24,Monthly,UPI,Fiber,2,No
+11238,44,Male,51,4214.56,102476.57,Monthly,Debit Card,None,13,Yes
+11239,48,Male,48,752.01,26822.68,Monthly,Credit Card,DSL,9,Yes
+11240,68,Female,36,2660.49,150262.2,Quarterly,UPI,DSL,14,Yes
+11241,68,Male,25,2909.17,20746.55,Monthly,Debit Card,None,12,Yes
+11242,53,Female,39,1261.06,167970.78,Monthly,Net Banking,Fiber,14,No
+11243,53,Male,37,1951.02,186353.02,Monthly,Credit Card,Fiber,5,No
+11244,43,Male,53,2481.0,65166.61,Monthly,Net Banking,None,4,No
+11245,60,Female,21,4249.44,185302.38,Yearly,UPI,DSL,6,No
+11246,44,Female,15,4682.33,158808.62,Monthly,Net Banking,Fiber,9,No
+11247,22,Male,27,3327.9,184564.69,Yearly,Net Banking,None,14,No
+11248,37,Female,34,2277.25,133587.76,Yearly,UPI,DSL,10,Yes
+11249,28,Male,59,1643.14,47893.16,Quarterly,Credit Card,Fiber,2,Yes
+11250,27,Male,44,4919.61,179010.12,Monthly,UPI,Fiber,12,No
+11251,57,Female,45,4923.59,37668.75,Yearly,Debit Card,None,13,Yes
+11252,55,Male,71,4662.4,43399.05,Monthly,UPI,DSL,1,No
+11253,23,Male,54,4035.51,54941.54,Monthly,UPI,Fiber,3,No
+11254,25,Female,25,1966.01,61545.02,Monthly,Credit Card,None,2,No
+11255,40,Female,24,4176.5,103381.45,Monthly,Debit Card,Fiber,14,No
+11256,64,Male,64,2339.57,142978.01,Monthly,Net Banking,DSL,3,No
+11257,43,Female,5,1970.48,185315.43,Monthly,Net Banking,Fiber,6,No
+11258,63,Female,22,3851.89,18599.08,Monthly,Net Banking,DSL,4,Yes
+11259,60,Female,63,858.44,190919.5,Quarterly,Net Banking,Fiber,3,No
+11260,29,Female,42,718.53,184343.27,Monthly,Credit Card,Fiber,13,Yes
+11261,43,Male,22,2515.79,11745.86,Monthly,Debit Card,None,14,No
+11262,30,Male,29,2505.37,72703.91,Yearly,Credit Card,Fiber,5,Yes
+11263,57,Male,17,4530.4,162815.53,Monthly,UPI,DSL,6,No
+11264,35,Female,20,1067.69,122703.73,Quarterly,Debit Card,None,11,No
+11265,42,Female,56,1054.78,156039.69,Yearly,Debit Card,DSL,13,No
+11266,50,Female,22,1163.54,144087.63,Monthly,Net Banking,DSL,10,Yes
+11267,64,Female,44,633.81,99857.25,Monthly,Net Banking,None,4,No
+11268,57,Female,43,822.79,9202.39,Yearly,Net Banking,DSL,11,No
+11269,60,Female,46,3469.41,117269.37,Yearly,Net Banking,Fiber,6,No
+11270,29,Female,39,2442.13,10664.76,Quarterly,UPI,None,2,No
+11271,61,Male,50,3936.21,121141.62,Monthly,Net Banking,Fiber,6,No
+11272,53,Male,41,4966.69,160281.76,Yearly,Credit Card,Fiber,11,Yes
+11273,65,Female,6,3465.66,117413.36,Monthly,Debit Card,DSL,14,No
+11274,21,Female,49,727.05,199407.34,Monthly,UPI,DSL,2,No
+11275,22,Female,47,970.53,91717.43,Monthly,UPI,Fiber,13,No
+11276,54,Male,5,4464.52,150016.67,Monthly,Debit Card,None,5,No
+11277,25,Male,8,2873.73,133775.45,Quarterly,Debit Card,Fiber,7,No
+11278,59,Female,56,4211.77,198294.91,Quarterly,Debit Card,Fiber,12,No
+11279,66,Female,30,4354.76,142930.58,Quarterly,UPI,DSL,14,Yes
+11280,45,Male,20,4674.54,33642.12,Monthly,Credit Card,DSL,5,No
+11281,48,Male,39,4774.23,191148.02,Monthly,Credit Card,Fiber,9,Yes
+11282,26,Male,44,2996.72,133887.67,Quarterly,Debit Card,Fiber,10,No
+11283,68,Male,48,2034.59,12808.31,Monthly,UPI,DSL,2,No
+11284,46,Female,19,4828.39,131856.09,Yearly,Net Banking,Fiber,11,No
+11285,31,Male,16,2963.33,176740.76,Quarterly,UPI,DSL,4,No
+11286,57,Male,27,789.14,115831.33,Quarterly,Debit Card,Fiber,8,No
+11287,58,Female,40,3392.49,71449.91,Monthly,UPI,None,7,Yes
+11288,39,Male,65,3144.58,164361.02,Quarterly,UPI,None,5,Yes
+11289,28,Male,24,4531.07,156719.89,Yearly,UPI,Fiber,8,No
+11290,40,Male,57,3439.34,109292.25,Monthly,Net Banking,DSL,1,Yes
+11291,18,Female,40,2070.74,31717.99,Quarterly,Debit Card,Fiber,12,Yes
+11292,63,Male,5,4848.02,50946.31,Monthly,Debit Card,Fiber,10,No
+11293,54,Female,37,4107.29,147958.31,Monthly,Debit Card,DSL,8,Yes
+11294,38,Female,5,3336.88,161410.35,Quarterly,Credit Card,Fiber,9,Yes
+11295,43,Male,44,1818.16,56573.79,Quarterly,Credit Card,DSL,12,Yes
+11296,63,Male,13,2180.93,74229.03,Yearly,Debit Card,Fiber,9,No
+11297,53,Male,65,3514.86,16448.75,Monthly,UPI,DSL,5,Yes
+11298,40,Male,39,823.91,142978.93,Monthly,UPI,Fiber,8,No
+11299,18,Female,2,1655.06,1711.93,Quarterly,Debit Card,None,11,Yes
+11300,68,Male,23,3712.55,10261.76,Monthly,Net Banking,DSL,3,No
+11301,57,Male,18,2660.08,1864.47,Monthly,Net Banking,None,4,No
+11302,32,Male,17,2310.77,129418.6,Monthly,UPI,DSL,1,No
+11303,38,Female,63,1181.56,84060.04,Monthly,UPI,DSL,2,No
+11304,64,Male,34,2488.32,60211.81,Quarterly,Credit Card,DSL,0,No
+11305,26,Male,61,3968.11,182627.5,Quarterly,Net Banking,DSL,3,No
+11306,26,Female,0,1688.06,39367.76,Monthly,UPI,Fiber,11,No
+11307,27,Female,24,524.29,78484.23,Monthly,UPI,Fiber,1,No
+11308,69,Male,44,3508.27,188122.05,Monthly,Debit Card,DSL,11,No
+11309,43,Male,48,4876.82,85994.21,Monthly,Credit Card,Fiber,14,No
+11310,58,Male,15,3230.72,111384.04,Monthly,Net Banking,DSL,1,No
+11311,52,Male,18,1039.65,16987.04,Monthly,Net Banking,DSL,0,Yes
+11312,69,Male,22,1943.3,158243.11,Quarterly,Credit Card,None,9,No
+11313,42,Female,24,4404.39,85129.0,Quarterly,UPI,DSL,11,No
+11314,43,Female,15,1546.56,160302.51,Monthly,Net Banking,DSL,1,No
+11315,28,Male,53,3234.63,51505.73,Quarterly,Net Banking,Fiber,3,No
+11316,55,Male,0,2312.02,85073.27,Yearly,Net Banking,DSL,5,Yes
+11317,19,Female,41,1435.3,157523.24,Monthly,Debit Card,DSL,12,No
+11318,24,Male,18,4160.33,194801.68,Monthly,Credit Card,None,11,No
+11319,35,Male,33,3842.74,12865.48,Monthly,Net Banking,Fiber,6,Yes
+11320,44,Male,54,3477.16,162678.78,Monthly,Credit Card,Fiber,6,No
+11321,51,Male,17,1563.51,60837.12,Quarterly,UPI,None,6,No
+11322,44,Male,33,940.36,110597.91,Quarterly,Credit Card,DSL,14,Yes
+11323,34,Female,44,3092.72,58728.36,Monthly,Debit Card,None,3,Yes
+11324,60,Male,5,2991.55,123075.65,Quarterly,Debit Card,Fiber,11,Yes
+11325,61,Male,20,1347.73,71406.76,Quarterly,Credit Card,None,4,No
+11326,68,Male,69,753.11,67389.36,Monthly,Debit Card,Fiber,13,No
+11327,41,Female,47,863.19,8549.72,Monthly,Net Banking,None,10,Yes
+11328,42,Female,38,4967.47,30245.12,Yearly,Debit Card,DSL,11,No
+11329,24,Female,30,4026.13,183498.56,Yearly,UPI,DSL,2,Yes
+11330,69,Female,9,4648.94,199657.21,Quarterly,Credit Card,Fiber,0,No
+11331,23,Male,29,1377.75,156323.59,Yearly,Credit Card,None,13,No
+11332,41,Female,17,4822.56,58075.71,Monthly,UPI,Fiber,7,No
+11333,50,Male,59,1141.94,81086.58,Monthly,UPI,DSL,9,No
+11334,66,Male,14,2790.87,148161.19,Monthly,UPI,Fiber,10,No
+11335,46,Female,3,4233.63,193734.2,Monthly,UPI,DSL,6,Yes
+11336,60,Female,62,2074.12,91638.76,Quarterly,Net Banking,Fiber,13,Yes
+11337,39,Female,39,2411.73,166074.96,Yearly,Debit Card,None,8,No
+11338,43,Female,8,1076.83,195038.72,Quarterly,Debit Card,DSL,13,Yes
+11339,45,Female,8,1053.15,174821.16,Monthly,Net Banking,Fiber,9,No
+11340,67,Male,25,3288.06,46202.8,Monthly,UPI,DSL,3,No
+11341,38,Female,3,3539.9,2598.34,Monthly,Credit Card,None,11,No
+11342,66,Female,15,3998.0,98924.26,Monthly,Credit Card,DSL,14,No
+11343,24,Female,14,3005.07,106740.81,Quarterly,Credit Card,None,11,No
+11344,34,Male,51,3405.92,41048.82,Monthly,UPI,DSL,4,No
+11345,37,Female,68,560.83,57650.2,Yearly,Net Banking,None,4,No
+11346,58,Male,4,1229.77,153265.48,Yearly,Net Banking,DSL,12,No
+11347,66,Female,19,4932.12,94599.1,Monthly,Net Banking,None,6,No
+11348,37,Female,17,841.97,64153.46,Monthly,Debit Card,Fiber,12,Yes
+11349,39,Male,1,3554.55,124902.58,Quarterly,Debit Card,Fiber,8,No
+11350,45,Female,12,1292.37,130899.19,Monthly,Debit Card,DSL,7,Yes
+11351,57,Male,3,3725.23,154109.76,Quarterly,Debit Card,None,6,No
+11352,66,Male,41,3676.96,32185.15,Monthly,Credit Card,Fiber,13,Yes
+11353,24,Male,60,1553.9,148561.93,Monthly,Credit Card,DSL,0,No
+11354,18,Female,7,1713.35,120286.25,Monthly,Net Banking,Fiber,11,No
+11355,49,Female,66,3446.47,12456.8,Monthly,Debit Card,None,9,No
+11356,30,Female,62,2255.39,155711.68,Yearly,Net Banking,DSL,12,No
+11357,47,Male,8,1375.47,77232.98,Monthly,UPI,None,5,Yes
+11358,40,Female,10,3792.56,66745.81,Yearly,Debit Card,None,9,No
+11359,68,Male,41,1193.66,90166.96,Quarterly,Debit Card,None,14,No
+11360,36,Female,12,4350.4,69888.84,Quarterly,Net Banking,Fiber,14,No
+11361,49,Male,35,2816.01,68318.83,Monthly,Net Banking,DSL,8,No
+11362,47,Male,12,975.65,161807.46,Quarterly,UPI,None,12,No
+11363,46,Male,11,3623.33,25776.55,Monthly,Net Banking,Fiber,6,No
+11364,66,Female,36,2836.23,194149.41,Monthly,Debit Card,None,0,No
+11365,62,Male,51,1841.26,111431.4,Quarterly,Credit Card,Fiber,8,Yes
+11366,46,Male,70,2401.43,37401.88,Monthly,UPI,DSL,2,No
+11367,47,Male,1,1842.52,27111.88,Yearly,UPI,DSL,13,No
+11368,33,Male,55,1683.62,118710.4,Monthly,Debit Card,DSL,8,Yes
+11369,57,Male,59,1236.24,126966.89,Quarterly,Credit Card,DSL,3,No
+11370,36,Male,22,2132.45,11552.13,Monthly,Net Banking,None,14,Yes
+11371,35,Female,39,1629.44,49357.38,Quarterly,Net Banking,Fiber,8,Yes
+11372,18,Female,63,3575.46,159296.92,Yearly,Credit Card,DSL,12,No
+11373,31,Male,22,3577.45,10875.3,Monthly,Credit Card,None,14,No
+11374,68,Female,28,2758.28,171162.64,Monthly,Debit Card,DSL,7,Yes
+11375,64,Female,50,4000.75,131974.33,Quarterly,Net Banking,DSL,6,No
+11376,67,Male,68,4286.03,87450.23,Monthly,Debit Card,DSL,3,No
+11377,19,Male,30,3108.95,69940.14,Monthly,Net Banking,Fiber,8,Yes
+11378,45,Male,49,3285.21,4830.54,Monthly,Net Banking,Fiber,3,No
+11379,66,Female,19,1772.99,165217.77,Yearly,Credit Card,Fiber,0,No
+11380,67,Male,54,4526.91,29401.65,Yearly,Debit Card,DSL,5,No
+11381,47,Female,1,608.93,62598.86,Quarterly,Credit Card,None,3,Yes
+11382,55,Male,24,2068.71,114252.29,Quarterly,Debit Card,None,9,No
+11383,68,Female,12,3748.1,49952.53,Quarterly,Net Banking,None,2,Yes
+11384,21,Male,69,860.4,99930.95,Monthly,UPI,DSL,11,Yes
+11385,18,Male,66,1324.26,162059.22,Monthly,UPI,Fiber,4,No
+11386,25,Female,57,3151.79,94637.05,Monthly,Debit Card,None,2,Yes
+11387,46,Female,63,3019.97,189846.49,Yearly,Debit Card,DSL,10,Yes
+11388,56,Female,68,3825.18,169652.62,Quarterly,Credit Card,DSL,8,No
+11389,20,Female,58,4156.76,67274.81,Monthly,Net Banking,None,11,No
+11390,49,Female,59,1078.61,80592.46,Quarterly,UPI,None,5,Yes
+11391,27,Female,61,582.71,85242.02,Monthly,Credit Card,DSL,14,No
+11392,27,Male,15,3603.37,125609.71,Quarterly,Debit Card,None,2,Yes
+11393,36,Female,67,1856.26,58072.35,Monthly,Net Banking,DSL,4,No
+11394,63,Male,14,3316.93,193880.58,Monthly,Credit Card,None,7,Yes
+11395,51,Male,54,1177.45,122128.16,Quarterly,Credit Card,Fiber,13,No
+11396,50,Female,34,2610.68,80480.93,Quarterly,Debit Card,DSL,7,No
+11397,40,Male,54,2769.91,129356.95,Monthly,Net Banking,Fiber,5,Yes
+11398,45,Female,13,3132.85,79685.6,Monthly,UPI,None,4,No
+11399,49,Female,48,2809.27,163741.34,Quarterly,Credit Card,DSL,14,No
+11400,67,Male,6,2730.61,114000.35,Quarterly,Debit Card,None,4,No
+11401,24,Male,29,1997.3,9352.13,Yearly,Credit Card,DSL,0,No
+11402,46,Female,48,820.31,36174.62,Monthly,Debit Card,None,1,No
+11403,25,Female,15,902.84,173133.8,Yearly,Debit Card,Fiber,14,No
+11404,18,Male,50,2452.0,113017.07,Quarterly,Debit Card,Fiber,11,No
+11405,20,Male,71,2101.07,190118.35,Quarterly,Net Banking,None,10,No
+11406,41,Male,41,2822.61,15412.04,Quarterly,UPI,Fiber,3,No
+11407,40,Male,16,1871.77,59756.87,Monthly,Net Banking,Fiber,5,No
+11408,25,Female,62,3595.6,39515.13,Monthly,UPI,None,10,No
+11409,64,Female,44,4387.8,111214.22,Quarterly,Debit Card,DSL,6,No
+11410,54,Female,6,1844.88,77175.77,Monthly,UPI,None,0,No
+11411,20,Female,26,1368.43,32297.43,Quarterly,Net Banking,DSL,7,Yes
+11412,68,Male,9,1022.81,128907.63,Monthly,Credit Card,Fiber,11,No
+11413,50,Male,33,3273.14,107723.37,Monthly,Net Banking,Fiber,0,No
+11414,45,Female,35,2497.35,55672.51,Monthly,Net Banking,Fiber,8,No
+11415,64,Female,24,1346.07,96474.5,Quarterly,Net Banking,Fiber,14,No
+11416,25,Female,5,3439.12,149401.92,Monthly,Net Banking,Fiber,3,No
+11417,51,Female,23,1168.17,41849.06,Quarterly,Net Banking,DSL,11,No
+11418,52,Female,17,2994.35,59288.24,Monthly,UPI,DSL,14,No
+11419,49,Female,5,2872.17,69876.09,Quarterly,UPI,DSL,6,No
+11420,41,Female,28,3804.03,149598.56,Monthly,Credit Card,None,10,Yes
+11421,31,Female,24,747.99,169537.6,Monthly,Net Banking,Fiber,13,No
+11422,49,Female,54,4495.43,75901.31,Quarterly,Net Banking,Fiber,5,No
+11423,63,Male,45,3663.46,60027.55,Monthly,Credit Card,Fiber,14,No
+11424,60,Female,23,1472.57,177999.9,Monthly,Credit Card,None,12,No
+11425,33,Male,25,1325.32,199873.62,Yearly,Debit Card,None,8,No
+11426,21,Male,27,2442.47,134400.37,Monthly,Credit Card,None,13,Yes
+11427,69,Female,2,4179.04,198006.14,Monthly,Credit Card,Fiber,1,No
+11428,54,Female,37,4293.27,132333.29,Monthly,Credit Card,DSL,14,Yes
+11429,38,Male,60,2842.05,146958.59,Monthly,Debit Card,None,14,No
+11430,31,Male,50,4373.65,78342.54,Monthly,UPI,None,10,Yes
+11431,48,Female,47,524.5,87160.54,Monthly,Debit Card,DSL,6,No
+11432,65,Male,20,658.29,29683.0,Quarterly,UPI,None,10,No
+11433,35,Female,53,4603.2,164727.25,Monthly,Credit Card,DSL,4,Yes
+11434,24,Female,55,3988.99,186280.75,Quarterly,Debit Card,Fiber,12,No
+11435,27,Female,58,2528.18,125064.19,Monthly,Debit Card,DSL,6,Yes
+11436,24,Male,71,3891.25,69385.81,Monthly,UPI,DSL,0,Yes
+11437,50,Male,50,4800.38,31649.25,Monthly,Debit Card,Fiber,10,No
+11438,40,Female,19,3974.4,53766.09,Quarterly,Debit Card,None,10,No
+11439,38,Male,58,4290.67,51826.67,Quarterly,Net Banking,Fiber,9,Yes
+11440,36,Male,70,3922.73,123092.05,Quarterly,UPI,None,8,No
+11441,65,Male,8,1256.95,189062.46,Monthly,Debit Card,None,0,No
+11442,36,Male,0,4251.08,10606.11,Quarterly,Debit Card,DSL,13,Yes
+11443,53,Male,28,1377.99,1203.44,Quarterly,Credit Card,Fiber,4,No
+11444,46,Male,62,4516.75,120436.21,Monthly,Net Banking,DSL,13,No
+11445,35,Male,71,2563.92,57528.03,Monthly,Net Banking,Fiber,7,No
+11446,19,Female,55,3546.4,176229.12,Monthly,Credit Card,Fiber,0,No
+11447,18,Male,67,2737.58,66122.81,Quarterly,Credit Card,DSL,6,No
+11448,64,Male,34,922.96,58657.78,Monthly,Credit Card,None,1,No
+11449,22,Male,2,1808.25,54632.61,Quarterly,Credit Card,None,6,No
+11450,37,Male,6,4926.79,29825.71,Monthly,Net Banking,Fiber,6,No
+11451,28,Male,26,4823.22,116724.56,Monthly,Debit Card,None,8,Yes
+11452,59,Male,0,1942.19,34474.51,Monthly,Debit Card,DSL,5,No
+11453,19,Male,70,4983.34,85501.6,Monthly,Credit Card,DSL,3,No
+11454,20,Male,43,4304.98,92733.44,Monthly,UPI,DSL,6,No
+11455,40,Female,40,3249.32,5077.92,Monthly,Credit Card,Fiber,6,No
+11456,29,Male,41,680.56,4344.65,Quarterly,Debit Card,Fiber,3,No
+11457,37,Male,32,4556.51,104522.33,Monthly,UPI,None,1,Yes
+11458,22,Male,49,3008.43,139510.91,Monthly,Credit Card,DSL,12,No
+11459,54,Male,62,4408.14,188486.35,Monthly,UPI,DSL,10,Yes
+11460,55,Female,36,4254.93,36644.74,Monthly,Credit Card,Fiber,8,No
+11461,47,Female,58,4248.53,21548.5,Monthly,Net Banking,Fiber,13,No
+11462,26,Female,47,3641.78,11365.49,Monthly,Debit Card,Fiber,7,Yes
+11463,51,Female,4,1811.37,87772.27,Monthly,Credit Card,DSL,4,No
+11464,61,Female,47,2012.72,125006.33,Monthly,UPI,DSL,13,No
+11465,52,Female,2,1888.11,168270.12,Yearly,Debit Card,None,4,No
+11466,69,Female,46,590.21,136846.33,Monthly,Credit Card,DSL,0,No
+11467,39,Female,61,3121.56,42463.8,Monthly,Credit Card,None,10,No
+11468,61,Female,13,3644.75,92892.3,Monthly,Credit Card,None,8,No
+11469,41,Female,62,4342.4,182158.92,Monthly,Credit Card,DSL,10,No
+11470,34,Female,60,1130.74,66021.47,Yearly,Net Banking,None,13,No
+11471,27,Female,30,2948.82,100247.34,Monthly,Debit Card,None,9,No
+11472,47,Female,16,536.04,191754.5,Monthly,Net Banking,Fiber,10,No
+11473,63,Female,23,927.92,147206.89,Quarterly,Debit Card,DSL,7,No
+11474,40,Female,22,743.95,149800.34,Monthly,Credit Card,None,4,No
+11475,49,Female,49,3764.65,51214.47,Yearly,Debit Card,None,9,No
+11476,34,Male,69,864.77,83524.93,Yearly,UPI,None,5,No
+11477,67,Female,26,3724.04,17386.09,Monthly,Debit Card,DSL,11,No
+11478,68,Male,14,1623.31,121698.65,Monthly,UPI,Fiber,9,No
+11479,34,Female,49,4449.71,21642.3,Monthly,UPI,Fiber,10,No
+11480,31,Female,35,4159.17,167346.01,Monthly,Net Banking,DSL,9,No
+11481,26,Male,7,4810.24,163096.2,Monthly,Debit Card,DSL,7,No
+11482,57,Female,2,4476.93,107187.42,Monthly,Credit Card,DSL,5,Yes
+11483,19,Male,61,4699.98,29092.04,Yearly,Debit Card,DSL,9,No
+11484,62,Male,46,4364.34,6090.22,Monthly,Net Banking,Fiber,13,No
+11485,42,Male,60,3620.22,159545.02,Quarterly,UPI,None,3,Yes
+11486,56,Female,31,1266.17,120427.96,Quarterly,UPI,None,2,Yes
+11487,26,Female,12,1722.68,142475.0,Yearly,Net Banking,DSL,6,No
+11488,39,Female,0,1457.27,61457.62,Monthly,Net Banking,DSL,12,No
+11489,60,Male,33,3216.14,102387.06,Monthly,Debit Card,None,1,Yes
+11490,63,Male,61,2766.29,149687.66,Quarterly,UPI,Fiber,6,No
+11491,21,Female,70,4401.86,93050.1,Quarterly,Net Banking,DSL,0,Yes
+11492,43,Female,30,4787.03,120675.46,Yearly,Debit Card,DSL,12,No
+11493,46,Female,63,2321.87,158155.92,Quarterly,Debit Card,Fiber,9,No
+11494,62,Female,24,2778.58,43828.91,Monthly,Credit Card,Fiber,4,No
+11495,51,Female,37,4871.82,14119.85,Monthly,UPI,Fiber,14,Yes
+11496,40,Male,13,1743.08,106832.88,Monthly,Debit Card,DSL,8,No
+11497,54,Male,7,4065.76,13363.03,Quarterly,Net Banking,Fiber,12,No
+11498,28,Male,53,1513.58,153544.9,Monthly,UPI,DSL,14,Yes
+11499,23,Female,1,3566.57,144123.08,Quarterly,Net Banking,DSL,12,No
+11500,35,Male,55,1641.27,176460.82,Yearly,Net Banking,Fiber,0,No
+11501,38,Male,60,4476.8,128272.86,Quarterly,Debit Card,None,7,No
+11502,59,Male,21,3026.65,14372.32,Monthly,Debit Card,Fiber,8,No
+11503,53,Male,34,1336.7,51377.27,Monthly,Credit Card,None,8,No
+11504,58,Male,15,1509.66,161778.44,Yearly,Net Banking,Fiber,7,No
+11505,55,Female,49,2722.32,34259.35,Monthly,Debit Card,Fiber,3,No
+11506,51,Male,42,4827.21,139997.61,Monthly,Credit Card,DSL,13,No
+11507,34,Female,16,3963.39,156271.61,Monthly,UPI,DSL,13,Yes
+11508,54,Female,57,2697.39,66692.25,Monthly,Credit Card,DSL,6,No
+11509,42,Female,1,2019.74,65137.2,Monthly,Credit Card,DSL,0,Yes
+11510,55,Female,3,2971.71,112002.73,Yearly,Net Banking,DSL,6,Yes
+11511,29,Female,38,3867.62,172395.98,Yearly,UPI,DSL,5,No
+11512,40,Male,5,4027.68,45557.33,Yearly,Net Banking,DSL,4,No
+11513,59,Male,68,1960.74,188310.38,Monthly,Net Banking,None,0,Yes
+11514,39,Female,68,3745.22,120224.62,Yearly,Credit Card,None,7,No
+11515,38,Female,19,3460.05,198433.17,Yearly,Credit Card,DSL,9,No
+11516,44,Female,63,4816.01,18833.13,Yearly,Debit Card,None,0,No
+11517,48,Male,15,4689.91,26185.87,Quarterly,Credit Card,Fiber,0,Yes
+11518,23,Female,50,4052.21,165501.72,Quarterly,Debit Card,None,13,No
+11519,44,Male,36,3755.28,173086.42,Monthly,Net Banking,DSL,14,No
+11520,57,Female,68,1733.19,89646.28,Yearly,Credit Card,None,2,No
+11521,51,Male,41,4306.84,143100.16,Monthly,UPI,Fiber,12,No
+11522,29,Female,56,2423.78,173643.9,Monthly,UPI,None,7,No
+11523,62,Male,65,1725.08,9582.43,Yearly,Net Banking,DSL,7,No
+11524,24,Female,8,2228.72,115216.13,Monthly,Net Banking,Fiber,13,No
+11525,27,Male,63,4261.71,170842.65,Monthly,Credit Card,Fiber,14,No
+11526,62,Male,21,1168.85,80232.83,Yearly,Debit Card,None,6,No
+11527,34,Male,33,2552.71,61174.34,Yearly,Credit Card,Fiber,4,Yes
+11528,43,Male,54,2715.61,159345.63,Monthly,Debit Card,Fiber,14,No
+11529,38,Male,28,664.83,67821.53,Yearly,Credit Card,Fiber,7,No
+11530,45,Male,37,1380.86,1631.69,Monthly,UPI,DSL,1,Yes
+11531,63,Male,17,4220.34,191954.94,Monthly,UPI,Fiber,7,No
+11532,19,Female,70,4238.45,118832.52,Monthly,Debit Card,None,11,No
+11533,60,Female,64,1815.87,164084.07,Monthly,Credit Card,None,10,No
+11534,18,Female,0,4437.04,165235.01,Monthly,Net Banking,Fiber,1,No
+11535,68,Female,3,3973.02,14215.67,Monthly,Debit Card,None,9,No
+11536,53,Female,3,2380.58,35001.18,Yearly,UPI,Fiber,4,No
+11537,68,Male,26,3867.83,62913.02,Quarterly,Debit Card,None,10,No
+11538,43,Male,42,4826.01,64819.16,Yearly,Credit Card,Fiber,12,Yes
+11539,46,Male,58,2565.36,132098.44,Quarterly,Net Banking,Fiber,3,No
+11540,38,Male,31,1572.92,125003.45,Monthly,Net Banking,Fiber,14,No
+11541,28,Male,32,4738.17,99423.37,Yearly,Debit Card,DSL,12,No
+11542,57,Female,27,3216.85,43041.48,Yearly,Credit Card,None,0,Yes
+11543,28,Female,54,973.69,77014.71,Monthly,Credit Card,Fiber,4,No
+11544,53,Female,59,3077.07,109175.2,Monthly,Net Banking,DSL,6,No
+11545,66,Female,69,2752.61,94129.09,Quarterly,UPI,DSL,0,Yes
+11546,56,Male,61,4350.15,26331.21,Quarterly,Credit Card,Fiber,1,Yes
+11547,57,Male,33,2888.13,130252.59,Yearly,Net Banking,Fiber,11,Yes
+11548,52,Male,55,1648.55,15537.3,Monthly,Net Banking,Fiber,14,Yes
+11549,51,Female,12,3540.4,76260.74,Monthly,Credit Card,Fiber,13,No
+11550,64,Male,55,2941.59,142295.84,Monthly,Credit Card,Fiber,8,No
+11551,41,Female,17,1548.7,4984.68,Quarterly,Debit Card,None,11,Yes
+11552,39,Male,53,3081.33,114426.58,Monthly,UPI,Fiber,4,No
+11553,22,Male,42,4196.91,67569.67,Monthly,Debit Card,Fiber,13,No
+11554,50,Female,38,628.57,2757.54,Monthly,Debit Card,None,12,No
+11555,53,Male,60,3338.83,38886.27,Quarterly,Net Banking,DSL,6,No
+11556,64,Male,41,2073.13,188248.29,Monthly,Net Banking,None,1,Yes
+11557,37,Female,17,1817.02,104708.63,Monthly,UPI,DSL,6,No
+11558,36,Male,22,2266.64,199448.21,Quarterly,Debit Card,DSL,6,Yes
+11559,52,Female,53,2039.1,105438.53,Yearly,Debit Card,None,6,No
+11560,69,Male,29,4245.08,109243.35,Monthly,Net Banking,Fiber,4,Yes
+11561,60,Male,57,1736.59,78976.76,Monthly,Net Banking,DSL,8,No
+11562,34,Male,67,3799.19,62698.04,Yearly,Credit Card,Fiber,1,No
+11563,62,Male,66,923.27,51057.57,Monthly,Debit Card,None,3,No
+11564,60,Male,70,4781.28,69340.7,Quarterly,UPI,DSL,1,No
+11565,51,Male,17,3300.42,92510.37,Quarterly,Debit Card,Fiber,7,Yes
+11566,26,Male,6,3680.23,39206.4,Monthly,Net Banking,DSL,11,No
+11567,43,Male,39,1841.18,45750.14,Quarterly,Credit Card,DSL,10,No
+11568,19,Female,69,2354.43,55037.41,Quarterly,Debit Card,None,0,No
+11569,26,Female,64,1507.0,90402.72,Monthly,UPI,Fiber,8,Yes
+11570,26,Male,67,4696.41,130909.86,Monthly,Net Banking,Fiber,11,Yes
+11571,57,Male,48,2696.47,171373.08,Yearly,Credit Card,DSL,12,No
+11572,34,Female,51,3337.02,58139.24,Monthly,Debit Card,Fiber,13,Yes
+11573,18,Male,28,3804.22,37561.94,Quarterly,UPI,DSL,4,No
+11574,42,Male,20,2169.98,76390.65,Yearly,Net Banking,None,10,Yes
+11575,60,Female,8,3740.46,178982.23,Monthly,UPI,None,11,No
+11576,57,Male,46,3541.97,2962.28,Quarterly,Debit Card,Fiber,2,No
+11577,59,Male,41,3675.47,135895.85,Yearly,Net Banking,None,11,Yes
+11578,42,Female,50,2701.53,95954.85,Monthly,Debit Card,None,10,No
+11579,56,Male,55,2223.22,33048.2,Monthly,Credit Card,Fiber,3,No
+11580,52,Male,50,1499.37,64883.28,Yearly,Debit Card,DSL,0,No
+11581,20,Female,69,4210.82,45765.06,Monthly,Credit Card,None,2,No
+11582,67,Male,19,3237.58,175688.6,Monthly,Debit Card,Fiber,10,Yes
+11583,54,Female,26,2499.58,96892.8,Yearly,UPI,Fiber,7,Yes
+11584,61,Male,37,4747.98,113055.76,Quarterly,UPI,Fiber,11,No
+11585,61,Male,71,715.27,119143.84,Yearly,Net Banking,None,1,No
+11586,68,Female,64,4325.77,128283.81,Monthly,UPI,None,1,No
+11587,47,Female,53,4989.12,99615.58,Monthly,UPI,DSL,8,Yes
+11588,55,Male,23,4491.24,4556.83,Monthly,Credit Card,DSL,4,No
+11589,51,Female,46,4146.96,67609.81,Quarterly,UPI,DSL,4,No
+11590,29,Female,70,2184.38,37590.77,Quarterly,Credit Card,DSL,0,Yes
+11591,36,Male,62,1540.91,136348.43,Monthly,Credit Card,DSL,12,No
+11592,54,Male,56,3806.83,12284.23,Monthly,Credit Card,DSL,5,No
+11593,61,Male,54,1870.59,113196.87,Quarterly,Debit Card,Fiber,7,No
+11594,66,Female,59,1292.18,42915.71,Monthly,Credit Card,DSL,5,No
+11595,34,Female,61,4039.37,189820.32,Monthly,Debit Card,None,13,No
+11596,27,Female,29,1906.45,67772.65,Yearly,Credit Card,DSL,14,No
+11597,66,Female,21,4614.99,65719.02,Monthly,Debit Card,None,6,No
+11598,64,Male,28,4282.85,184753.55,Quarterly,Net Banking,DSL,13,Yes
+11599,29,Female,40,4314.38,84052.24,Yearly,Net Banking,Fiber,3,No
+11600,33,Male,41,3972.06,192609.6,Monthly,Debit Card,Fiber,1,No
+11601,41,Female,64,4463.97,5809.9,Monthly,Net Banking,None,0,No
+11602,36,Male,30,4125.86,61962.57,Monthly,UPI,DSL,11,No
+11603,25,Male,29,3211.3,133572.4,Yearly,Credit Card,Fiber,5,No
+11604,48,Male,17,1831.2,178280.54,Monthly,Debit Card,Fiber,8,Yes
+11605,38,Female,16,4496.94,52024.71,Quarterly,Net Banking,DSL,9,Yes
+11606,34,Male,37,4282.72,186165.04,Yearly,Net Banking,None,4,No
+11607,40,Male,13,2627.96,119230.17,Yearly,UPI,None,11,No
+11608,54,Female,55,675.85,160400.64,Monthly,Credit Card,None,1,No
+11609,33,Male,21,3373.45,80044.25,Quarterly,UPI,Fiber,0,No
+11610,23,Female,66,727.69,43223.9,Yearly,Debit Card,DSL,2,No
+11611,25,Female,55,4668.26,182335.85,Monthly,Net Banking,Fiber,3,Yes
+11612,42,Male,18,4827.34,186694.04,Monthly,Net Banking,Fiber,6,No
+11613,35,Male,56,1352.71,100017.45,Monthly,Net Banking,Fiber,8,No
+11614,42,Female,43,3543.75,2292.51,Monthly,UPI,Fiber,7,No
+11615,29,Male,34,915.21,22846.81,Yearly,UPI,DSL,8,No
+11616,32,Female,0,3782.83,115032.56,Monthly,Credit Card,Fiber,6,Yes
+11617,43,Female,51,2062.79,5731.56,Yearly,Debit Card,Fiber,9,No
+11618,58,Female,69,3564.73,79985.47,Quarterly,Credit Card,None,7,No
+11619,62,Male,36,2177.94,61370.62,Quarterly,Credit Card,Fiber,7,No
+11620,43,Female,64,1155.05,143155.31,Quarterly,Net Banking,DSL,0,No
+11621,64,Male,50,2327.49,12060.16,Monthly,UPI,Fiber,11,No
+11622,49,Male,0,1007.03,98257.52,Yearly,Debit Card,DSL,13,No
+11623,27,Male,20,3095.97,116243.74,Monthly,Credit Card,DSL,14,No
+11624,33,Male,52,684.28,123840.92,Monthly,Debit Card,DSL,11,No
+11625,24,Female,15,2872.94,81626.38,Monthly,Net Banking,None,14,Yes
+11626,34,Male,60,4488.66,61569.19,Yearly,Credit Card,None,8,Yes
+11627,40,Female,53,4270.43,136816.11,Yearly,UPI,Fiber,1,No
+11628,43,Female,39,4472.52,169666.24,Monthly,Credit Card,Fiber,11,Yes
+11629,38,Male,25,4649.22,139029.91,Monthly,Net Banking,Fiber,10,No
+11630,39,Female,64,970.38,186488.37,Quarterly,Credit Card,DSL,13,No
+11631,24,Female,63,1079.36,143735.44,Monthly,Net Banking,DSL,6,No
+11632,31,Male,42,3006.53,153159.13,Monthly,Credit Card,DSL,12,No
+11633,32,Female,16,4522.88,34412.74,Quarterly,Debit Card,Fiber,9,Yes
+11634,24,Female,58,4884.57,84488.39,Monthly,UPI,Fiber,9,No
+11635,26,Female,22,708.18,97526.01,Monthly,Net Banking,Fiber,12,No
+11636,68,Female,6,2100.98,52002.34,Monthly,Debit Card,Fiber,4,No
+11637,65,Male,43,1458.02,106179.43,Monthly,Net Banking,None,3,No
+11638,25,Female,52,3901.85,58867.6,Monthly,Credit Card,None,0,Yes
+11639,67,Female,70,3380.87,137812.92,Monthly,Net Banking,None,0,No
+11640,40,Female,33,1039.5,94587.41,Monthly,Net Banking,Fiber,2,No
+11641,46,Female,45,2675.85,92302.58,Monthly,UPI,None,13,No
+11642,35,Male,67,3584.48,196744.86,Quarterly,Debit Card,None,14,No
+11643,48,Female,15,4005.52,79096.52,Yearly,Credit Card,Fiber,0,Yes
+11644,47,Male,70,590.24,73096.79,Monthly,UPI,None,7,No
+11645,69,Female,18,4507.11,64402.27,Yearly,Net Banking,Fiber,2,Yes
+11646,56,Male,1,3061.77,179055.09,Monthly,UPI,Fiber,10,No
+11647,52,Male,9,4153.59,99848.04,Monthly,Net Banking,Fiber,9,No
+11648,35,Male,49,4135.72,120402.88,Monthly,Credit Card,DSL,1,No
+11649,59,Male,11,1354.34,36982.88,Monthly,Net Banking,Fiber,5,Yes
+11650,56,Male,69,995.77,108647.53,Quarterly,UPI,None,3,No
+11651,34,Female,21,3745.79,55654.99,Monthly,UPI,None,12,No
+11652,31,Female,31,1203.92,146396.75,Monthly,Net Banking,Fiber,12,No
+11653,48,Female,0,4324.72,166673.14,Yearly,Debit Card,DSL,13,Yes
+11654,41,Male,53,3767.85,143247.33,Monthly,UPI,DSL,10,No
+11655,52,Female,57,4288.21,146318.59,Monthly,Debit Card,DSL,13,Yes
+11656,61,Male,69,1845.56,102982.47,Monthly,Debit Card,None,12,No
+11657,62,Male,17,1924.69,142711.49,Monthly,Debit Card,DSL,10,No
+11658,51,Female,5,3520.5,85114.7,Monthly,Debit Card,DSL,12,No
+11659,20,Female,44,641.51,130646.34,Monthly,UPI,Fiber,3,No
+11660,54,Male,22,3769.24,52548.8,Monthly,UPI,DSL,1,No
+11661,60,Male,22,4261.02,14881.65,Monthly,Debit Card,DSL,1,Yes
+11662,57,Female,25,2368.24,83281.18,Quarterly,UPI,DSL,10,No
+11663,43,Female,6,3941.95,92893.85,Quarterly,Debit Card,Fiber,5,No
+11664,40,Female,43,1285.75,52025.02,Yearly,Debit Card,Fiber,4,No
+11665,61,Female,26,1950.17,145814.19,Yearly,Debit Card,DSL,8,Yes
+11666,56,Male,25,4884.37,15636.55,Yearly,Net Banking,None,3,Yes
+11667,32,Female,35,4938.48,45326.92,Quarterly,Credit Card,None,4,No
+11668,66,Female,54,2806.72,149964.38,Quarterly,UPI,Fiber,14,No
+11669,21,Female,63,4704.21,87987.73,Monthly,UPI,DSL,0,No
+11670,46,Male,56,2852.29,141351.44,Quarterly,Debit Card,None,11,Yes
+11671,39,Male,68,1812.15,113929.69,Monthly,Net Banking,DSL,11,Yes
+11672,42,Male,60,1701.05,190191.84,Yearly,Net Banking,Fiber,1,No
+11673,30,Male,1,4682.78,119961.37,Monthly,UPI,None,2,No
+11674,35,Female,54,1276.01,3958.93,Quarterly,Debit Card,Fiber,4,No
+11675,50,Male,37,3108.35,71222.59,Monthly,UPI,DSL,11,No
+11676,33,Female,28,2999.86,29469.08,Monthly,Debit Card,Fiber,4,No
+11677,62,Female,25,3828.3,185002.1,Monthly,Debit Card,Fiber,3,No
+11678,59,Female,34,2746.59,21698.48,Monthly,Credit Card,Fiber,13,Yes
+11679,61,Female,66,1725.29,78153.63,Monthly,Debit Card,Fiber,9,No
+11680,19,Male,28,1262.28,45993.74,Monthly,Credit Card,None,2,No
+11681,52,Male,33,3293.68,169497.68,Monthly,UPI,DSL,8,No
+11682,59,Male,40,3735.46,62404.73,Monthly,UPI,None,0,No
+11683,51,Female,40,3062.85,198386.8,Yearly,Net Banking,DSL,5,No
+11684,47,Female,22,3822.58,8684.7,Monthly,Credit Card,DSL,6,No
+11685,30,Female,70,1136.85,26527.08,Monthly,UPI,DSL,9,No
+11686,30,Female,2,4471.12,45703.12,Yearly,Credit Card,DSL,3,No
+11687,35,Female,57,3120.78,162410.1,Monthly,UPI,DSL,9,No
+11688,49,Male,31,1070.8,175824.92,Monthly,Credit Card,None,2,No
+11689,49,Female,30,2578.66,15218.82,Monthly,Credit Card,DSL,7,Yes
+11690,52,Male,42,4301.56,7459.57,Quarterly,Debit Card,Fiber,8,Yes
+11691,56,Female,6,4539.03,149166.81,Monthly,UPI,None,12,No
+11692,63,Female,0,1690.92,27537.05,Monthly,Net Banking,None,0,No
+11693,69,Male,60,3700.7,27466.72,Quarterly,Debit Card,DSL,14,No
+11694,46,Male,13,949.93,5450.94,Monthly,Net Banking,Fiber,14,No
+11695,66,Female,51,650.96,10911.77,Yearly,Credit Card,Fiber,14,No
+11696,46,Female,5,3021.8,53471.42,Monthly,Debit Card,DSL,14,Yes
+11697,61,Female,9,3626.72,13936.09,Monthly,Credit Card,DSL,10,No
+11698,33,Female,70,4081.04,74406.94,Quarterly,UPI,Fiber,11,Yes
+11699,61,Male,29,2030.97,166722.23,Monthly,UPI,None,9,No
+11700,64,Female,20,529.36,65937.73,Yearly,Net Banking,None,8,No
+11701,27,Male,59,2657.84,145839.0,Yearly,UPI,DSL,6,No
+11702,47,Female,62,571.34,19688.08,Monthly,Net Banking,None,0,Yes
+11703,42,Male,41,913.93,132215.66,Yearly,Credit Card,None,6,No
+11704,56,Male,50,1970.1,64032.69,Monthly,Debit Card,Fiber,4,No
+11705,37,Female,63,2467.27,150200.82,Yearly,UPI,None,9,No
+11706,22,Male,55,1757.61,28114.15,Monthly,Credit Card,Fiber,12,Yes
+11707,18,Female,40,3118.39,179678.79,Monthly,Debit Card,DSL,12,No
+11708,47,Male,31,749.07,49272.86,Monthly,Credit Card,DSL,6,No
+11709,66,Female,14,1150.61,71274.42,Monthly,Net Banking,Fiber,11,No
+11710,20,Male,61,3628.66,190085.96,Monthly,Credit Card,Fiber,8,Yes
+11711,62,Female,26,1139.63,116117.99,Yearly,Net Banking,DSL,7,Yes
+11712,31,Female,27,3378.99,73788.53,Yearly,Net Banking,Fiber,5,No
+11713,47,Male,63,746.08,189970.83,Monthly,UPI,DSL,1,No
+11714,67,Male,58,2333.22,66486.41,Monthly,Net Banking,DSL,7,No
+11715,21,Male,57,1298.34,19879.27,Yearly,Net Banking,DSL,11,No
+11716,35,Male,1,993.36,199372.93,Monthly,Credit Card,DSL,13,Yes
+11717,54,Female,35,3051.65,54301.14,Monthly,Net Banking,DSL,3,Yes
+11718,42,Male,70,4677.51,170400.31,Monthly,Net Banking,DSL,7,Yes
+11719,65,Female,12,746.54,33942.62,Monthly,Credit Card,None,14,No
+11720,18,Male,14,2396.99,146539.44,Monthly,Debit Card,None,6,No
+11721,63,Female,59,3683.91,105365.43,Quarterly,UPI,DSL,3,Yes
+11722,32,Female,21,2582.1,196200.41,Quarterly,Credit Card,None,7,No
+11723,26,Female,62,4129.23,111013.24,Monthly,Net Banking,Fiber,10,No
+11724,32,Female,24,1308.4,5978.02,Yearly,Credit Card,Fiber,10,No
+11725,66,Male,47,4818.17,121171.72,Monthly,Debit Card,DSL,11,No
+11726,41,Male,42,2233.23,29917.97,Monthly,Credit Card,None,10,No
+11727,21,Female,37,2037.06,159909.64,Monthly,Credit Card,Fiber,1,No
+11728,29,Male,40,4435.73,171457.07,Monthly,Credit Card,Fiber,8,Yes
+11729,54,Male,44,3037.4,96936.61,Monthly,Credit Card,Fiber,5,Yes
+11730,54,Female,39,2824.0,156861.07,Monthly,Net Banking,Fiber,6,Yes
+11731,60,Male,16,3771.4,29877.04,Monthly,Credit Card,None,9,Yes
+11732,23,Male,56,3109.25,98923.56,Monthly,Debit Card,Fiber,0,No
+11733,56,Male,1,1231.32,79394.91,Quarterly,Credit Card,Fiber,2,No
+11734,63,Female,61,3533.89,122652.16,Quarterly,Credit Card,Fiber,13,Yes
+11735,41,Male,8,1100.61,9850.96,Monthly,Net Banking,DSL,9,No
+11736,28,Female,67,4126.36,150672.44,Quarterly,Net Banking,Fiber,4,No
+11737,30,Male,16,4953.81,16746.73,Yearly,Credit Card,Fiber,14,No
+11738,51,Male,49,2198.24,131637.83,Quarterly,Net Banking,None,11,No
+11739,42,Male,39,2501.4,4672.99,Monthly,Net Banking,Fiber,6,No
+11740,24,Female,57,708.95,166545.72,Monthly,Credit Card,Fiber,0,Yes
+11741,69,Female,20,561.8,35765.23,Yearly,Net Banking,Fiber,8,No
+11742,21,Male,17,4646.39,103584.0,Monthly,UPI,DSL,4,No
+11743,25,Female,54,1078.81,53037.09,Monthly,UPI,None,12,No
+11744,37,Male,28,2506.0,144806.79,Monthly,UPI,None,11,No
+11745,46,Female,23,4169.1,64948.87,Quarterly,Net Banking,DSL,2,No
+11746,68,Female,16,4501.93,145197.23,Quarterly,UPI,DSL,6,No
+11747,62,Male,17,2837.29,57689.37,Monthly,Debit Card,None,9,No
+11748,63,Male,41,3042.65,150742.15,Monthly,UPI,Fiber,7,No
+11749,27,Male,44,3513.58,7090.49,Yearly,Debit Card,None,9,No
+11750,60,Male,16,4826.22,57378.96,Monthly,Net Banking,DSL,9,No
+11751,51,Female,13,3212.01,100228.07,Monthly,UPI,Fiber,2,No
+11752,43,Female,48,3017.64,9966.86,Monthly,Debit Card,None,6,Yes
+11753,58,Female,28,565.4,38020.78,Quarterly,Net Banking,Fiber,6,No
+11754,66,Male,3,864.27,186972.86,Quarterly,UPI,Fiber,3,No
+11755,20,Male,19,3097.27,195390.02,Yearly,Credit Card,DSL,9,Yes
+11756,23,Female,46,4713.08,148210.24,Monthly,UPI,None,8,No
+11757,22,Male,8,4400.11,51187.81,Monthly,UPI,DSL,0,No
+11758,22,Female,26,4921.61,52842.97,Monthly,UPI,None,0,No
+11759,64,Female,14,2875.25,129512.28,Yearly,Credit Card,None,4,Yes
+11760,40,Female,18,4045.69,24402.32,Monthly,Debit Card,Fiber,12,No
+11761,66,Female,51,4281.8,189713.57,Monthly,Debit Card,Fiber,2,Yes
+11762,26,Female,25,3416.14,45737.77,Quarterly,Credit Card,Fiber,9,No
+11763,52,Male,25,2024.37,199927.49,Monthly,UPI,DSL,12,No
+11764,37,Male,25,2614.9,99651.03,Monthly,UPI,Fiber,8,No
+11765,66,Male,45,4360.63,154514.57,Yearly,UPI,DSL,4,No
+11766,59,Female,48,1843.47,1434.63,Monthly,Debit Card,Fiber,6,Yes
+11767,52,Female,52,4656.84,177860.53,Monthly,Debit Card,DSL,0,No
+11768,67,Female,2,1534.13,54730.41,Monthly,Credit Card,None,1,No
+11769,35,Female,65,3872.82,133919.41,Monthly,Net Banking,DSL,14,Yes
+11770,34,Male,41,3337.52,161464.7,Monthly,Credit Card,DSL,10,No
+11771,41,Male,18,3873.2,33665.4,Quarterly,Debit Card,DSL,11,No
+11772,20,Female,16,2468.06,89059.39,Monthly,UPI,None,3,No
+11773,49,Female,32,4696.88,99273.35,Yearly,UPI,DSL,14,Yes
+11774,52,Female,48,3346.12,63111.77,Monthly,UPI,None,8,No
+11775,55,Male,55,1797.33,96869.41,Monthly,UPI,Fiber,4,No
+11776,30,Male,62,3373.05,64191.59,Monthly,Net Banking,Fiber,4,Yes
+11777,64,Male,2,1790.67,72788.8,Quarterly,Credit Card,None,8,Yes
+11778,42,Female,48,1821.35,134196.9,Monthly,Credit Card,DSL,7,Yes
+11779,26,Female,54,2298.19,126886.06,Quarterly,Debit Card,Fiber,1,No
+11780,21,Male,25,4335.94,47220.88,Quarterly,Credit Card,DSL,6,No
+11781,31,Female,71,2751.34,179599.09,Yearly,Net Banking,DSL,0,No
+11782,54,Male,51,3555.05,172694.92,Quarterly,Net Banking,None,9,Yes
+11783,51,Female,6,2263.85,102307.58,Monthly,Net Banking,Fiber,10,No
+11784,28,Male,45,1686.22,87216.9,Quarterly,UPI,None,10,No
+11785,58,Female,45,4795.88,75994.34,Yearly,Debit Card,None,14,Yes
+11786,20,Male,15,3216.12,141746.32,Yearly,Net Banking,None,8,No
+11787,45,Male,23,4702.78,134661.55,Monthly,Credit Card,None,2,Yes
+11788,46,Male,60,1415.36,40039.94,Quarterly,Credit Card,DSL,12,No
+11789,26,Male,53,1161.02,134620.15,Monthly,Credit Card,Fiber,1,No
+11790,20,Male,61,4351.2,51233.81,Monthly,Net Banking,Fiber,3,No
+11791,42,Male,0,3564.13,4693.11,Quarterly,Net Banking,Fiber,3,No
+11792,51,Female,48,1339.6,140142.53,Yearly,Credit Card,DSL,2,No
+11793,29,Female,24,1712.12,129313.93,Monthly,Net Banking,DSL,1,Yes
+11794,59,Female,9,4102.99,82751.04,Yearly,Credit Card,None,4,No
+11795,26,Male,15,2542.41,105611.53,Monthly,UPI,None,3,No
+11796,32,Male,57,3517.43,189486.67,Monthly,Net Banking,None,4,No
+11797,57,Female,71,1932.58,119444.84,Monthly,UPI,None,12,Yes
+11798,42,Male,28,2215.53,131918.9,Monthly,UPI,Fiber,11,Yes
+11799,22,Male,5,4958.21,13718.35,Yearly,Net Banking,None,11,No
+11800,28,Male,15,1614.28,34032.9,Monthly,Credit Card,DSL,7,Yes
+11801,51,Male,19,2779.05,60889.5,Monthly,Debit Card,DSL,10,Yes
+11802,41,Male,70,4299.81,108336.48,Monthly,UPI,DSL,14,No
+11803,32,Female,42,1576.5,155541.59,Monthly,Net Banking,None,1,No
+11804,55,Female,25,2368.46,64926.93,Yearly,UPI,Fiber,8,No
+11805,25,Female,70,3267.91,71920.1,Monthly,Credit Card,Fiber,9,No
+11806,22,Female,32,2665.35,51974.03,Monthly,Net Banking,None,0,No
+11807,65,Female,25,2567.76,51667.26,Quarterly,Debit Card,None,7,Yes
+11808,43,Male,44,2131.29,189823.91,Monthly,Net Banking,DSL,11,No
+11809,35,Male,62,3139.91,127455.98,Quarterly,UPI,DSL,4,No
+11810,23,Male,66,3309.68,32024.35,Monthly,Net Banking,Fiber,1,No
+11811,54,Male,51,3439.8,144727.47,Monthly,Net Banking,DSL,7,No
+11812,65,Female,67,816.66,144682.21,Yearly,UPI,DSL,4,Yes
+11813,30,Female,25,3339.65,133627.57,Quarterly,Debit Card,None,9,Yes
+11814,45,Female,1,4789.57,27809.37,Monthly,Credit Card,Fiber,14,No
+11815,22,Male,13,2934.44,82190.31,Quarterly,Net Banking,None,13,No
+11816,30,Female,29,3718.7,22244.51,Yearly,Debit Card,Fiber,9,Yes
+11817,34,Male,48,3005.3,163507.48,Monthly,Credit Card,None,12,Yes
+11818,67,Female,11,4346.33,131379.26,Monthly,UPI,Fiber,13,No
+11819,57,Female,43,4683.12,101933.58,Monthly,Debit Card,DSL,2,No
+11820,62,Male,32,1328.99,69260.08,Monthly,Debit Card,Fiber,6,No
+11821,49,Male,12,2465.87,37665.65,Monthly,Net Banking,Fiber,3,Yes
+11822,46,Female,25,2265.72,22183.07,Yearly,UPI,None,10,No
+11823,68,Female,20,2323.47,193878.88,Monthly,Net Banking,Fiber,10,No
+11824,20,Male,27,1064.86,40730.08,Quarterly,UPI,Fiber,9,No
+11825,57,Female,47,4161.27,12915.05,Monthly,Credit Card,Fiber,11,Yes
+11826,51,Female,39,660.95,192371.69,Monthly,Net Banking,None,14,No
+11827,57,Male,65,2877.02,110241.4,Quarterly,UPI,Fiber,5,No
+11828,44,Female,22,3478.45,159534.69,Monthly,UPI,None,9,Yes
+11829,30,Male,47,1433.61,9709.4,Monthly,Debit Card,DSL,7,Yes
+11830,62,Female,1,4576.33,113822.23,Monthly,Net Banking,None,0,No
+11831,50,Male,19,4273.47,80243.78,Quarterly,Net Banking,Fiber,1,No
+11832,23,Female,58,2619.88,154620.92,Monthly,Credit Card,DSL,13,No
+11833,41,Male,45,2350.17,8646.7,Monthly,UPI,Fiber,12,No
+11834,36,Female,2,1564.56,80936.42,Yearly,Debit Card,None,7,No
+11835,33,Male,54,3784.97,160015.61,Yearly,UPI,DSL,14,Yes
+11836,57,Female,11,1092.85,105016.76,Monthly,UPI,DSL,6,No
+11837,45,Female,39,3561.07,110457.71,Monthly,UPI,DSL,9,No
+11838,50,Female,65,4291.06,20335.77,Quarterly,Net Banking,Fiber,8,No
+11839,65,Female,15,1528.12,27333.78,Quarterly,UPI,DSL,1,Yes
+11840,58,Female,33,4398.92,135722.92,Monthly,Credit Card,DSL,7,Yes
+11841,30,Female,43,649.95,135334.28,Monthly,Debit Card,DSL,5,No
+11842,60,Female,5,4607.54,195841.58,Quarterly,Debit Card,DSL,14,Yes
+11843,62,Female,63,1032.63,142678.64,Yearly,UPI,None,0,Yes
+11844,42,Female,21,3405.92,99155.46,Quarterly,Debit Card,Fiber,3,Yes
+11845,59,Male,17,1625.37,171608.24,Monthly,UPI,Fiber,13,Yes
+11846,53,Male,11,4264.49,21790.12,Monthly,Net Banking,DSL,14,No
+11847,44,Female,51,2805.35,90409.87,Quarterly,Debit Card,None,1,No
+11848,55,Male,50,1108.59,58134.71,Monthly,Net Banking,DSL,6,Yes
+11849,24,Female,70,3069.46,21822.92,Monthly,Net Banking,Fiber,8,No
+11850,22,Female,47,2335.47,152936.91,Monthly,Credit Card,Fiber,5,No
+11851,60,Male,18,3476.52,102647.61,Monthly,Credit Card,Fiber,3,No
+11852,62,Female,5,4468.56,111796.98,Monthly,Debit Card,DSL,4,No
+11853,68,Female,26,2342.25,82839.78,Quarterly,UPI,DSL,10,No
+11854,48,Male,52,1804.46,92607.11,Quarterly,UPI,None,0,Yes
+11855,40,Male,47,565.32,24087.46,Yearly,UPI,None,12,No
+11856,59,Female,6,3086.78,134910.65,Quarterly,UPI,Fiber,3,No
+11857,27,Male,58,2310.24,87057.02,Monthly,Credit Card,Fiber,12,No
+11858,49,Male,68,2185.92,163536.75,Monthly,UPI,None,9,No
+11859,60,Female,10,1323.21,40061.15,Monthly,UPI,Fiber,2,No
+11860,47,Male,14,2435.25,41805.96,Monthly,Net Banking,None,8,No
+11861,56,Male,63,4929.99,129506.15,Yearly,UPI,DSL,5,No
+11862,48,Female,2,1839.89,169354.68,Monthly,UPI,Fiber,14,No
+11863,35,Male,68,3198.67,94967.37,Monthly,Credit Card,Fiber,3,Yes
+11864,53,Male,22,3994.19,145663.82,Monthly,Debit Card,None,2,Yes
+11865,19,Female,52,3871.21,199866.65,Monthly,Net Banking,DSL,11,No
+11866,31,Female,36,1979.48,198062.86,Quarterly,Net Banking,Fiber,14,Yes
+11867,30,Female,8,3248.87,149123.03,Monthly,Debit Card,Fiber,12,No
+11868,46,Male,14,4420.69,148177.71,Monthly,Net Banking,None,3,No
+11869,29,Female,2,569.51,50276.16,Monthly,UPI,DSL,7,No
+11870,56,Female,69,2460.8,166874.39,Yearly,UPI,None,11,No
+11871,19,Male,16,1509.23,81615.32,Monthly,Debit Card,DSL,4,No
+11872,49,Female,25,2248.85,192436.79,Monthly,Credit Card,DSL,12,Yes
+11873,30,Female,20,2371.95,17204.11,Monthly,Credit Card,None,14,No
+11874,63,Female,71,3860.02,87732.23,Monthly,Net Banking,None,10,No
+11875,44,Female,20,922.2,111612.26,Monthly,Credit Card,DSL,0,No
+11876,66,Male,10,2806.63,81626.09,Quarterly,Credit Card,None,4,No
+11877,58,Female,37,3038.88,42905.26,Quarterly,Credit Card,Fiber,7,No
+11878,34,Female,71,2723.71,119004.71,Quarterly,Credit Card,Fiber,10,No
+11879,57,Male,34,3793.43,151427.67,Monthly,Credit Card,Fiber,14,No
+11880,48,Female,13,2227.06,129322.88,Monthly,Credit Card,Fiber,11,No
+11881,51,Male,13,4752.35,47655.32,Monthly,Credit Card,Fiber,3,No
+11882,41,Male,9,2668.12,146589.98,Monthly,Net Banking,None,13,Yes
+11883,62,Male,11,3070.46,52122.66,Monthly,UPI,DSL,1,No
+11884,52,Female,37,4214.89,35865.27,Monthly,Credit Card,None,12,No
+11885,65,Male,33,1738.56,138442.94,Quarterly,UPI,Fiber,14,No
+11886,23,Male,40,838.41,168714.66,Quarterly,Debit Card,Fiber,2,Yes
+11887,36,Male,9,3685.03,96826.35,Yearly,UPI,None,13,No
+11888,47,Female,16,2673.55,106746.97,Quarterly,Debit Card,None,10,No
+11889,24,Female,16,4534.27,61246.77,Monthly,Net Banking,DSL,8,No
+11890,27,Female,66,4922.06,99428.99,Monthly,UPI,Fiber,13,No
+11891,58,Female,61,2295.99,27264.62,Monthly,Debit Card,None,6,No
+11892,49,Female,0,2369.48,191210.34,Monthly,UPI,DSL,2,No
+11893,51,Female,11,2335.83,160271.77,Monthly,Net Banking,Fiber,4,No
+11894,45,Female,3,1960.49,133926.64,Monthly,UPI,Fiber,2,No
+11895,32,Male,41,4017.59,108100.68,Monthly,Debit Card,Fiber,9,No
+11896,47,Male,12,3915.48,158641.66,Quarterly,Credit Card,None,3,Yes
+11897,54,Male,3,2653.9,99456.69,Quarterly,Credit Card,Fiber,11,No
+11898,46,Male,68,700.98,60694.81,Monthly,Credit Card,Fiber,7,No
+11899,39,Female,18,1893.02,32914.47,Monthly,Net Banking,DSL,13,Yes
+11900,21,Male,1,1815.36,129869.53,Monthly,Credit Card,None,2,No
+11901,37,Male,11,4149.89,185955.72,Quarterly,Net Banking,DSL,2,No
+11902,49,Male,5,894.09,31570.09,Monthly,Credit Card,None,10,No
+11903,53,Male,7,4125.54,36823.59,Quarterly,Net Banking,Fiber,10,No
+11904,67,Female,50,3511.33,87287.6,Monthly,Net Banking,DSL,7,No
+11905,21,Female,10,3795.99,161572.97,Monthly,UPI,None,9,No
+11906,44,Female,62,2444.96,59490.62,Monthly,Credit Card,None,12,No
+11907,34,Male,56,3558.77,51528.67,Monthly,UPI,Fiber,9,Yes
+11908,29,Female,11,3240.63,124373.29,Monthly,Debit Card,Fiber,6,No
+11909,39,Male,1,3960.41,107587.34,Quarterly,Credit Card,DSL,6,No
+11910,34,Female,7,2510.46,12983.85,Monthly,Credit Card,DSL,9,Yes
+11911,27,Female,10,2627.72,17216.51,Monthly,Credit Card,None,1,No
+11912,18,Female,52,3396.09,128959.58,Yearly,Credit Card,DSL,11,No
+11913,39,Female,9,986.35,93559.6,Monthly,UPI,Fiber,6,No
+11914,43,Female,7,2463.1,194224.46,Monthly,UPI,DSL,9,Yes
+11915,35,Male,35,4873.78,136027.75,Monthly,Net Banking,DSL,10,No
+11916,67,Female,13,668.99,3004.66,Quarterly,UPI,None,9,No
+11917,31,Male,53,1922.02,96722.74,Quarterly,Net Banking,Fiber,2,No
+11918,64,Male,20,1913.49,83475.14,Monthly,Debit Card,None,13,No
+11919,46,Male,49,3350.59,22236.06,Yearly,UPI,Fiber,6,No
+11920,29,Male,38,976.1,184718.56,Quarterly,Net Banking,Fiber,12,Yes
+11921,53,Male,19,3328.45,161197.25,Monthly,Credit Card,None,3,No
+11922,52,Female,6,927.68,46787.1,Quarterly,Debit Card,DSL,12,Yes
+11923,69,Female,8,927.29,51940.17,Monthly,Net Banking,None,7,No
+11924,29,Female,0,3776.83,7371.59,Quarterly,Debit Card,DSL,7,Yes
+11925,24,Female,25,1958.61,60046.77,Monthly,Credit Card,None,5,No
+11926,46,Male,37,4898.4,117339.78,Quarterly,Credit Card,None,12,No
+11927,28,Female,37,668.09,84747.83,Monthly,Net Banking,DSL,11,No
+11928,50,Female,60,2502.98,193881.84,Yearly,Net Banking,DSL,2,No
+11929,23,Male,43,1009.11,12159.95,Monthly,Credit Card,DSL,5,Yes
+11930,64,Male,43,2081.21,118694.6,Quarterly,Net Banking,None,5,No
+11931,32,Female,61,4992.0,171803.58,Monthly,Credit Card,DSL,2,No
+11932,49,Female,5,4499.79,96667.44,Yearly,UPI,DSL,10,No
+11933,68,Male,16,717.46,1589.58,Quarterly,Net Banking,DSL,3,Yes
+11934,28,Female,50,3034.65,49317.5,Monthly,Debit Card,Fiber,14,Yes
+11935,40,Female,37,3415.2,65430.03,Yearly,Credit Card,DSL,1,No
+11936,43,Female,23,1442.91,193232.9,Monthly,UPI,DSL,14,No
+11937,51,Female,50,1152.98,182442.88,Quarterly,Net Banking,DSL,0,No
+11938,63,Male,9,4569.72,189884.93,Quarterly,Credit Card,Fiber,1,Yes
+11939,51,Male,71,4859.67,165325.93,Monthly,UPI,Fiber,6,No
+11940,46,Male,20,4963.52,70977.9,Yearly,Net Banking,DSL,9,No
+11941,21,Female,69,4053.93,181269.41,Monthly,Credit Card,DSL,4,No
+11942,34,Female,56,3485.76,196355.22,Monthly,Credit Card,DSL,8,No
+11943,52,Female,38,2055.79,70664.19,Yearly,Credit Card,DSL,2,No
+11944,30,Female,32,1271.29,52850.64,Quarterly,Net Banking,Fiber,1,No
+11945,58,Female,58,855.41,109836.34,Monthly,UPI,DSL,14,Yes
+11946,56,Male,17,3619.84,38243.29,Monthly,Credit Card,Fiber,3,No
+11947,32,Female,55,4031.26,7492.22,Quarterly,UPI,None,1,Yes
+11948,46,Female,56,4219.04,189220.4,Monthly,UPI,Fiber,10,No
+11949,46,Male,47,4611.94,185222.39,Yearly,Debit Card,None,6,No
+11950,28,Female,41,4459.68,33368.12,Quarterly,UPI,Fiber,9,No
+11951,69,Male,26,4998.84,82140.31,Monthly,UPI,Fiber,5,Yes
+11952,49,Male,51,1598.29,166376.23,Monthly,UPI,Fiber,7,No
+11953,19,Male,41,3934.88,132539.06,Monthly,UPI,DSL,12,Yes
+11954,64,Male,31,3139.07,79562.71,Monthly,UPI,Fiber,4,No
+11955,31,Male,25,1675.6,149090.03,Quarterly,Net Banking,DSL,1,Yes
+11956,37,Female,24,4918.57,179512.43,Yearly,Debit Card,Fiber,12,No
+11957,39,Male,22,4540.54,185305.51,Monthly,Credit Card,Fiber,3,No
+11958,28,Male,56,1078.32,76391.07,Monthly,Debit Card,None,0,Yes
+11959,44,Female,51,617.71,35538.58,Monthly,Debit Card,Fiber,1,No
+11960,20,Female,30,3597.49,182654.93,Quarterly,Credit Card,DSL,3,No
+11961,34,Male,63,3218.59,19418.53,Quarterly,UPI,None,5,No
+11962,61,Female,70,4711.17,144615.99,Quarterly,Credit Card,None,3,Yes
+11963,45,Female,32,1553.02,28958.97,Monthly,UPI,Fiber,3,No
+11964,46,Male,1,879.75,78487.98,Yearly,Credit Card,Fiber,13,Yes
+11965,38,Male,17,1666.47,82899.59,Monthly,Net Banking,None,10,No
+11966,64,Female,46,585.17,32592.83,Quarterly,Debit Card,DSL,9,No
+11967,33,Male,32,661.52,184613.61,Quarterly,UPI,Fiber,9,No
+11968,54,Male,34,4616.86,1530.97,Quarterly,Debit Card,None,1,No
+11969,37,Female,50,2084.07,178867.9,Monthly,UPI,DSL,8,No
+11970,23,Male,17,2348.64,176882.04,Quarterly,Credit Card,Fiber,11,Yes
+11971,36,Male,71,582.67,64075.77,Monthly,Credit Card,None,9,No
+11972,22,Male,29,1717.35,141152.57,Quarterly,Credit Card,None,7,No
+11973,20,Male,43,4121.27,51308.97,Monthly,Net Banking,Fiber,7,No
+11974,18,Male,52,3269.71,151995.94,Monthly,Credit Card,DSL,4,Yes
+11975,55,Female,9,3892.01,112662.83,Monthly,Credit Card,DSL,2,No
+11976,32,Female,51,2512.46,60744.87,Quarterly,Net Banking,None,5,No
+11977,51,Male,48,1893.78,80646.72,Monthly,Debit Card,DSL,13,No
+11978,52,Female,10,2672.65,138287.86,Quarterly,Debit Card,None,8,No
+11979,66,Male,65,1953.82,181313.39,Quarterly,UPI,Fiber,7,No
+11980,42,Male,57,4275.37,27014.58,Quarterly,Debit Card,DSL,6,No
+11981,41,Male,35,1839.53,114701.43,Monthly,UPI,Fiber,13,No
+11982,29,Male,32,3468.94,51492.11,Quarterly,UPI,None,10,No
+11983,35,Male,46,1116.42,160473.08,Monthly,Debit Card,Fiber,14,Yes
+11984,32,Female,12,3590.9,14977.22,Monthly,Debit Card,DSL,7,No
+11985,61,Female,39,4609.85,138102.2,Monthly,Net Banking,Fiber,3,No
+11986,33,Male,67,3238.62,35814.26,Monthly,UPI,DSL,5,No
+11987,44,Female,41,3019.35,119680.7,Monthly,Debit Card,DSL,14,No
+11988,25,Male,18,4825.03,167302.82,Monthly,Debit Card,DSL,14,Yes
+11989,63,Female,18,3323.28,151261.05,Monthly,Net Banking,DSL,13,No
+11990,42,Male,57,1667.98,150835.63,Monthly,Debit Card,DSL,4,No
+11991,34,Female,22,1815.76,104051.22,Monthly,Credit Card,None,11,No
+11992,46,Male,53,3673.88,178258.37,Monthly,Credit Card,Fiber,1,No
+11993,25,Male,64,3809.46,118032.93,Yearly,UPI,None,7,Yes
+11994,32,Female,11,1865.73,183586.08,Monthly,Net Banking,Fiber,2,Yes
+11995,44,Female,23,2054.05,109757.97,Monthly,Debit Card,Fiber,13,No
+11996,63,Male,33,4959.75,101687.15,Monthly,UPI,Fiber,4,Yes
+11997,67,Female,52,958.79,45248.25,Monthly,Debit Card,None,7,Yes
+11998,69,Male,7,2320.9,109412.54,Monthly,Credit Card,DSL,10,No
+11999,24,Female,17,781.01,28976.38,Monthly,Debit Card,DSL,14,No
+12000,20,Female,56,4194.85,174068.35,Yearly,Debit Card,None,8,Yes
+12001,46,Male,4,915.56,135502.49,Quarterly,Debit Card,DSL,12,Yes
+12002,61,Female,25,3533.03,198733.45,Quarterly,Credit Card,Fiber,14,No
+12003,41,Female,29,754.18,19327.39,Yearly,Credit Card,DSL,8,Yes
+12004,20,Male,53,3527.85,48893.88,Yearly,Net Banking,DSL,13,No
+12005,37,Female,12,4293.67,175554.56,Quarterly,Credit Card,DSL,4,No
+12006,63,Male,28,2294.7,79655.57,Quarterly,UPI,Fiber,1,No
+12007,32,Male,2,2849.57,93794.3,Monthly,Debit Card,DSL,6,No
+12008,42,Male,57,2306.94,172269.73,Monthly,Credit Card,DSL,10,Yes
+12009,47,Male,1,1852.2,104842.82,Monthly,UPI,DSL,10,Yes
+12010,31,Male,27,4114.69,39501.69,Monthly,Credit Card,None,6,No
+12011,24,Female,1,1724.01,178513.99,Yearly,Debit Card,None,14,No
+12012,34,Male,6,3753.25,7181.27,Monthly,UPI,DSL,11,No
+12013,61,Male,25,1427.89,179183.86,Quarterly,Credit Card,None,12,Yes
+12014,37,Female,15,1624.34,11053.53,Monthly,Credit Card,None,7,No
+12015,53,Female,22,2014.08,133504.02,Monthly,UPI,Fiber,7,No
+12016,26,Female,39,3151.2,15264.2,Monthly,Net Banking,None,4,No
+12017,55,Male,59,2544.9,141536.38,Monthly,UPI,None,14,Yes
+12018,65,Male,31,3853.15,7760.29,Monthly,UPI,DSL,0,No
+12019,39,Male,14,1461.05,168649.09,Monthly,UPI,Fiber,12,Yes
+12020,19,Female,12,548.03,93722.85,Monthly,UPI,Fiber,10,No
+12021,41,Male,4,3994.51,19597.33,Monthly,Credit Card,Fiber,12,No
+12022,25,Female,51,4197.42,141657.07,Quarterly,UPI,None,3,No
+12023,28,Male,40,767.66,98368.74,Monthly,UPI,DSL,3,No
+12024,30,Female,52,3249.08,38998.82,Monthly,Debit Card,Fiber,14,No
+12025,34,Male,49,2201.93,4118.8,Monthly,Credit Card,Fiber,10,Yes
+12026,25,Male,14,4072.53,84181.65,Monthly,Debit Card,None,2,No
+12027,38,Male,6,4434.87,18040.22,Monthly,Credit Card,Fiber,7,Yes
+12028,35,Female,39,4329.52,19739.77,Monthly,Net Banking,DSL,2,No
+12029,47,Female,27,3997.42,54198.58,Monthly,Net Banking,Fiber,12,Yes
+12030,35,Male,31,1710.74,126461.2,Yearly,Credit Card,DSL,4,No
+12031,63,Male,14,4153.5,106452.21,Monthly,Net Banking,DSL,1,No
+12032,64,Male,69,2900.65,14728.47,Monthly,Net Banking,DSL,5,Yes
+12033,48,Female,64,737.4,193717.82,Monthly,Credit Card,None,14,Yes
+12034,55,Male,3,2556.22,177546.57,Monthly,UPI,None,5,No
+12035,49,Male,10,4739.71,52585.87,Monthly,Debit Card,DSL,7,No
+12036,28,Male,25,4495.37,25345.38,Quarterly,Credit Card,DSL,7,Yes
+12037,62,Male,60,960.19,188538.17,Quarterly,Credit Card,Fiber,0,No
+12038,42,Female,36,3848.57,92767.21,Monthly,Credit Card,Fiber,4,No
+12039,50,Female,22,4126.07,62922.23,Yearly,Debit Card,Fiber,1,No
+12040,55,Male,39,1721.25,98581.25,Monthly,Credit Card,None,9,No
+12041,58,Male,22,2622.24,154776.08,Quarterly,Debit Card,Fiber,11,No
+12042,25,Female,15,3699.45,34508.67,Quarterly,Debit Card,DSL,4,Yes
+12043,28,Female,60,2475.69,153731.67,Quarterly,Net Banking,DSL,9,Yes
+12044,39,Male,67,1007.59,150139.91,Monthly,UPI,None,11,No
+12045,68,Female,30,3676.47,108330.29,Monthly,Net Banking,None,8,No
+12046,41,Female,52,4602.37,173302.62,Monthly,Credit Card,Fiber,3,No
+12047,58,Male,24,3436.18,27296.53,Monthly,Credit Card,None,7,Yes
+12048,34,Female,43,3982.1,119500.32,Monthly,Debit Card,DSL,0,No
+12049,29,Female,11,2112.63,90419.27,Monthly,Net Banking,DSL,7,No
+12050,63,Male,8,1324.39,85036.13,Monthly,Debit Card,None,5,No
+12051,49,Male,11,3392.48,51259.65,Quarterly,Net Banking,DSL,7,No
+12052,32,Female,68,1974.97,75083.65,Monthly,Net Banking,None,5,No
+12053,33,Male,53,4370.33,22522.0,Quarterly,Net Banking,DSL,10,No
+12054,39,Female,53,1051.83,51068.19,Monthly,Net Banking,Fiber,2,No
+12055,45,Male,27,2450.59,55121.06,Yearly,Net Banking,None,14,No
+12056,37,Female,55,2285.27,144412.91,Monthly,UPI,None,11,Yes
+12057,50,Male,68,4721.24,10661.54,Monthly,Credit Card,None,14,No
+12058,27,Female,57,1189.11,130587.27,Yearly,Net Banking,DSL,10,Yes
+12059,57,Female,41,544.31,45060.57,Monthly,Net Banking,Fiber,7,No
+12060,49,Female,37,1571.38,17290.44,Monthly,Debit Card,None,4,No
+12061,67,Male,67,4191.25,60860.43,Monthly,Credit Card,DSL,11,Yes
+12062,50,Male,52,1441.95,45670.1,Monthly,Credit Card,None,9,Yes
+12063,19,Female,32,1583.95,110854.44,Monthly,Credit Card,DSL,4,No
+12064,50,Female,70,1084.54,72117.9,Monthly,Net Banking,Fiber,14,No
+12065,50,Male,55,3719.46,193232.75,Yearly,Debit Card,DSL,11,Yes
+12066,58,Male,71,811.28,192746.37,Quarterly,Credit Card,DSL,6,Yes
+12067,30,Male,50,1990.44,89299.34,Monthly,Debit Card,None,5,No
+12068,47,Male,42,1771.24,159222.4,Quarterly,UPI,DSL,8,No
+12069,50,Male,14,2998.22,3640.44,Monthly,UPI,None,6,No
+12070,30,Male,37,3786.87,110014.51,Monthly,Debit Card,DSL,2,No
+12071,69,Female,14,2897.94,148916.54,Monthly,Net Banking,Fiber,10,No
+12072,43,Male,4,4689.62,44171.7,Quarterly,Credit Card,DSL,10,Yes
+12073,39,Female,53,4781.49,13173.18,Monthly,UPI,None,11,No
+12074,56,Male,50,2126.59,32027.87,Quarterly,UPI,DSL,4,No
+12075,19,Male,9,3999.56,88927.77,Monthly,Debit Card,DSL,8,Yes
+12076,55,Female,11,3824.61,101767.91,Yearly,Net Banking,Fiber,10,No
+12077,56,Female,3,4518.34,76796.14,Quarterly,Debit Card,None,12,No
+12078,43,Male,17,2515.75,88554.78,Monthly,Debit Card,Fiber,14,No
+12079,63,Female,35,2887.13,94576.76,Quarterly,Debit Card,DSL,9,No
+12080,67,Female,24,2370.98,154117.9,Monthly,Debit Card,Fiber,13,No
+12081,32,Female,35,4326.7,21943.14,Monthly,Debit Card,DSL,1,No
+12082,51,Female,66,1533.66,154021.14,Monthly,Net Banking,DSL,0,No
+12083,59,Male,8,1578.69,138036.83,Monthly,Debit Card,Fiber,10,No
+12084,61,Female,60,2176.72,148590.5,Quarterly,Net Banking,Fiber,7,No
+12085,66,Male,52,1536.54,147159.21,Monthly,Credit Card,DSL,7,No
+12086,57,Male,17,3024.53,94647.77,Monthly,Credit Card,Fiber,1,No
+12087,28,Male,42,1105.21,43068.64,Monthly,Credit Card,Fiber,13,Yes
+12088,20,Male,34,1940.84,107789.15,Monthly,Credit Card,DSL,12,Yes
+12089,23,Female,62,4610.5,191638.43,Monthly,UPI,None,7,No
+12090,26,Female,3,2341.51,118116.61,Quarterly,Net Banking,Fiber,4,No
+12091,23,Male,40,3867.05,3198.38,Yearly,Credit Card,Fiber,1,Yes
+12092,26,Male,44,1010.58,12882.47,Monthly,UPI,None,6,No
+12093,56,Male,49,1614.04,198579.82,Monthly,Net Banking,Fiber,6,No
+12094,48,Male,27,4133.06,15317.33,Monthly,UPI,DSL,2,No
+12095,49,Female,41,3933.47,10162.99,Quarterly,UPI,Fiber,13,No
+12096,58,Male,68,2237.7,71251.83,Monthly,Debit Card,DSL,0,Yes
+12097,67,Female,0,4794.79,193894.12,Monthly,UPI,None,10,No
+12098,29,Male,38,4597.89,64416.36,Quarterly,UPI,None,3,No
+12099,25,Male,16,4830.35,82566.94,Monthly,Net Banking,None,1,Yes
+12100,25,Male,34,2425.62,127181.34,Monthly,UPI,Fiber,3,No
+12101,67,Male,45,1388.63,5798.26,Quarterly,Debit Card,None,7,No
+12102,45,Female,41,3319.96,179654.95,Monthly,Credit Card,Fiber,1,Yes
+12103,37,Female,38,3581.48,104369.16,Monthly,Credit Card,Fiber,0,No
+12104,64,Female,48,1064.49,93895.37,Monthly,Net Banking,Fiber,10,No
+12105,24,Male,61,4039.17,172284.61,Monthly,Net Banking,None,13,Yes
+12106,28,Male,37,581.27,190662.24,Monthly,UPI,None,14,Yes
+12107,37,Female,22,2672.28,85261.62,Yearly,Net Banking,Fiber,14,Yes
+12108,33,Female,21,1989.57,35315.77,Monthly,UPI,None,2,No
+12109,21,Male,3,3831.36,163326.14,Quarterly,Net Banking,Fiber,9,Yes
+12110,23,Male,48,1907.42,81248.82,Monthly,Credit Card,None,6,No
+12111,39,Female,58,4220.63,187173.56,Monthly,Credit Card,DSL,12,No
+12112,43,Male,67,3177.29,190029.9,Monthly,Credit Card,None,11,No
+12113,20,Male,70,4072.52,23850.98,Monthly,Credit Card,None,5,No
+12114,58,Female,1,4952.03,191354.24,Monthly,UPI,None,5,No
+12115,59,Male,48,3556.21,74285.79,Monthly,UPI,Fiber,6,No
+12116,31,Female,30,4932.28,129604.25,Monthly,UPI,Fiber,7,No
+12117,28,Male,39,629.76,7915.27,Monthly,Credit Card,DSL,2,No
+12118,35,Female,47,2021.63,177887.97,Yearly,Debit Card,DSL,2,No
+12119,29,Male,50,985.34,128677.87,Monthly,Credit Card,DSL,9,No
+12120,40,Female,42,1680.37,129067.34,Monthly,Credit Card,Fiber,12,No
+12121,29,Female,54,4275.0,180533.06,Monthly,Debit Card,DSL,7,No
+12122,30,Female,48,645.45,102161.09,Monthly,Debit Card,DSL,11,No
+12123,42,Female,56,2840.82,82692.81,Quarterly,Net Banking,None,12,No
+12124,62,Male,14,3052.08,173359.62,Monthly,Credit Card,DSL,13,No
+12125,68,Male,26,3025.18,148741.68,Monthly,Debit Card,None,12,Yes
+12126,36,Female,67,2638.84,189846.16,Monthly,Net Banking,Fiber,6,No
+12127,63,Male,63,4057.71,188084.26,Quarterly,Debit Card,Fiber,9,Yes
+12128,53,Male,29,1100.94,77082.91,Monthly,Debit Card,None,4,No
+12129,62,Male,35,1897.6,89950.27,Monthly,Net Banking,DSL,3,No
+12130,25,Male,66,3270.77,51941.01,Monthly,Credit Card,Fiber,5,No
+12131,46,Male,48,3609.28,132468.93,Monthly,Net Banking,None,8,No
+12132,49,Female,54,2318.67,73543.85,Monthly,Credit Card,Fiber,5,No
+12133,68,Female,55,4439.17,157434.03,Yearly,Debit Card,Fiber,7,Yes
+12134,61,Female,67,2369.72,25188.6,Quarterly,Net Banking,DSL,0,No
+12135,35,Female,43,2312.49,24164.17,Monthly,UPI,Fiber,11,No
+12136,23,Male,30,662.93,41686.62,Monthly,Debit Card,None,13,Yes
+12137,35,Male,57,2980.14,17774.15,Monthly,Net Banking,DSL,5,No
+12138,36,Female,52,3689.06,124386.29,Monthly,Debit Card,None,13,No
+12139,39,Male,22,1014.97,30323.2,Monthly,Net Banking,None,13,No
+12140,54,Male,27,1874.45,32832.62,Monthly,Credit Card,None,1,No
+12141,49,Female,15,4015.66,3831.42,Yearly,UPI,DSL,2,No
+12142,58,Male,36,2146.64,156635.91,Monthly,Debit Card,Fiber,5,No
+12143,20,Female,20,1587.21,162646.92,Yearly,UPI,None,1,No
+12144,45,Female,16,3524.9,33242.46,Monthly,Credit Card,Fiber,3,No
+12145,27,Male,36,1385.41,148165.36,Monthly,Net Banking,Fiber,5,No
+12146,68,Male,18,4530.44,87275.48,Monthly,UPI,None,4,No
+12147,52,Female,29,975.19,48679.38,Quarterly,Net Banking,Fiber,5,Yes
+12148,46,Female,44,3679.47,124655.54,Monthly,Credit Card,DSL,14,No
+12149,32,Male,17,2747.97,36518.33,Quarterly,Debit Card,DSL,5,No
+12150,50,Female,61,4414.68,151619.84,Quarterly,Credit Card,Fiber,7,No
+12151,24,Female,35,1067.88,10475.43,Quarterly,UPI,Fiber,8,No
+12152,29,Female,51,3550.53,191867.06,Quarterly,UPI,DSL,4,No
+12153,66,Male,18,3074.25,15303.18,Quarterly,UPI,Fiber,5,No
+12154,47,Female,43,2660.41,116310.24,Quarterly,Net Banking,Fiber,5,No
+12155,38,Male,6,2711.33,180536.66,Monthly,Debit Card,Fiber,5,No
+12156,48,Female,43,3748.9,3368.99,Quarterly,UPI,Fiber,1,No
+12157,41,Male,67,4719.84,100204.38,Yearly,UPI,None,3,No
+12158,37,Female,33,910.63,70651.39,Monthly,UPI,Fiber,0,No
+12159,54,Male,65,587.76,116486.11,Yearly,Credit Card,DSL,13,No
+12160,21,Male,68,4125.67,45866.02,Monthly,UPI,None,11,No
+12161,45,Male,54,986.76,13914.94,Monthly,Credit Card,None,0,Yes
+12162,61,Female,9,4940.14,125560.67,Monthly,UPI,DSL,0,Yes
+12163,37,Female,41,3287.07,83953.0,Monthly,Credit Card,Fiber,6,No
+12164,41,Female,40,3428.9,124874.62,Quarterly,Net Banking,None,0,No
+12165,67,Male,68,1395.01,42897.29,Yearly,Net Banking,None,5,No
+12166,66,Female,9,1581.41,68409.51,Quarterly,Credit Card,Fiber,1,No
+12167,68,Male,9,3467.08,112774.6,Yearly,Debit Card,Fiber,5,No
+12168,49,Female,59,4593.77,119029.44,Monthly,Debit Card,DSL,5,No
+12169,58,Male,50,4920.76,75090.65,Monthly,Credit Card,None,11,Yes
+12170,53,Male,20,1391.14,56730.59,Monthly,Net Banking,Fiber,10,No
+12171,51,Male,7,1103.54,55466.43,Quarterly,Credit Card,Fiber,2,No
+12172,53,Female,64,753.81,35765.17,Monthly,Debit Card,DSL,14,No
+12173,19,Female,29,4407.34,65755.59,Yearly,Credit Card,None,7,No
+12174,32,Female,48,1826.22,40688.63,Quarterly,Net Banking,Fiber,10,Yes
+12175,51,Male,8,508.15,127129.27,Yearly,Debit Card,DSL,3,No
+12176,53,Male,16,1507.18,114244.33,Monthly,Debit Card,None,12,Yes
+12177,23,Female,68,2031.98,77135.18,Monthly,UPI,None,6,No
+12178,56,Female,57,4959.44,65840.17,Quarterly,UPI,None,3,No
+12179,59,Female,56,2855.94,48285.23,Quarterly,Debit Card,None,0,No
+12180,68,Male,61,1421.21,107556.2,Monthly,Debit Card,DSL,5,No
+12181,68,Male,51,2006.68,183861.65,Yearly,Credit Card,Fiber,4,No
+12182,29,Male,60,1986.38,137454.91,Yearly,Net Banking,None,8,Yes
+12183,20,Male,39,588.77,149138.53,Monthly,Debit Card,None,14,No
+12184,62,Male,37,1108.32,167041.19,Monthly,Net Banking,Fiber,13,No
+12185,35,Female,42,3628.38,70975.36,Monthly,Debit Card,None,13,Yes
+12186,57,Male,62,1041.13,13512.28,Monthly,Net Banking,None,14,No
+12187,38,Male,18,1538.3,124889.2,Quarterly,UPI,Fiber,8,No
+12188,32,Male,49,2078.32,38545.79,Monthly,Debit Card,Fiber,11,No
+12189,50,Male,32,3909.81,114239.69,Quarterly,Credit Card,None,10,No
+12190,52,Male,12,3120.8,148162.54,Quarterly,Net Banking,Fiber,12,No
+12191,43,Female,61,3600.5,156944.02,Monthly,Debit Card,DSL,7,Yes
+12192,25,Male,42,3051.56,61065.98,Monthly,UPI,DSL,14,No
+12193,53,Male,48,3576.17,102974.21,Monthly,UPI,None,6,No
+12194,65,Male,35,512.79,124572.05,Monthly,UPI,None,13,No
+12195,47,Female,9,4689.04,164076.66,Monthly,UPI,Fiber,1,Yes
+12196,40,Female,5,999.14,152516.34,Yearly,Debit Card,Fiber,13,Yes
+12197,59,Female,56,2328.12,197607.09,Monthly,Credit Card,None,7,No
+12198,61,Male,0,3969.67,2608.85,Monthly,Net Banking,None,2,No
+12199,31,Female,70,2458.54,88060.4,Monthly,Credit Card,DSL,5,No
+12200,31,Male,57,4760.79,51952.85,Monthly,Net Banking,Fiber,9,Yes
+12201,19,Male,20,2604.15,24858.78,Monthly,Credit Card,None,6,No
+12202,54,Female,55,4437.23,182391.55,Quarterly,Debit Card,None,11,No
+12203,22,Male,19,4148.73,199594.45,Monthly,Debit Card,Fiber,5,No
+12204,55,Male,53,4914.44,36938.65,Yearly,Net Banking,Fiber,4,No
+12205,62,Male,24,4669.47,8648.25,Monthly,Debit Card,None,3,Yes
+12206,58,Female,27,4541.56,55735.84,Yearly,Net Banking,None,1,No
+12207,64,Male,4,3792.22,167137.52,Yearly,Credit Card,None,8,No
+12208,31,Male,20,2151.49,59484.13,Monthly,Debit Card,Fiber,13,No
+12209,56,Female,17,977.56,12323.39,Monthly,Debit Card,None,6,Yes
+12210,42,Male,46,3598.9,11445.94,Monthly,Net Banking,None,6,No
+12211,37,Male,69,4903.94,86057.14,Quarterly,Net Banking,None,3,No
+12212,19,Female,56,3769.72,186433.32,Yearly,Net Banking,DSL,13,No
+12213,56,Male,18,4679.28,57898.17,Monthly,Net Banking,DSL,4,No
+12214,23,Male,64,4119.37,86004.38,Monthly,UPI,Fiber,5,No
+12215,34,Male,2,1234.02,21284.83,Quarterly,Net Banking,None,11,No
+12216,42,Male,41,1621.42,99220.99,Yearly,UPI,None,10,Yes
+12217,45,Male,20,2038.4,139612.87,Quarterly,Credit Card,Fiber,11,No
+12218,19,Female,39,1257.17,54958.92,Yearly,Net Banking,Fiber,1,Yes
+12219,52,Female,66,3117.43,60045.55,Monthly,UPI,Fiber,3,Yes
+12220,54,Female,24,4889.53,168553.03,Quarterly,UPI,None,14,No
+12221,22,Female,54,3926.56,3062.38,Quarterly,UPI,DSL,12,No
+12222,18,Male,51,2405.24,127657.67,Quarterly,Debit Card,Fiber,3,Yes
+12223,57,Male,43,520.27,79383.04,Monthly,UPI,None,11,No
+12224,29,Male,55,1909.74,60377.72,Monthly,Net Banking,Fiber,12,Yes
+12225,53,Male,54,2870.42,131861.17,Monthly,Net Banking,None,3,No
+12226,62,Male,69,1959.13,167099.04,Monthly,Net Banking,Fiber,6,Yes
+12227,40,Female,65,999.66,112120.03,Monthly,UPI,None,12,No
+12228,64,Female,18,2492.44,7187.83,Quarterly,UPI,Fiber,6,No
+12229,48,Male,6,1639.64,92818.84,Monthly,Debit Card,DSL,6,No
+12230,28,Male,62,4591.55,93089.23,Monthly,Credit Card,Fiber,6,No
+12231,27,Male,41,957.9,109215.9,Quarterly,Debit Card,Fiber,1,No
+12232,20,Female,41,721.19,134520.82,Yearly,Net Banking,DSL,4,No
+12233,31,Male,58,523.91,4844.36,Monthly,Net Banking,Fiber,9,Yes
+12234,33,Male,19,1976.31,100900.51,Monthly,Net Banking,DSL,1,Yes
+12235,27,Male,16,3471.74,118073.25,Yearly,Debit Card,None,4,No
+12236,46,Female,26,3786.86,69327.32,Yearly,Net Banking,DSL,11,Yes
+12237,27,Male,46,2539.68,134004.68,Monthly,Net Banking,DSL,5,No
+12238,29,Female,1,3579.48,46407.37,Monthly,Net Banking,None,2,No
+12239,47,Female,62,2119.61,64157.09,Monthly,UPI,DSL,5,No
+12240,58,Female,61,3505.13,192588.31,Quarterly,Credit Card,DSL,14,No
+12241,18,Female,18,682.68,70266.0,Monthly,UPI,None,4,No
+12242,22,Female,16,2258.39,69953.68,Monthly,UPI,Fiber,3,No
+12243,37,Female,68,4058.82,119540.45,Monthly,Credit Card,Fiber,9,Yes
+12244,25,Male,38,4113.53,194224.09,Yearly,Credit Card,DSL,8,Yes
+12245,60,Male,70,3722.67,196633.01,Monthly,Debit Card,Fiber,10,No
+12246,29,Male,38,1419.07,116351.93,Monthly,Credit Card,Fiber,13,No
+12247,18,Female,35,1612.42,1216.32,Yearly,Debit Card,DSL,7,No
+12248,37,Male,39,4982.4,180230.65,Monthly,Debit Card,None,11,No
+12249,45,Female,44,965.2,114477.35,Monthly,UPI,Fiber,6,Yes
+12250,60,Female,3,1312.98,73833.29,Quarterly,Net Banking,DSL,10,Yes
+12251,54,Female,24,1085.12,166009.83,Monthly,UPI,None,14,No
+12252,64,Male,68,1974.45,80566.66,Quarterly,UPI,Fiber,0,Yes
+12253,54,Female,29,1445.79,7774.86,Monthly,Credit Card,None,8,No
+12254,29,Female,67,2739.6,164393.37,Monthly,Credit Card,DSL,8,No
+12255,54,Male,28,2642.09,109626.02,Yearly,Debit Card,None,5,No
+12256,66,Male,67,4556.78,68290.56,Monthly,Debit Card,None,6,No
+12257,66,Female,50,656.33,50927.58,Quarterly,Debit Card,DSL,12,Yes
+12258,61,Female,23,1939.46,119165.69,Monthly,Credit Card,Fiber,2,No
+12259,45,Male,13,3184.96,42401.86,Monthly,Debit Card,Fiber,4,No
+12260,64,Male,68,3221.61,65446.33,Quarterly,Debit Card,None,6,Yes
+12261,32,Male,17,2660.57,127669.53,Monthly,Credit Card,None,0,No
+12262,23,Female,41,4170.49,176427.35,Monthly,Net Banking,None,11,Yes
+12263,61,Male,56,782.25,107045.18,Monthly,UPI,None,0,No
+12264,37,Male,11,4169.69,152062.17,Monthly,Credit Card,Fiber,4,No
+12265,67,Male,16,2726.39,152849.06,Quarterly,Debit Card,DSL,8,Yes
+12266,31,Female,29,1101.92,133206.44,Quarterly,UPI,DSL,6,Yes
+12267,19,Male,22,4485.66,49921.83,Quarterly,Credit Card,DSL,0,Yes
+12268,26,Male,0,3421.53,173490.93,Quarterly,UPI,None,12,Yes
+12269,54,Male,31,1235.96,87818.86,Monthly,UPI,None,12,Yes
+12270,37,Male,8,651.42,9797.94,Monthly,Net Banking,DSL,14,Yes
+12271,43,Male,14,1134.99,49677.92,Quarterly,Debit Card,Fiber,11,No
+12272,46,Female,27,3239.59,153344.12,Monthly,Credit Card,DSL,4,No
+12273,18,Female,23,1306.83,14757.53,Monthly,Debit Card,Fiber,14,No
+12274,52,Female,59,1515.93,30325.52,Yearly,Net Banking,None,7,No
+12275,23,Male,34,613.13,139151.14,Monthly,Net Banking,DSL,7,Yes
+12276,54,Female,26,3753.19,178627.56,Monthly,Credit Card,DSL,11,Yes
+12277,22,Female,19,4146.64,127112.67,Monthly,Credit Card,None,1,No
+12278,50,Female,64,4085.82,45235.92,Quarterly,Net Banking,Fiber,6,No
+12279,66,Male,48,1074.06,11629.34,Monthly,Credit Card,DSL,9,No
+12280,68,Male,0,4564.86,123410.19,Monthly,UPI,DSL,4,Yes
+12281,31,Female,9,3525.25,10432.32,Yearly,UPI,Fiber,8,No
+12282,29,Female,46,4538.88,122931.69,Quarterly,Net Banking,DSL,2,No
+12283,59,Male,58,2512.22,45890.41,Quarterly,Debit Card,DSL,0,No
+12284,37,Male,61,2466.3,181026.56,Monthly,Credit Card,None,12,No
+12285,67,Female,17,4030.41,95543.44,Monthly,Credit Card,Fiber,3,No
+12286,41,Male,45,919.84,45563.75,Monthly,UPI,DSL,6,No
+12287,60,Female,31,2843.93,170775.92,Monthly,Credit Card,DSL,0,No
+12288,51,Male,26,4263.73,51553.04,Monthly,Debit Card,None,1,No
+12289,42,Female,17,4235.87,62013.22,Monthly,Credit Card,DSL,13,Yes
+12290,67,Female,38,4802.6,167021.3,Monthly,Credit Card,None,4,No
+12291,46,Male,48,3642.23,62449.61,Quarterly,UPI,DSL,8,Yes
+12292,56,Female,43,1434.97,82622.59,Quarterly,Credit Card,None,13,No
+12293,48,Female,71,591.26,70185.47,Monthly,Net Banking,Fiber,0,No
+12294,64,Female,53,2657.37,24163.66,Monthly,Net Banking,Fiber,11,No
+12295,60,Male,33,2811.67,8740.27,Monthly,Debit Card,DSL,3,No
+12296,67,Male,70,1581.18,145183.59,Monthly,Debit Card,DSL,11,No
+12297,40,Male,35,1061.14,129382.29,Monthly,Debit Card,None,13,No
+12298,61,Female,17,3137.94,57190.85,Monthly,Debit Card,None,2,No
+12299,55,Male,37,3939.15,59824.23,Yearly,UPI,Fiber,13,No
+12300,37,Female,58,4969.19,189056.15,Quarterly,Credit Card,DSL,4,No
+12301,40,Female,8,3912.36,197546.55,Quarterly,UPI,None,4,No
+12302,62,Male,71,4071.35,95213.55,Yearly,Debit Card,Fiber,9,No
+12303,69,Male,50,3274.07,160687.9,Quarterly,Credit Card,Fiber,1,No
+12304,33,Female,34,4936.65,147600.49,Quarterly,Net Banking,None,4,No
+12305,67,Female,4,3379.8,60166.22,Monthly,UPI,DSL,8,No
+12306,59,Male,13,4371.14,12653.98,Monthly,Credit Card,Fiber,4,No
+12307,25,Male,29,4756.03,29368.7,Quarterly,Net Banking,None,14,Yes
+12308,67,Male,3,4684.36,167820.53,Monthly,Net Banking,Fiber,10,No
+12309,38,Female,38,2216.37,146511.55,Quarterly,Debit Card,DSL,9,No
+12310,18,Female,63,853.98,133202.63,Yearly,Net Banking,None,1,No
+12311,25,Female,24,1273.43,26999.12,Quarterly,Net Banking,DSL,6,No
+12312,46,Female,27,766.5,128346.21,Monthly,Debit Card,DSL,14,No
+12313,49,Female,65,974.29,154658.31,Monthly,Credit Card,Fiber,5,No
+12314,55,Male,21,1330.93,172259.75,Quarterly,Credit Card,DSL,6,No
+12315,22,Male,30,2034.92,3633.02,Yearly,Debit Card,Fiber,7,Yes
+12316,64,Female,22,2945.93,137210.55,Monthly,UPI,None,9,No
+12317,39,Female,47,3702.57,4800.43,Quarterly,Debit Card,None,4,Yes
+12318,64,Male,19,1449.17,141667.7,Yearly,Credit Card,Fiber,1,No
+12319,51,Male,37,3526.35,127488.65,Monthly,UPI,Fiber,6,Yes
+12320,18,Male,54,3669.17,30521.22,Quarterly,Debit Card,Fiber,6,No
+12321,43,Male,67,3013.8,153458.23,Monthly,Credit Card,DSL,7,Yes
+12322,60,Female,0,4566.28,14601.18,Monthly,Credit Card,None,6,No
+12323,27,Male,6,999.48,165453.36,Monthly,Credit Card,None,9,No
+12324,47,Female,56,1297.05,53123.92,Quarterly,Net Banking,DSL,6,No
+12325,67,Male,11,2428.99,138081.52,Quarterly,Net Banking,Fiber,13,No
+12326,35,Male,4,1070.21,184814.18,Monthly,UPI,None,12,No
+12327,34,Male,49,3048.33,68625.58,Yearly,UPI,DSL,8,Yes
+12328,43,Female,41,2292.8,101075.92,Quarterly,UPI,Fiber,7,Yes
+12329,25,Female,11,1780.68,93160.49,Quarterly,Net Banking,None,14,Yes
+12330,64,Male,17,1264.95,32364.66,Monthly,UPI,Fiber,1,No
+12331,57,Female,65,2009.02,118472.09,Monthly,Credit Card,DSL,1,Yes
+12332,66,Female,16,3235.82,148857.38,Monthly,Credit Card,None,6,Yes
+12333,29,Male,67,3091.03,183458.09,Yearly,UPI,Fiber,9,No
+12334,44,Male,70,1236.31,170309.72,Monthly,UPI,Fiber,14,Yes
+12335,25,Female,61,1062.14,102493.86,Yearly,Net Banking,Fiber,10,Yes
+12336,42,Female,40,620.05,144084.41,Quarterly,Credit Card,DSL,12,No
+12337,63,Female,33,555.92,160355.9,Quarterly,Debit Card,Fiber,14,No
+12338,21,Male,69,4459.15,99204.25,Quarterly,Debit Card,None,9,No
+12339,50,Male,44,702.9,23970.08,Monthly,Net Banking,None,2,Yes
+12340,18,Female,57,3790.49,88148.22,Quarterly,Net Banking,Fiber,0,No
+12341,36,Male,50,4423.93,168653.13,Monthly,Net Banking,DSL,8,Yes
+12342,48,Male,33,941.26,119731.64,Quarterly,Credit Card,None,13,No
+12343,33,Female,43,2463.36,145167.22,Quarterly,UPI,None,14,No
+12344,31,Female,14,4830.36,37868.34,Quarterly,UPI,None,13,No
+12345,65,Male,69,4253.62,192903.22,Quarterly,Net Banking,Fiber,13,No
+12346,22,Male,49,2703.67,81412.03,Monthly,Credit Card,None,2,No
+12347,58,Female,31,3931.57,131073.47,Monthly,Debit Card,Fiber,0,No
+12348,43,Male,66,4250.2,4755.58,Quarterly,Net Banking,Fiber,5,No
+12349,45,Male,2,2066.12,26336.53,Monthly,Credit Card,Fiber,3,No
+12350,19,Female,50,4514.69,156624.82,Monthly,Net Banking,Fiber,13,Yes
+12351,67,Female,66,2617.13,193625.92,Monthly,Credit Card,Fiber,0,No
+12352,23,Male,47,2875.13,64691.02,Monthly,Credit Card,None,3,Yes
+12353,26,Male,16,4998.68,8398.97,Monthly,Net Banking,Fiber,7,No
+12354,50,Male,6,4294.86,72812.45,Quarterly,UPI,Fiber,10,No
+12355,58,Female,12,2127.97,4476.16,Quarterly,Net Banking,Fiber,6,No
+12356,42,Male,65,546.56,39282.25,Monthly,UPI,Fiber,14,No
+12357,65,Male,3,3317.78,150741.93,Yearly,UPI,Fiber,11,No
+12358,30,Female,9,3667.61,187480.59,Monthly,Debit Card,Fiber,0,Yes
+12359,26,Female,16,3428.61,18402.37,Monthly,Credit Card,None,9,No
+12360,30,Male,51,4855.38,112022.25,Quarterly,Net Banking,Fiber,11,No
+12361,48,Female,5,4383.37,51522.29,Quarterly,Credit Card,Fiber,8,No
+12362,58,Female,68,2519.74,28672.77,Monthly,Debit Card,None,5,No
+12363,28,Male,8,782.86,44577.07,Yearly,UPI,None,1,Yes
+12364,21,Female,20,2642.26,115974.85,Yearly,Net Banking,DSL,2,No
+12365,51,Female,23,3601.6,13961.77,Monthly,Credit Card,None,6,No
+12366,55,Male,3,3234.69,87409.5,Monthly,Debit Card,None,2,Yes
+12367,63,Female,23,2921.62,27910.34,Quarterly,UPI,Fiber,12,No
+12368,21,Male,58,2609.69,55262.73,Monthly,UPI,DSL,2,No
+12369,55,Male,2,1821.93,38960.11,Monthly,Credit Card,Fiber,4,Yes
+12370,36,Female,67,1748.06,176712.12,Quarterly,UPI,DSL,2,No
+12371,23,Female,39,2751.04,141894.25,Monthly,Debit Card,Fiber,2,Yes
+12372,51,Female,47,1222.71,173824.05,Monthly,UPI,None,10,Yes
+12373,35,Male,53,2033.08,77309.1,Monthly,Net Banking,None,4,No
+12374,30,Female,34,1957.91,63369.26,Quarterly,Net Banking,DSL,13,No
+12375,58,Male,55,3142.1,76736.85,Monthly,Credit Card,Fiber,4,Yes
+12376,40,Female,39,800.07,4691.09,Monthly,Debit Card,Fiber,11,No
+12377,36,Female,67,4233.51,145216.15,Monthly,UPI,None,8,Yes
+12378,62,Female,45,3030.7,70604.72,Monthly,UPI,None,0,No
+12379,28,Male,12,3518.72,63351.44,Yearly,UPI,DSL,13,No
+12380,18,Female,26,3663.92,120030.07,Yearly,Net Banking,None,0,No
+12381,41,Female,5,1811.68,87813.73,Monthly,Debit Card,DSL,10,Yes
+12382,24,Male,16,2616.67,196187.83,Quarterly,UPI,DSL,13,No
+12383,42,Male,35,4803.11,71894.36,Quarterly,Credit Card,DSL,8,Yes
+12384,38,Female,1,3950.17,123165.27,Quarterly,Debit Card,DSL,4,No
+12385,32,Female,51,4863.01,63018.57,Monthly,Debit Card,None,3,No
+12386,18,Female,65,3858.14,198128.4,Monthly,UPI,DSL,1,No
+12387,29,Male,51,1290.2,89577.1,Quarterly,Net Banking,None,11,No
+12388,24,Male,42,790.41,127191.63,Monthly,Debit Card,DSL,8,Yes
+12389,32,Male,21,3099.48,26217.61,Monthly,Credit Card,None,5,No
+12390,38,Male,54,2110.16,146871.82,Quarterly,Debit Card,DSL,14,Yes
+12391,36,Female,66,1739.56,54572.8,Yearly,Net Banking,None,8,No
+12392,46,Male,59,4132.45,90274.04,Monthly,Credit Card,Fiber,4,No
+12393,42,Male,57,2151.47,176743.48,Quarterly,Net Banking,DSL,3,No
+12394,50,Male,11,1926.5,194139.95,Monthly,UPI,DSL,6,Yes
+12395,66,Female,68,4324.94,85489.85,Yearly,Debit Card,Fiber,4,Yes
+12396,49,Female,38,4308.29,167125.73,Monthly,Credit Card,Fiber,7,Yes
+12397,66,Male,12,2103.65,11616.45,Monthly,Net Banking,DSL,7,Yes
+12398,52,Male,40,4246.24,169667.23,Monthly,UPI,None,12,Yes
+12399,61,Female,56,4328.5,126272.55,Monthly,Credit Card,DSL,1,No
+12400,55,Female,52,2407.69,98252.53,Monthly,Debit Card,None,12,No
+12401,43,Female,11,799.13,178102.78,Monthly,Debit Card,Fiber,14,No
+12402,28,Female,12,507.13,169222.11,Quarterly,Net Banking,None,4,No
+12403,52,Female,56,2854.82,60092.07,Monthly,Credit Card,DSL,9,No
+12404,25,Female,39,2048.34,158506.19,Quarterly,UPI,Fiber,7,No
+12405,63,Female,44,4987.09,20798.7,Monthly,UPI,Fiber,2,No
+12406,31,Female,34,3975.85,164730.02,Quarterly,UPI,DSL,6,No
+12407,27,Male,2,3925.74,135415.67,Monthly,Net Banking,DSL,2,No
+12408,19,Male,4,4798.59,18485.4,Monthly,UPI,Fiber,14,No
+12409,63,Male,10,4494.76,136932.95,Monthly,Credit Card,None,5,No
+12410,26,Male,70,1931.84,116523.34,Monthly,Net Banking,None,1,No
+12411,20,Male,55,1246.94,119315.47,Quarterly,Debit Card,None,5,No
+12412,38,Male,9,3856.52,58881.92,Quarterly,Net Banking,DSL,5,No
+12413,43,Female,33,2202.23,54032.94,Monthly,Net Banking,Fiber,7,No
+12414,25,Female,66,2629.28,152744.49,Monthly,Net Banking,None,4,No
+12415,65,Male,71,3336.79,52105.88,Monthly,Credit Card,Fiber,13,No
+12416,19,Male,30,4585.43,89806.19,Monthly,Debit Card,None,0,No
+12417,23,Female,70,2385.89,139263.01,Quarterly,Debit Card,Fiber,14,No
+12418,45,Female,65,4024.93,16843.63,Monthly,Net Banking,DSL,7,No
+12419,46,Female,69,1707.53,119315.13,Monthly,Net Banking,DSL,11,No
+12420,43,Male,40,3640.87,118285.9,Monthly,Net Banking,DSL,8,Yes
+12421,42,Female,62,507.11,137161.51,Monthly,Credit Card,None,0,No
+12422,29,Male,31,4421.78,74615.69,Monthly,Credit Card,DSL,4,No
+12423,22,Male,19,636.71,90346.98,Monthly,UPI,DSL,11,No
+12424,51,Female,56,3707.39,66663.89,Monthly,Debit Card,DSL,5,No
+12425,65,Female,49,708.16,161825.48,Monthly,UPI,Fiber,3,No
+12426,54,Male,24,1698.11,26991.54,Monthly,UPI,Fiber,13,No
+12427,32,Female,11,2737.41,192627.84,Quarterly,Net Banking,Fiber,10,No
+12428,61,Female,70,2389.72,127332.4,Monthly,Credit Card,Fiber,1,No
+12429,53,Male,38,1363.26,177494.44,Monthly,UPI,Fiber,4,No
+12430,32,Female,16,2002.17,85820.06,Monthly,UPI,Fiber,13,No
+12431,60,Male,44,3774.68,67123.54,Monthly,UPI,Fiber,13,No
+12432,65,Male,10,3511.66,180244.44,Monthly,Net Banking,DSL,3,No
+12433,40,Female,69,823.17,20675.73,Quarterly,Net Banking,DSL,12,Yes
+12434,23,Male,22,3862.92,24304.34,Yearly,Credit Card,None,6,Yes
+12435,63,Male,69,738.71,60570.01,Monthly,UPI,DSL,5,No
+12436,67,Female,37,2943.17,191995.22,Quarterly,UPI,Fiber,2,No
+12437,61,Female,1,1670.28,126980.65,Monthly,Credit Card,Fiber,8,No
+12438,60,Female,71,3144.61,111284.55,Monthly,Credit Card,None,13,No
+12439,62,Male,36,1675.98,141365.91,Yearly,Credit Card,DSL,3,No
+12440,38,Male,48,4932.31,84077.44,Quarterly,Debit Card,DSL,14,No
+12441,40,Female,51,1893.78,151856.63,Yearly,Credit Card,None,10,No
+12442,60,Male,32,1588.82,79252.91,Monthly,Net Banking,Fiber,4,No
+12443,33,Female,21,1753.09,165446.27,Monthly,Debit Card,Fiber,13,No
+12444,64,Female,4,4534.13,54191.72,Monthly,Credit Card,Fiber,2,No
+12445,32,Male,17,3362.98,56231.79,Quarterly,Net Banking,Fiber,7,Yes
+12446,42,Female,37,3788.08,104954.28,Monthly,Credit Card,None,10,No
+12447,53,Male,36,4631.05,86721.47,Yearly,Credit Card,DSL,6,No
+12448,28,Male,63,4603.43,129975.05,Monthly,Debit Card,Fiber,10,No
+12449,68,Female,9,3825.26,73493.86,Monthly,Net Banking,DSL,10,No
+12450,32,Male,41,1390.21,46879.58,Quarterly,UPI,DSL,14,No
+12451,21,Female,47,4295.18,94491.9,Quarterly,Credit Card,Fiber,6,Yes
+12452,38,Male,43,1416.99,112630.34,Monthly,Debit Card,Fiber,7,No
+12453,30,Male,15,3843.04,29377.41,Yearly,Net Banking,Fiber,6,No
+12454,39,Male,53,3585.21,111787.01,Monthly,Credit Card,DSL,2,No
+12455,36,Female,34,3915.0,64532.08,Monthly,UPI,None,2,Yes
+12456,51,Male,27,2897.09,79097.93,Yearly,Net Banking,Fiber,1,No
+12457,31,Female,1,3374.27,56584.31,Yearly,Net Banking,DSL,12,No
+12458,21,Male,12,4789.94,186350.66,Quarterly,Debit Card,DSL,0,Yes
+12459,65,Male,40,954.9,136983.92,Yearly,Credit Card,Fiber,4,Yes
+12460,69,Female,58,1889.81,53229.6,Quarterly,Credit Card,None,11,No
+12461,63,Female,68,3251.11,129361.24,Yearly,Net Banking,Fiber,3,No
+12462,44,Female,52,4838.24,169865.91,Monthly,Credit Card,Fiber,14,No
+12463,46,Female,44,930.09,80924.41,Quarterly,Net Banking,None,12,Yes
+12464,64,Female,19,601.47,166161.54,Quarterly,UPI,Fiber,10,No
+12465,45,Male,23,750.87,31728.57,Monthly,Debit Card,Fiber,1,No
+12466,52,Male,60,735.83,164733.49,Monthly,Credit Card,None,0,No
+12467,25,Female,57,4585.17,108518.55,Monthly,Credit Card,DSL,13,Yes
+12468,33,Male,26,3745.66,45371.92,Quarterly,Debit Card,DSL,13,No
+12469,59,Male,25,3546.98,82021.14,Monthly,UPI,DSL,2,Yes
+12470,53,Male,6,2851.58,197610.61,Quarterly,UPI,DSL,12,Yes
+12471,47,Female,41,4018.79,156927.65,Monthly,UPI,DSL,5,No
+12472,35,Male,46,1200.42,115442.19,Monthly,UPI,Fiber,12,No
+12473,19,Male,52,2263.74,23917.62,Yearly,UPI,None,1,No
+12474,66,Male,58,2705.02,84144.5,Monthly,Net Banking,DSL,9,Yes
+12475,30,Female,37,996.84,53347.25,Monthly,Credit Card,None,14,No
+12476,21,Male,68,2387.81,15129.21,Monthly,Credit Card,DSL,12,No
+12477,43,Male,52,1924.26,108898.67,Quarterly,Credit Card,Fiber,6,No
+12478,42,Female,14,660.12,177947.95,Yearly,Net Banking,DSL,10,Yes
+12479,47,Female,25,1115.31,135444.37,Yearly,Debit Card,DSL,6,Yes
+12480,28,Male,47,3938.17,50686.4,Quarterly,UPI,None,10,Yes
+12481,24,Male,18,581.17,115143.34,Monthly,Debit Card,None,2,No
+12482,48,Female,8,4704.14,188703.62,Monthly,UPI,Fiber,13,No
+12483,61,Female,63,888.91,144860.1,Monthly,UPI,None,0,No
+12484,27,Female,53,4096.57,138205.31,Monthly,Debit Card,None,8,No
+12485,56,Female,50,4543.77,193663.48,Monthly,Credit Card,None,10,No
+12486,30,Female,38,4735.11,159975.79,Monthly,Net Banking,Fiber,4,No
+12487,48,Female,3,4403.65,28188.09,Quarterly,Debit Card,Fiber,1,No
+12488,24,Female,2,1793.98,70179.38,Monthly,Credit Card,Fiber,14,No
+12489,66,Male,63,1998.89,193063.0,Quarterly,UPI,None,7,No
+12490,59,Female,28,2419.46,98451.37,Yearly,Credit Card,None,11,No
+12491,59,Female,10,1126.84,23215.85,Quarterly,UPI,Fiber,9,No
+12492,53,Male,57,600.23,92262.37,Quarterly,UPI,None,9,Yes
+12493,37,Female,26,4411.05,139701.65,Quarterly,Credit Card,None,3,Yes
+12494,21,Female,20,2993.58,199512.1,Monthly,UPI,DSL,10,No
+12495,24,Male,38,3239.25,65457.16,Monthly,Net Banking,Fiber,9,Yes
+12496,18,Female,45,4671.45,103303.29,Monthly,Credit Card,Fiber,11,No
+12497,61,Male,65,3493.04,176056.46,Monthly,Debit Card,None,6,Yes
+12498,62,Male,35,3608.84,71698.18,Quarterly,UPI,None,13,Yes
+12499,59,Male,64,4041.36,22743.05,Yearly,UPI,DSL,12,Yes
+12500,64,Male,62,1023.57,189838.24,Yearly,Net Banking,Fiber,4,Yes
+12501,30,Female,34,2120.73,98199.72,Monthly,Net Banking,Fiber,12,Yes
+12502,39,Male,30,4856.94,101053.96,Yearly,Debit Card,None,2,No
+12503,38,Male,27,4653.19,124618.83,Monthly,UPI,Fiber,9,No
+12504,39,Female,0,4478.34,1703.79,Quarterly,Debit Card,None,7,No
+12505,45,Male,24,2534.4,186295.1,Monthly,Debit Card,DSL,1,Yes
+12506,26,Male,42,4357.37,72928.77,Monthly,UPI,None,0,No
+12507,43,Male,66,717.78,79989.44,Monthly,Debit Card,DSL,4,No
+12508,26,Male,62,1168.33,35647.74,Yearly,Debit Card,None,10,Yes
+12509,32,Female,50,2362.85,76252.17,Monthly,Net Banking,DSL,3,No
+12510,27,Male,1,2675.26,160984.76,Monthly,Net Banking,DSL,10,Yes
+12511,41,Female,63,1685.78,160198.34,Yearly,Debit Card,Fiber,9,No
+12512,59,Female,68,2104.15,187223.57,Yearly,UPI,None,14,No
+12513,25,Male,8,1232.49,81242.67,Monthly,Net Banking,Fiber,6,No
+12514,41,Male,1,2701.1,142035.58,Quarterly,Debit Card,Fiber,14,No
+12515,33,Male,33,4072.29,101940.27,Monthly,Credit Card,None,12,No
+12516,66,Male,59,3476.12,161000.54,Monthly,Credit Card,Fiber,8,No
+12517,43,Female,60,985.07,142795.86,Monthly,Debit Card,Fiber,5,No
+12518,44,Female,30,2694.12,74212.68,Monthly,Credit Card,Fiber,10,No
+12519,54,Female,9,3639.41,67998.09,Monthly,Net Banking,None,0,No
+12520,21,Male,35,2884.53,51236.05,Monthly,UPI,Fiber,14,No
+12521,67,Female,48,2262.54,115726.64,Monthly,Debit Card,Fiber,7,No
+12522,41,Male,69,3298.61,192804.73,Quarterly,Net Banking,Fiber,1,No
+12523,36,Male,48,4858.87,40813.28,Quarterly,UPI,None,3,Yes
+12524,53,Male,2,927.09,19955.24,Monthly,Credit Card,DSL,2,No
+12525,56,Male,4,2255.07,24760.73,Monthly,Credit Card,DSL,5,Yes
+12526,27,Male,60,2329.73,156836.64,Quarterly,Credit Card,DSL,1,No
+12527,42,Female,25,3096.35,70670.86,Quarterly,Credit Card,DSL,4,Yes
+12528,35,Female,71,1184.79,45649.0,Quarterly,Net Banking,Fiber,10,No
+12529,36,Male,4,1294.89,71215.98,Monthly,Net Banking,None,8,Yes
+12530,53,Female,14,1784.13,129420.83,Monthly,UPI,Fiber,14,Yes
+12531,27,Male,15,4801.42,109810.64,Quarterly,Debit Card,None,2,Yes
+12532,50,Male,0,3803.49,148974.29,Monthly,UPI,Fiber,1,No
+12533,67,Male,15,3477.62,68475.76,Yearly,Debit Card,DSL,1,Yes
+12534,22,Female,36,4176.31,90953.69,Quarterly,Credit Card,DSL,14,No
+12535,64,Male,2,1074.09,21291.71,Monthly,Credit Card,None,8,No
+12536,66,Male,51,4367.0,15538.67,Monthly,Credit Card,Fiber,5,No
+12537,52,Female,46,3176.75,92988.79,Quarterly,Credit Card,DSL,1,Yes
+12538,61,Female,12,2008.98,61017.72,Monthly,Net Banking,None,2,No
+12539,51,Female,54,4171.35,122947.31,Monthly,UPI,Fiber,14,No
+12540,50,Male,20,4111.54,9557.43,Quarterly,Debit Card,None,13,Yes
+12541,38,Male,65,4305.69,25231.51,Quarterly,Debit Card,Fiber,0,No
+12542,34,Female,53,1019.83,173172.97,Monthly,Net Banking,Fiber,1,No
+12543,39,Male,26,4862.13,113696.01,Monthly,Credit Card,Fiber,14,No
+12544,65,Female,37,4818.32,142698.85,Yearly,UPI,None,1,Yes
+12545,54,Female,57,2108.61,168552.45,Yearly,Credit Card,None,10,No
+12546,32,Male,61,796.52,93303.03,Quarterly,Net Banking,Fiber,1,No
+12547,52,Male,45,1251.75,152451.02,Yearly,Debit Card,DSL,6,Yes
+12548,45,Female,10,4967.74,105392.53,Monthly,Net Banking,Fiber,2,No
+12549,24,Female,71,3033.56,45327.01,Monthly,Debit Card,None,12,No
+12550,49,Female,7,2104.8,68193.58,Monthly,UPI,Fiber,14,No
+12551,28,Female,70,1796.91,98579.74,Monthly,Debit Card,None,13,No
+12552,27,Male,63,1656.46,64060.22,Monthly,UPI,Fiber,10,No
+12553,26,Female,20,3488.69,67770.01,Monthly,Credit Card,Fiber,3,No
+12554,31,Female,71,2387.25,68141.17,Quarterly,Credit Card,DSL,1,No
+12555,30,Female,62,4844.35,25445.16,Quarterly,Net Banking,DSL,4,No
+12556,42,Male,63,3577.29,17843.88,Quarterly,UPI,None,13,No
+12557,19,Male,19,4064.2,10252.71,Monthly,Credit Card,Fiber,8,No
+12558,52,Female,7,1817.34,23080.3,Monthly,UPI,None,11,No
+12559,24,Male,57,856.34,69397.71,Monthly,Credit Card,Fiber,8,No
+12560,38,Male,45,2695.2,119180.49,Quarterly,Credit Card,Fiber,6,No
+12561,35,Male,30,1915.62,38441.24,Monthly,Debit Card,Fiber,11,No
+12562,20,Female,8,1409.37,177713.76,Monthly,Net Banking,DSL,7,No
+12563,59,Female,14,4786.89,161868.1,Monthly,Debit Card,None,12,Yes
+12564,56,Male,25,2497.95,104584.9,Quarterly,UPI,Fiber,13,No
+12565,58,Female,9,1286.19,145117.76,Yearly,Credit Card,Fiber,4,No
+12566,66,Female,28,1393.93,73899.38,Quarterly,Net Banking,None,4,No
+12567,28,Male,35,1763.19,8318.78,Monthly,Credit Card,None,11,Yes
+12568,56,Male,36,4996.92,180962.24,Monthly,Credit Card,Fiber,2,No
+12569,41,Female,70,1706.05,26430.9,Monthly,Debit Card,DSL,5,No
+12570,63,Male,22,1979.61,189639.53,Monthly,UPI,DSL,0,Yes
+12571,36,Female,40,3466.98,114804.64,Monthly,Net Banking,Fiber,2,No
+12572,21,Female,27,1822.83,61807.05,Monthly,Net Banking,DSL,10,No
+12573,43,Male,47,1471.12,99609.4,Monthly,Net Banking,None,1,No
+12574,55,Female,37,1213.87,100824.33,Monthly,UPI,DSL,6,No
+12575,59,Female,30,1907.07,5634.13,Monthly,Net Banking,None,8,No
+12576,49,Male,13,976.62,71736.51,Quarterly,UPI,None,3,No
+12577,56,Male,28,583.91,148233.29,Yearly,Net Banking,None,6,No
+12578,62,Male,50,4120.89,102503.77,Yearly,Credit Card,None,7,Yes
+12579,63,Female,48,1120.53,49601.79,Monthly,UPI,DSL,9,Yes
+12580,53,Male,42,3991.9,67686.86,Monthly,Debit Card,None,1,No
+12581,57,Male,71,4088.94,172747.82,Yearly,Net Banking,Fiber,6,No
+12582,54,Male,4,2920.64,105584.38,Monthly,Debit Card,None,12,No
+12583,50,Male,41,1893.57,106142.07,Quarterly,UPI,Fiber,11,No
+12584,53,Female,6,1152.65,192332.02,Monthly,Credit Card,None,2,Yes
+12585,20,Female,41,3815.62,64855.4,Yearly,Debit Card,None,7,No
+12586,26,Male,35,3206.24,96428.68,Yearly,Debit Card,DSL,5,Yes
+12587,25,Female,26,3449.54,162531.01,Quarterly,Credit Card,None,2,No
+12588,50,Male,57,539.01,152023.54,Quarterly,Credit Card,None,7,Yes
+12589,23,Male,45,4673.83,53894.08,Monthly,UPI,DSL,10,No
+12590,58,Female,65,798.31,31067.12,Monthly,Net Banking,DSL,12,Yes
+12591,56,Female,24,2150.63,140440.21,Monthly,Debit Card,Fiber,2,No
+12592,21,Male,26,2312.2,52273.58,Monthly,Debit Card,DSL,8,No
+12593,30,Male,0,506.1,184612.49,Monthly,UPI,Fiber,10,Yes
+12594,66,Female,41,2736.9,26720.29,Monthly,Net Banking,None,2,No
+12595,19,Male,51,3887.64,64344.72,Yearly,UPI,Fiber,0,Yes
+12596,22,Female,24,4204.71,11902.66,Monthly,Debit Card,DSL,12,No
+12597,61,Male,53,4457.29,140957.76,Monthly,Debit Card,None,1,No
+12598,44,Male,66,2694.73,178361.27,Monthly,Credit Card,Fiber,3,No
+12599,49,Female,5,3337.86,127539.03,Monthly,Credit Card,Fiber,12,Yes
+12600,38,Female,57,857.84,187612.85,Monthly,Net Banking,Fiber,10,No
+12601,25,Female,69,2696.17,26572.29,Yearly,Debit Card,None,1,No
+12602,55,Female,52,1196.67,18459.05,Monthly,Debit Card,Fiber,3,No
+12603,25,Female,65,2163.39,167844.13,Monthly,Credit Card,Fiber,3,No
+12604,67,Female,57,1981.87,171246.72,Monthly,UPI,DSL,3,Yes
+12605,20,Female,1,2405.93,166376.87,Monthly,UPI,Fiber,0,No
+12606,61,Male,21,3072.36,159994.02,Quarterly,Debit Card,None,8,No
+12607,20,Male,36,4562.94,73083.44,Monthly,Debit Card,DSL,9,No
+12608,39,Male,19,2275.18,44274.95,Monthly,Net Banking,None,10,Yes
+12609,23,Female,23,4915.09,185832.0,Monthly,Net Banking,DSL,6,No
+12610,19,Female,64,3915.63,62093.04,Yearly,Credit Card,DSL,1,No
+12611,40,Female,64,2801.66,80283.13,Monthly,Debit Card,Fiber,2,No
+12612,61,Male,0,3398.12,140212.23,Yearly,UPI,None,12,No
+12613,19,Female,2,960.01,59377.86,Monthly,Net Banking,Fiber,7,No
+12614,55,Female,45,4300.35,164006.91,Monthly,Credit Card,DSL,6,No
+12615,34,Male,54,3120.61,14936.89,Quarterly,Credit Card,Fiber,3,Yes
+12616,52,Female,63,4937.3,158445.35,Monthly,UPI,DSL,3,No
+12617,51,Male,44,3363.93,120768.41,Monthly,Net Banking,DSL,8,Yes
+12618,40,Male,25,4253.5,115025.74,Monthly,UPI,None,14,Yes
+12619,47,Female,64,4098.93,92217.03,Monthly,Credit Card,None,4,No
+12620,69,Female,23,2054.58,56132.07,Quarterly,Debit Card,None,13,No
+12621,25,Female,34,1668.25,93349.99,Monthly,UPI,None,12,No
+12622,39,Male,23,2437.22,90555.67,Quarterly,Credit Card,Fiber,10,Yes
+12623,61,Male,27,2602.59,117167.08,Monthly,Debit Card,None,4,No
+12624,53,Male,15,1580.38,57033.28,Monthly,Debit Card,None,14,Yes
+12625,22,Female,58,4525.69,16441.52,Quarterly,Net Banking,None,6,No
+12626,30,Female,53,2941.47,29872.8,Monthly,Net Banking,DSL,0,No
+12627,46,Female,15,4903.0,140136.31,Monthly,Credit Card,DSL,2,No
+12628,48,Female,14,4145.08,5475.97,Monthly,UPI,None,1,No
+12629,64,Male,10,3000.67,171432.17,Monthly,Debit Card,DSL,10,No
+12630,33,Male,64,4761.68,139185.07,Yearly,Net Banking,DSL,9,No
+12631,59,Male,67,2771.94,153849.22,Monthly,Net Banking,Fiber,5,Yes
+12632,47,Male,42,4491.98,167360.91,Monthly,UPI,DSL,10,No
+12633,33,Female,68,2111.65,25419.38,Quarterly,Net Banking,Fiber,11,No
+12634,29,Female,12,2203.89,164667.77,Monthly,Credit Card,DSL,5,No
+12635,34,Female,9,2381.59,101423.85,Monthly,UPI,None,9,No
+12636,33,Male,40,2959.82,177219.24,Monthly,Debit Card,DSL,0,No
+12637,29,Male,49,2990.71,177430.73,Yearly,Credit Card,DSL,13,No
+12638,25,Female,70,2733.8,5811.43,Yearly,Debit Card,Fiber,13,Yes
+12639,37,Female,58,1877.0,77190.18,Quarterly,Debit Card,None,5,No
+12640,20,Male,38,4672.43,105753.36,Monthly,Net Banking,Fiber,9,No
+12641,33,Female,2,3148.64,135993.66,Quarterly,Credit Card,None,1,No
+12642,47,Male,6,2334.83,57951.06,Monthly,Credit Card,None,10,Yes
+12643,62,Male,48,3430.3,51176.31,Monthly,UPI,Fiber,3,Yes
+12644,40,Male,25,3955.85,76871.88,Yearly,Credit Card,DSL,5,No
+12645,45,Female,32,4823.28,100686.8,Monthly,UPI,None,2,No
+12646,68,Female,47,2747.97,190278.1,Monthly,Credit Card,DSL,2,No
+12647,57,Male,1,1004.44,152659.58,Yearly,Debit Card,Fiber,11,No
+12648,22,Female,70,2483.45,86434.91,Quarterly,UPI,Fiber,2,No
+12649,37,Male,31,2655.37,11818.87,Monthly,Credit Card,Fiber,3,No
+12650,57,Male,3,4536.47,34535.6,Monthly,UPI,Fiber,8,Yes
+12651,61,Male,19,2276.6,91728.96,Monthly,Net Banking,None,3,No
+12652,18,Male,35,4789.96,162951.35,Monthly,Net Banking,Fiber,12,No
+12653,47,Female,31,2683.09,76758.41,Monthly,UPI,DSL,3,No
+12654,38,Male,27,4882.01,108160.83,Monthly,UPI,DSL,3,No
+12655,37,Male,0,536.89,178469.17,Yearly,Debit Card,None,6,No
+12656,23,Female,59,4544.67,182845.46,Monthly,Credit Card,Fiber,4,No
+12657,39,Male,55,4690.04,43939.22,Monthly,Net Banking,None,11,No
+12658,35,Male,34,4824.59,9675.39,Monthly,Net Banking,None,1,No
+12659,25,Female,29,558.84,61776.7,Monthly,Credit Card,None,6,No
+12660,56,Female,53,1272.65,139464.66,Monthly,Net Banking,Fiber,2,Yes
+12661,49,Female,35,3441.94,190271.33,Yearly,Net Banking,DSL,10,Yes
+12662,50,Male,54,614.63,16329.37,Yearly,UPI,DSL,0,No
+12663,33,Female,57,786.24,6668.28,Monthly,Net Banking,None,8,No
+12664,29,Female,64,1494.85,176945.3,Yearly,Net Banking,None,4,Yes
+12665,55,Male,68,2805.98,149880.91,Monthly,Net Banking,DSL,9,Yes
+12666,69,Male,50,2956.56,198457.47,Quarterly,Credit Card,DSL,0,No
+12667,51,Male,21,654.18,79961.78,Monthly,Debit Card,Fiber,10,No
+12668,31,Male,52,1266.65,83794.13,Yearly,UPI,None,0,No
+12669,53,Male,35,2748.68,35290.06,Monthly,Debit Card,Fiber,0,Yes
+12670,50,Female,67,3172.73,24053.58,Monthly,Net Banking,DSL,11,Yes
+12671,40,Female,35,1167.81,116164.88,Quarterly,Net Banking,DSL,8,No
+12672,67,Female,51,2294.79,73492.72,Monthly,Net Banking,DSL,12,No
+12673,62,Male,52,4569.81,16982.97,Monthly,Debit Card,DSL,7,No
+12674,19,Male,49,4995.05,177510.43,Monthly,Credit Card,Fiber,10,No
+12675,58,Male,40,4942.47,40472.94,Quarterly,Credit Card,DSL,12,No
+12676,38,Female,17,4467.54,149968.29,Monthly,UPI,None,14,No
+12677,19,Female,21,2275.97,57163.49,Monthly,Debit Card,DSL,12,Yes
+12678,44,Male,65,3589.58,162768.06,Yearly,Credit Card,None,5,No
+12679,26,Female,20,2374.67,24560.97,Monthly,UPI,DSL,9,Yes
+12680,18,Male,43,3418.37,151458.25,Monthly,Net Banking,Fiber,14,No
+12681,28,Female,46,1892.45,20525.66,Quarterly,Net Banking,None,14,Yes
+12682,20,Female,38,3227.91,89936.24,Quarterly,UPI,Fiber,5,Yes
+12683,69,Female,28,2856.91,147066.87,Yearly,Credit Card,DSL,5,No
+12684,40,Male,53,610.16,35470.46,Monthly,Debit Card,Fiber,3,No
+12685,43,Female,16,4058.16,57847.33,Monthly,UPI,DSL,4,No
+12686,21,Female,59,553.54,173088.63,Quarterly,Credit Card,Fiber,9,No
+12687,35,Male,30,1819.2,177138.74,Quarterly,UPI,Fiber,2,No
+12688,23,Female,48,526.66,9942.16,Quarterly,Credit Card,None,2,Yes
+12689,52,Male,1,2192.91,34450.03,Monthly,Net Banking,DSL,9,No
+12690,39,Male,47,784.22,24376.92,Monthly,UPI,Fiber,6,No
+12691,60,Male,13,4610.8,36758.93,Monthly,Debit Card,DSL,4,Yes
+12692,32,Male,58,2370.56,194067.36,Yearly,UPI,None,7,No
+12693,39,Male,57,2567.73,110779.39,Monthly,Net Banking,Fiber,4,No
+12694,54,Female,57,2074.33,94154.37,Monthly,Net Banking,DSL,11,No
+12695,69,Male,50,3323.78,196909.01,Monthly,Credit Card,Fiber,3,No
+12696,59,Male,1,4029.84,111834.27,Monthly,Net Banking,Fiber,13,No
+12697,29,Male,40,3416.66,132562.47,Monthly,Credit Card,Fiber,2,Yes
+12698,64,Male,15,3866.93,67221.34,Quarterly,Net Banking,Fiber,11,No
+12699,66,Female,3,4576.88,77040.86,Monthly,Credit Card,None,1,No
+12700,59,Male,11,4385.96,119287.47,Monthly,Debit Card,None,2,Yes
+12701,55,Female,28,3533.26,14887.37,Monthly,Credit Card,DSL,6,No
+12702,35,Male,6,1465.87,51920.69,Quarterly,Credit Card,DSL,7,No
+12703,62,Female,13,3369.66,40165.54,Yearly,Debit Card,Fiber,14,Yes
+12704,52,Male,11,2777.37,4162.79,Quarterly,Credit Card,Fiber,4,Yes
+12705,47,Male,4,3727.49,107843.35,Quarterly,Credit Card,Fiber,10,No
+12706,41,Female,31,4248.19,112649.52,Monthly,Debit Card,None,0,Yes
+12707,59,Male,42,3842.25,77403.91,Quarterly,Net Banking,Fiber,2,No
+12708,47,Female,68,4309.53,54476.77,Yearly,UPI,DSL,3,Yes
+12709,31,Male,44,787.4,130759.92,Monthly,Credit Card,Fiber,9,Yes
+12710,23,Female,8,642.29,27797.17,Monthly,Net Banking,None,12,Yes
+12711,20,Male,48,1663.25,104204.39,Yearly,UPI,Fiber,12,No
+12712,33,Male,32,4553.0,153846.72,Quarterly,Debit Card,None,11,Yes
+12713,24,Female,17,4206.47,33695.3,Monthly,Credit Card,None,3,Yes
+12714,69,Male,8,3572.27,150898.65,Yearly,Credit Card,None,11,No
+12715,31,Male,61,3653.41,152398.11,Monthly,Debit Card,None,0,No
+12716,26,Male,56,3770.02,12925.4,Monthly,Credit Card,DSL,9,Yes
+12717,32,Male,28,4741.71,4738.08,Quarterly,UPI,None,8,No
+12718,38,Male,24,4244.86,194813.15,Monthly,UPI,DSL,11,Yes
+12719,52,Male,14,3305.26,39483.15,Quarterly,Debit Card,DSL,9,No
+12720,19,Female,5,3495.72,164605.7,Monthly,Credit Card,Fiber,14,No
+12721,44,Female,41,1461.83,112808.28,Monthly,Net Banking,Fiber,14,Yes
+12722,19,Female,28,3457.93,53629.96,Monthly,Credit Card,None,3,Yes
+12723,52,Male,3,2411.06,26864.12,Monthly,Debit Card,Fiber,1,No
+12724,35,Female,56,1188.33,99838.78,Monthly,Net Banking,None,12,No
+12725,31,Male,48,4128.81,82063.61,Yearly,UPI,Fiber,8,Yes
+12726,37,Male,43,2796.11,140078.33,Monthly,UPI,None,13,Yes
+12727,35,Male,13,4898.41,180929.54,Monthly,Net Banking,Fiber,3,No
+12728,27,Male,2,1767.56,161244.37,Monthly,Net Banking,Fiber,3,No
+12729,42,Female,61,2663.02,55615.96,Quarterly,Debit Card,DSL,10,Yes
+12730,19,Male,63,2515.98,175907.71,Monthly,Credit Card,Fiber,5,No
+12731,42,Female,44,1043.51,166844.87,Monthly,UPI,Fiber,7,Yes
+12732,50,Male,57,2417.52,185898.11,Monthly,Credit Card,None,4,Yes
+12733,53,Female,19,1793.99,92273.5,Monthly,UPI,DSL,11,No
+12734,48,Female,57,1221.44,153946.46,Monthly,Credit Card,None,7,Yes
+12735,31,Female,56,1769.7,118739.96,Quarterly,UPI,Fiber,0,No
+12736,18,Female,67,1549.63,62790.05,Yearly,Credit Card,None,12,No
+12737,63,Female,51,3803.33,198891.77,Monthly,Debit Card,DSL,3,No
+12738,33,Female,36,638.49,8623.19,Yearly,UPI,None,0,No
+12739,63,Male,7,3278.58,33292.24,Yearly,Debit Card,Fiber,2,No
+12740,69,Female,43,3922.98,178615.93,Yearly,UPI,None,10,No
+12741,20,Male,4,2663.26,13052.01,Yearly,UPI,Fiber,6,No
+12742,52,Female,68,4692.04,177477.31,Quarterly,UPI,DSL,0,No
+12743,58,Male,30,3685.46,143329.07,Monthly,Credit Card,DSL,4,No
+12744,23,Female,44,3865.66,8300.12,Monthly,UPI,None,0,Yes
+12745,42,Female,8,1386.2,86434.69,Monthly,Debit Card,DSL,5,No
+12746,30,Male,31,3997.83,151139.82,Yearly,Credit Card,None,8,No
+12747,51,Female,32,4244.43,117036.96,Monthly,Credit Card,Fiber,2,Yes
+12748,25,Female,66,2125.7,187238.39,Monthly,UPI,None,10,No
+12749,38,Female,29,1460.13,173661.16,Monthly,Net Banking,Fiber,10,No
+12750,51,Male,28,2232.73,67196.88,Quarterly,Credit Card,DSL,13,No
+12751,21,Female,2,3828.24,17840.81,Quarterly,UPI,Fiber,11,No
+12752,42,Male,56,2379.38,188907.15,Monthly,Debit Card,Fiber,14,Yes
+12753,32,Female,29,3814.93,103940.07,Monthly,Net Banking,Fiber,5,Yes
+12754,21,Female,8,1011.04,15805.13,Quarterly,Credit Card,Fiber,3,No
+12755,62,Male,25,4127.05,163498.55,Monthly,Net Banking,Fiber,5,No
+12756,29,Female,1,1639.43,173832.79,Monthly,Credit Card,None,1,No
+12757,49,Female,61,1620.18,128245.5,Monthly,Net Banking,Fiber,3,Yes
+12758,49,Male,2,3156.71,90054.28,Yearly,Net Banking,Fiber,12,No
+12759,45,Female,45,815.53,132772.43,Monthly,Debit Card,Fiber,12,Yes
+12760,30,Male,67,618.34,141630.06,Monthly,Net Banking,Fiber,6,No
+12761,48,Male,24,1674.63,178712.96,Quarterly,Debit Card,Fiber,10,No
+12762,31,Male,50,2921.3,191216.47,Monthly,UPI,Fiber,5,Yes
+12763,37,Female,12,4584.27,103349.87,Monthly,Credit Card,DSL,8,No
+12764,35,Male,43,4308.96,159900.41,Monthly,Debit Card,None,10,No
+12765,46,Male,34,2707.01,192937.4,Yearly,Credit Card,Fiber,6,No
+12766,23,Female,54,666.73,31097.42,Monthly,Debit Card,None,0,No
+12767,49,Male,8,2908.64,4635.33,Quarterly,Credit Card,DSL,5,Yes
+12768,46,Female,1,3671.58,173923.79,Yearly,Debit Card,DSL,10,Yes
+12769,60,Female,60,2026.24,39859.39,Quarterly,Credit Card,Fiber,2,No
+12770,19,Female,40,999.78,9453.27,Quarterly,UPI,None,7,No
+12771,40,Female,43,1753.56,32859.13,Quarterly,Credit Card,Fiber,12,No
+12772,36,Male,63,3972.15,77438.87,Yearly,UPI,DSL,0,No
+12773,48,Male,30,2080.6,44633.87,Yearly,UPI,DSL,9,Yes
+12774,68,Male,46,4153.92,61745.47,Yearly,UPI,None,1,Yes
+12775,22,Male,1,1937.85,195083.52,Quarterly,Net Banking,Fiber,2,No
+12776,36,Male,68,1236.0,141176.7,Monthly,Credit Card,None,13,No
+12777,51,Female,57,2461.32,142726.15,Monthly,Net Banking,None,2,No
+12778,27,Male,43,2535.24,19842.39,Monthly,Net Banking,DSL,6,No
+12779,42,Male,55,572.49,146687.58,Yearly,Credit Card,None,12,No
+12780,19,Male,42,1026.7,148129.52,Yearly,UPI,DSL,7,No
+12781,28,Female,33,1332.17,132289.26,Monthly,Net Banking,Fiber,14,No
+12782,67,Female,29,1011.14,46458.82,Monthly,Net Banking,None,8,Yes
+12783,48,Male,70,2036.87,85184.2,Monthly,Debit Card,None,6,No
+12784,32,Female,69,4840.8,169409.01,Monthly,Credit Card,Fiber,7,No
+12785,26,Male,54,2791.5,134370.12,Quarterly,Net Banking,None,10,No
+12786,40,Male,66,3324.0,146821.0,Monthly,Credit Card,Fiber,14,Yes
+12787,36,Female,12,2103.74,117887.51,Monthly,Credit Card,DSL,5,Yes
+12788,26,Female,2,1955.69,90467.73,Monthly,Net Banking,DSL,1,Yes
+12789,52,Male,25,604.16,152051.35,Monthly,Credit Card,None,0,Yes
+12790,38,Male,56,2751.5,14517.24,Yearly,UPI,DSL,2,No
+12791,26,Female,23,2676.24,134958.99,Monthly,Net Banking,DSL,8,No
+12792,45,Male,52,1210.24,199443.7,Yearly,Net Banking,Fiber,12,No
+12793,63,Female,69,3939.46,156258.19,Monthly,Net Banking,DSL,6,Yes
+12794,68,Male,42,2717.03,58822.14,Monthly,Debit Card,DSL,1,Yes
+12795,24,Female,59,2025.47,56286.08,Quarterly,Debit Card,DSL,13,No
+12796,33,Male,57,1161.09,133776.5,Quarterly,Debit Card,Fiber,0,No
+12797,33,Male,48,2984.72,179275.0,Monthly,Debit Card,None,1,Yes
+12798,50,Female,41,3887.68,116012.0,Monthly,Net Banking,Fiber,14,No
+12799,21,Male,65,1769.0,105953.06,Monthly,UPI,None,2,Yes
+12800,21,Male,10,1484.57,32916.44,Quarterly,Credit Card,None,13,No
+12801,56,Female,17,2848.71,143375.93,Monthly,Credit Card,DSL,5,No
+12802,57,Male,51,1199.04,140757.43,Monthly,Net Banking,DSL,11,No
+12803,34,Male,45,3499.76,193423.33,Quarterly,UPI,Fiber,8,No
+12804,54,Male,43,3224.05,60738.24,Monthly,Credit Card,Fiber,7,No
+12805,56,Female,21,891.87,151532.65,Monthly,UPI,Fiber,9,No
+12806,69,Female,52,664.34,87378.99,Monthly,Net Banking,DSL,8,No
+12807,46,Female,58,3291.3,112136.09,Yearly,Debit Card,None,10,No
+12808,69,Male,29,1824.32,163474.32,Monthly,UPI,Fiber,10,Yes
+12809,53,Male,7,889.01,45177.01,Yearly,Credit Card,None,7,No
+12810,55,Male,56,3917.43,69230.88,Monthly,Credit Card,DSL,6,Yes
+12811,56,Male,19,1913.2,154888.43,Quarterly,Credit Card,DSL,5,No
+12812,67,Female,24,2568.2,114521.13,Monthly,Debit Card,DSL,7,No
+12813,54,Male,18,1565.66,19392.16,Monthly,UPI,DSL,5,No
+12814,69,Male,4,3322.93,86606.99,Quarterly,UPI,None,1,No
+12815,52,Male,71,1856.7,117740.03,Quarterly,Credit Card,None,12,Yes
+12816,24,Female,26,4856.09,181993.95,Quarterly,UPI,Fiber,8,Yes
+12817,44,Male,39,3663.26,38509.12,Quarterly,Credit Card,None,8,No
+12818,45,Male,25,1115.25,161384.64,Monthly,UPI,None,2,No
+12819,39,Male,26,2375.13,26994.27,Monthly,Debit Card,None,8,No
+12820,31,Male,61,2234.39,49204.9,Monthly,Debit Card,Fiber,1,Yes
+12821,24,Male,49,2904.11,49425.43,Yearly,Net Banking,None,11,No
+12822,54,Female,41,4288.69,175618.36,Monthly,Net Banking,None,13,Yes
+12823,39,Male,28,3125.4,40604.52,Yearly,Net Banking,None,2,Yes
+12824,22,Male,38,777.01,157605.18,Monthly,UPI,DSL,13,No
+12825,19,Male,59,3449.37,92899.5,Quarterly,Debit Card,None,5,No
+12826,44,Male,40,537.19,199819.06,Monthly,Debit Card,Fiber,13,Yes
+12827,38,Male,32,4009.82,167979.21,Monthly,Debit Card,Fiber,3,No
+12828,55,Male,15,3499.86,148200.92,Quarterly,Credit Card,Fiber,7,Yes
+12829,32,Male,22,1889.54,174274.54,Monthly,UPI,Fiber,0,Yes
+12830,38,Male,6,1815.99,127172.05,Yearly,UPI,DSL,12,No
+12831,27,Male,25,4092.23,168886.8,Quarterly,Net Banking,Fiber,5,No
+12832,40,Male,11,4025.02,52964.24,Monthly,Credit Card,DSL,1,No
+12833,56,Female,71,2085.36,20442.94,Yearly,Credit Card,DSL,5,Yes
+12834,22,Female,4,1845.26,123570.47,Quarterly,Debit Card,DSL,13,Yes
+12835,18,Female,68,3019.21,87503.39,Quarterly,Net Banking,Fiber,0,No
+12836,30,Female,48,537.65,85861.72,Monthly,UPI,Fiber,14,No
+12837,38,Male,25,872.0,105822.82,Monthly,Credit Card,DSL,1,Yes
+12838,43,Female,4,1067.76,72915.14,Quarterly,Debit Card,DSL,8,No
+12839,67,Female,21,1334.35,125585.85,Yearly,UPI,Fiber,5,Yes
+12840,62,Male,12,2804.08,7083.11,Monthly,Debit Card,None,7,No
+12841,38,Female,27,4965.09,194008.38,Monthly,UPI,None,6,Yes
+12842,35,Female,32,3436.76,185017.09,Monthly,Debit Card,None,8,No
+12843,54,Male,22,775.84,187118.76,Monthly,UPI,Fiber,8,Yes
+12844,62,Male,17,2865.11,73635.7,Quarterly,Net Banking,Fiber,10,No
+12845,49,Male,29,2734.9,106846.3,Quarterly,UPI,DSL,3,No
+12846,53,Female,25,1148.76,190871.99,Monthly,UPI,Fiber,6,No
+12847,34,Female,15,4641.23,180566.87,Yearly,UPI,Fiber,4,No
+12848,52,Male,38,2483.44,158258.65,Monthly,Debit Card,Fiber,6,No
+12849,66,Male,32,4975.52,82058.99,Quarterly,Credit Card,DSL,3,Yes
+12850,28,Female,25,2390.33,113303.51,Monthly,UPI,DSL,11,No
+12851,38,Male,47,3235.81,158789.58,Monthly,UPI,None,9,No
+12852,69,Female,64,971.43,55329.39,Yearly,Net Banking,None,10,No
+12853,43,Male,37,2544.03,125663.42,Monthly,UPI,Fiber,10,Yes
+12854,21,Male,1,1574.45,165758.93,Monthly,Net Banking,Fiber,0,No
+12855,51,Female,5,4260.04,141783.5,Monthly,UPI,DSL,3,No
+12856,69,Male,45,4027.64,96416.65,Monthly,Debit Card,None,14,Yes
+12857,65,Male,49,4208.81,117337.06,Monthly,Credit Card,None,12,No
+12858,35,Male,37,3756.24,197746.43,Monthly,Credit Card,None,9,No
+12859,57,Female,17,4247.07,120795.57,Yearly,Credit Card,Fiber,14,Yes
+12860,52,Male,26,1403.73,157337.93,Quarterly,Debit Card,Fiber,2,No
+12861,58,Male,40,2534.2,145594.35,Monthly,Net Banking,Fiber,8,No
+12862,46,Male,71,3613.31,140596.63,Quarterly,Credit Card,DSL,4,Yes
+12863,69,Male,16,3368.27,143557.44,Monthly,Debit Card,None,3,No
+12864,46,Male,61,3723.6,91427.54,Monthly,Debit Card,DSL,7,No
+12865,55,Male,28,1509.16,95357.87,Monthly,UPI,None,14,Yes
+12866,59,Female,57,942.96,94104.68,Monthly,Net Banking,Fiber,4,Yes
+12867,38,Female,69,4625.63,7617.67,Yearly,Debit Card,DSL,2,No
+12868,59,Male,21,3020.77,48972.0,Monthly,Net Banking,DSL,1,No
+12869,30,Female,5,1192.22,31758.24,Quarterly,Credit Card,Fiber,14,Yes
+12870,66,Female,25,4070.46,177402.56,Monthly,Credit Card,None,7,Yes
+12871,58,Male,38,4617.18,55718.9,Monthly,Credit Card,None,11,No
+12872,34,Female,11,1263.04,28550.08,Quarterly,UPI,None,1,No
+12873,26,Female,13,4178.36,24833.62,Monthly,UPI,None,13,No
+12874,58,Female,21,4699.51,140297.98,Monthly,Net Banking,Fiber,7,No
+12875,18,Female,50,4722.63,2210.58,Monthly,Net Banking,Fiber,4,No
+12876,19,Female,22,4613.7,94789.58,Monthly,UPI,Fiber,7,No
+12877,65,Female,47,2958.89,24655.35,Yearly,Debit Card,Fiber,4,No
+12878,46,Female,70,2102.95,170083.01,Monthly,Net Banking,DSL,0,Yes
+12879,50,Female,49,532.73,191731.62,Monthly,Net Banking,DSL,11,No
+12880,27,Male,12,774.11,191792.17,Yearly,Credit Card,DSL,12,No
+12881,67,Male,9,2429.78,88950.86,Monthly,Net Banking,Fiber,10,Yes
+12882,57,Female,54,2296.97,129258.45,Monthly,Net Banking,None,13,No
+12883,38,Female,8,1331.21,120341.12,Monthly,Debit Card,DSL,10,No
+12884,45,Male,51,2279.66,70657.74,Monthly,Net Banking,DSL,1,No
+12885,28,Female,1,1285.93,89368.83,Monthly,Debit Card,Fiber,13,No
+12886,51,Female,24,4319.56,13800.42,Monthly,Credit Card,None,5,No
+12887,25,Male,12,1841.88,159344.11,Yearly,UPI,None,2,Yes
+12888,39,Male,50,3193.54,48919.9,Monthly,Credit Card,None,7,No
+12889,25,Male,57,2762.79,92644.94,Monthly,Debit Card,Fiber,4,Yes
+12890,66,Female,33,733.47,96643.53,Monthly,Debit Card,None,2,Yes
+12891,32,Female,34,4740.05,112581.64,Monthly,Net Banking,DSL,11,Yes
+12892,34,Male,2,2872.52,163757.45,Yearly,Net Banking,DSL,9,No
+12893,40,Male,58,1962.76,138684.33,Monthly,UPI,DSL,6,Yes
+12894,41,Female,69,1211.57,132949.55,Monthly,Debit Card,Fiber,13,No
+12895,62,Male,47,2023.37,105822.35,Monthly,Debit Card,None,7,Yes
+12896,36,Female,63,592.3,20095.2,Monthly,Credit Card,Fiber,3,No
+12897,22,Female,18,2136.01,80999.69,Quarterly,UPI,None,12,No
+12898,49,Male,66,2891.69,191506.05,Monthly,Credit Card,Fiber,12,No
+12899,61,Male,4,4423.4,199114.07,Monthly,Net Banking,DSL,10,No
+12900,18,Female,66,3593.18,146369.13,Monthly,Net Banking,Fiber,8,No
+12901,40,Male,10,1002.12,46275.48,Monthly,Credit Card,Fiber,5,No
+12902,54,Male,67,1164.86,21276.24,Monthly,Net Banking,Fiber,13,No
+12903,25,Male,68,2426.56,83538.11,Monthly,Credit Card,DSL,0,No
+12904,30,Male,0,1380.68,171457.81,Yearly,Debit Card,Fiber,4,Yes
+12905,25,Female,62,625.32,144650.98,Monthly,Debit Card,Fiber,4,No
+12906,40,Female,28,4122.57,176894.56,Yearly,Net Banking,DSL,6,No
+12907,60,Female,11,587.85,123539.49,Monthly,UPI,None,6,No
+12908,18,Female,40,4238.1,26935.34,Quarterly,Debit Card,Fiber,5,No
+12909,62,Male,1,1148.47,23844.4,Monthly,Net Banking,DSL,14,No
+12910,68,Male,36,4886.05,10552.46,Quarterly,UPI,Fiber,14,No
+12911,41,Female,44,3217.43,113848.91,Monthly,Net Banking,DSL,7,Yes
+12912,52,Female,47,3807.42,49334.36,Monthly,Credit Card,None,1,No
+12913,41,Male,23,997.18,147142.34,Quarterly,Net Banking,None,13,No
+12914,34,Female,21,4379.47,137563.74,Monthly,Credit Card,Fiber,12,Yes
+12915,22,Female,10,4276.37,64304.04,Monthly,Debit Card,DSL,12,Yes
+12916,37,Male,57,3438.47,36183.53,Monthly,Debit Card,None,6,No
+12917,38,Female,45,2760.24,21377.67,Monthly,Net Banking,None,9,No
+12918,57,Male,28,3746.7,147725.74,Monthly,UPI,DSL,14,No
+12919,48,Male,34,526.68,90637.76,Monthly,Net Banking,Fiber,6,No
+12920,63,Female,14,3165.98,65382.45,Monthly,Net Banking,None,3,No
+12921,53,Male,59,4313.33,171473.95,Monthly,Debit Card,None,11,Yes
+12922,28,Female,41,2106.05,119129.03,Monthly,Debit Card,None,9,Yes
+12923,69,Male,42,987.3,104082.46,Monthly,Net Banking,Fiber,1,No
+12924,32,Female,48,2393.95,148932.45,Monthly,Debit Card,None,3,Yes
+12925,36,Female,63,3771.97,163301.04,Yearly,Credit Card,DSL,3,No
+12926,24,Female,31,982.86,137528.56,Monthly,Net Banking,Fiber,11,No
+12927,68,Male,63,1427.22,88561.26,Yearly,Debit Card,None,11,No
+12928,45,Male,1,1163.98,76480.46,Quarterly,Net Banking,DSL,5,No
+12929,68,Female,23,4086.26,154561.32,Yearly,Debit Card,DSL,13,No
+12930,60,Male,65,783.02,104063.52,Quarterly,Credit Card,Fiber,6,No
+12931,22,Female,37,3589.64,141172.83,Quarterly,Credit Card,DSL,2,Yes
+12932,22,Female,30,2149.06,178189.36,Monthly,Net Banking,Fiber,14,No
+12933,47,Male,25,3901.06,183262.24,Monthly,Credit Card,Fiber,9,No
+12934,49,Female,28,4839.73,56265.41,Monthly,Credit Card,Fiber,0,Yes
+12935,25,Male,66,1015.45,38390.1,Yearly,Debit Card,DSL,2,No
+12936,27,Female,24,1914.73,52996.18,Yearly,Net Banking,Fiber,8,No
+12937,55,Male,47,4145.56,150522.98,Quarterly,Debit Card,Fiber,0,Yes
+12938,64,Female,64,1697.71,74641.55,Yearly,Debit Card,DSL,12,No
+12939,49,Female,52,1468.04,35504.47,Yearly,UPI,Fiber,7,Yes
+12940,65,Male,66,4214.2,20578.71,Monthly,Credit Card,None,1,No
+12941,45,Female,17,4941.87,66135.32,Quarterly,Debit Card,DSL,5,No
+12942,34,Female,8,3005.96,28091.15,Monthly,Debit Card,DSL,2,Yes
+12943,48,Male,37,1751.22,32118.35,Monthly,Debit Card,DSL,6,Yes
+12944,25,Female,20,2293.55,137092.91,Monthly,Credit Card,None,1,No
+12945,57,Male,64,1265.59,4926.69,Monthly,Credit Card,Fiber,3,No
+12946,42,Female,20,3928.49,24393.1,Quarterly,Credit Card,DSL,9,No
+12947,26,Male,26,3980.63,169028.73,Monthly,Net Banking,DSL,8,No
+12948,19,Female,69,4438.04,169137.9,Yearly,Debit Card,DSL,5,No
+12949,32,Female,43,619.71,66519.45,Monthly,Credit Card,None,3,Yes
+12950,67,Female,27,3028.92,18502.65,Monthly,Debit Card,None,1,No
+12951,20,Male,44,1464.15,141289.1,Quarterly,Net Banking,None,9,No
+12952,66,Male,16,2033.97,72666.21,Quarterly,UPI,Fiber,13,No
+12953,53,Male,39,4032.3,10047.46,Monthly,Net Banking,Fiber,8,Yes
+12954,21,Male,2,1364.15,32407.57,Monthly,Credit Card,None,14,No
+12955,31,Female,65,3372.54,28305.75,Monthly,Credit Card,Fiber,3,No
+12956,58,Female,45,3445.55,118234.15,Yearly,Net Banking,None,8,Yes
+12957,58,Male,29,4793.42,179725.4,Quarterly,Debit Card,Fiber,13,No
+12958,42,Male,68,3988.22,158821.33,Monthly,Credit Card,Fiber,1,No
+12959,67,Male,8,4116.36,109756.69,Monthly,Credit Card,None,6,Yes
+12960,27,Female,10,2892.2,85008.88,Yearly,Net Banking,DSL,10,No
+12961,38,Male,68,1340.51,124116.67,Quarterly,Debit Card,DSL,10,No
+12962,53,Male,65,2415.04,89318.74,Quarterly,Net Banking,Fiber,4,Yes
+12963,29,Female,30,2972.7,49973.73,Monthly,Net Banking,Fiber,7,No
+12964,44,Female,32,3552.89,136160.29,Yearly,Debit Card,Fiber,10,Yes
+12965,57,Male,38,3234.69,174775.55,Quarterly,Debit Card,Fiber,13,Yes
+12966,19,Female,45,2272.9,75201.2,Quarterly,UPI,Fiber,7,Yes
+12967,30,Male,36,1693.91,168466.16,Monthly,Net Banking,Fiber,13,No
+12968,49,Female,59,1257.04,86785.33,Yearly,Debit Card,None,13,No
+12969,48,Male,30,3622.3,80865.85,Quarterly,Credit Card,DSL,3,No
+12970,33,Male,10,3404.29,6636.55,Yearly,UPI,DSL,12,Yes
+12971,49,Male,1,3593.18,139360.5,Monthly,Net Banking,None,3,No
+12972,49,Male,26,2176.37,161693.0,Monthly,Debit Card,None,14,No
+12973,51,Female,1,1680.84,133047.83,Monthly,UPI,DSL,7,No
+12974,28,Female,20,3918.75,31120.83,Monthly,UPI,DSL,2,Yes
+12975,27,Female,57,3981.41,21555.4,Monthly,Credit Card,Fiber,6,Yes
+12976,32,Female,4,2550.27,114998.89,Monthly,UPI,DSL,7,No
+12977,34,Male,51,3253.57,80901.73,Monthly,Net Banking,Fiber,7,Yes
+12978,57,Male,44,2180.84,86390.46,Quarterly,Debit Card,Fiber,10,Yes
+12979,35,Female,19,3658.76,193592.25,Monthly,UPI,DSL,9,No
+12980,26,Female,60,4260.75,145060.61,Monthly,UPI,Fiber,3,No
+12981,42,Female,37,3597.05,82945.76,Yearly,Net Banking,Fiber,8,No
+12982,57,Female,19,2806.62,4800.76,Monthly,Credit Card,None,14,Yes
+12983,31,Female,24,2563.96,7785.04,Monthly,Credit Card,DSL,9,No
+12984,42,Male,1,3390.44,137275.94,Monthly,Debit Card,None,3,No
+12985,67,Male,31,3559.15,167710.01,Monthly,Net Banking,Fiber,7,No
+12986,39,Male,25,3014.28,141832.82,Monthly,Credit Card,Fiber,5,Yes
+12987,69,Female,69,3312.24,81771.66,Monthly,Debit Card,None,4,No
+12988,47,Female,40,934.65,7196.01,Yearly,Debit Card,None,14,No
+12989,37,Female,66,4782.94,193512.92,Monthly,Credit Card,None,3,No
+12990,38,Female,0,4058.48,197280.88,Monthly,Net Banking,Fiber,4,No
+12991,61,Male,50,2182.68,110323.55,Quarterly,UPI,DSL,14,No
+12992,49,Male,4,3032.66,15063.52,Monthly,Credit Card,Fiber,12,Yes
+12993,68,Female,12,712.96,108653.53,Monthly,UPI,None,14,Yes
+12994,63,Male,18,685.53,178575.36,Yearly,UPI,DSL,10,No
+12995,66,Male,11,1628.59,136317.12,Monthly,Net Banking,None,0,No
+12996,38,Female,47,3603.66,144277.86,Yearly,Net Banking,Fiber,6,No
+12997,52,Female,24,4334.66,17909.0,Monthly,Debit Card,DSL,7,Yes
+12998,49,Female,56,3016.34,22195.82,Quarterly,Net Banking,DSL,11,No
+12999,47,Female,34,2894.6,26342.41,Monthly,Debit Card,Fiber,8,Yes
+13000,56,Female,4,2310.39,180970.99,Monthly,Credit Card,None,12,No
